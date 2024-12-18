@@ -1,24 +1,28 @@
-# Welcome! 
+# Welcome to DMP4NFDI!
 
+<!-- 
 This repository provides a [Hugo](https://gohugo.io/) template for a Base4NFDI basic service website. 
 By default it includes a blog/newsfeed, publications, people in the project and a wiki, but can be customized in any way to your needs.
 In this template, 'TODO' is used as a placeholder in every place you need to fill in your own service information, so you can just search for it, change/fill out every instance and the site should be ready to use.
 
 TODO: insert your service logo
+--> 
 
-![todo](https://github.com/user-attachments/assets/f308fd01-e74c-45ef-a41d-19704095b7fe)
+![todo](https://github.com/base4nfdi/dmp4nfdi/assets/)
 
-# TODO4NFDI
 
-TODO: short intro text about project
+# DMP4NFDI
+
+DMP4NFDI is the central service for managing Data and Software Management Plans across the NFDI. Hosting the open-source tool RDMO, it supports template creation, standardisation, and guidance for consortia. By fostering interoperability and enhancing collaboration, the service streamlines DMP processes and integrates them into the NFDI's research data ecosystem.
+
 
 # Website
-Check out our website (TODO: ADD LINK AFTER PUBLISHING). (_The website is hosted in this repository._)
+Check out our website (https://github.com/base4nfdi/dmp4nfdi). (_The website is hosted in this repository._)
 
-You can also find us [on the Base4NFDI website](https://base4nfdi.de/projects/). (TODO: specify) 
+You can also find us [on the Base4NFDI website](https://base4nfdi.de/projects/dmp4nfdi). 
 
 # License
-This repository and the website content (TODO: ADD LINK AFTER PUBLISHING) are licensed under Creative Commons [CC-BY-SA-4.0 licence](https://creativecommons.org/licenses/by-sa/4.0/).
+This repository and the website content are licensed under Creative Commons [CC-BY-SA-4.0 licence](https://creativecommons.org/licenses/by-sa/4.0/).
 
 # Using this template
 
