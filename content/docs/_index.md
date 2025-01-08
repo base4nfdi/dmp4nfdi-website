@@ -1,5 +1,5 @@
 ---
-title: Documentation
+title: FAQ
 summary: DMP4NFDI FAQs (part of documentation)
 date: 2025-01-07
 type: book
@@ -84,6 +84,6 @@ Incubator projects:
 - Require active collaboration, including providing your specific requirements for the DMP.
 
 **Q: How do we get started?**  
-**Send us an Email!"** 
-(dmp4nfdi_*at*_lists.nfdi.de)
+**Send us an Email!** <br>
+***dmp4nfdi*** ***@*** ***lists.nfdi.de***<br>
 **We’ll explore your needs and goals with you.**
