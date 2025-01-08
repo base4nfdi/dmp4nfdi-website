@@ -7,7 +7,7 @@ sections:
   - block: markdown
     content:
       title: What is DMP4NFDI?
-      subtitle: The basic service for all consortia.
+      subtitle: DMP4NFDI is the basic service for all consortia. We support consortia with DMPs and SMPs.
       text: |
         DMP4NFDI is your centralized solution for creating and managing Data Management Plans (DMPs) and Software Management Plans (SMPs) within the NFDI. As a Basic Service, we address critical gaps in infrastructure by hosting the open-source tool RDMO, enabling consortia to create discipline-specific, standardized, and interoperable templates tailored to their needs.
     design:
