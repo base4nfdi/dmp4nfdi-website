@@ -7,21 +7,21 @@ main:
   - name: About
     url: about
     weight: 10
-  - name: News
-    url: news
-    weight: 20
-  - name: Publications
-    url: publications
-    weight: 30
+  - name: FAQs
+    url: faqs
+    weight: 50
+#  - name: News
+#    url: news
+#    weight: 20
+#  - name: Publications
+#    url: publications
+#    weight: 30
 #  - name: Training Material
 #    url: training-material
 #    weight: 40
 #  - name: Docs
 #    url: docs
 #    weight: 40
-  - name: FAQs
-    url: faqs
-    weight: 50
 #  - name: PID Services/Provider
 #    url: pid-services-provider
 #    weight: 60
