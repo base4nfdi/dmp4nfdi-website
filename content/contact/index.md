@@ -10,7 +10,7 @@ sections:
       title: Contact
       text: |-
         Questions? Suggestions? Something else? We're always glad to hear from you. Drop us a line and we'll respond as soon as possible.
-      email: TODO add your mail
+      email: dmp4nfdi<-@->lists.nfdi.de
       #appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
