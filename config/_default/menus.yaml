@@ -16,21 +16,21 @@ main:
 #  - name: Training Material
 #    url: training-material
 #    weight: 40
-  - name: Docs
-    url: docs
-    weight: 40
+#  - name: Docs
+#    url: docs
+#    weight: 40
   - name: FAQs
     url: faqs
     weight: 50
 #  - name: PID Services/Provider
 #    url: pid-services-provider
 #    weight: 60
-  - name: Events
-    url: event
-    weight: 70
-  - name: People
-    url: people
-    weight: 80
-  - name: Contact
-    url: contact
-    weight: 90
+#  - name: Events
+#    url: event
+#    weight: 70
+#  - name: People
+#    url: people
+#    weight: 80
+#  - name: Contact
+#    url: contact
+#    weight: 90
