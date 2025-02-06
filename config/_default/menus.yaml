@@ -31,6 +31,6 @@ main:
 #  - name: People
 #    url: people
 #    weight: 80
-#  - name: Contact
-#    url: contact
-#    weight: 90
+  - name: Contact
+    url: contact
+    weight: 90
