@@ -17,25 +17,25 @@ sections:
 
       # TODO here also other services could be linked which you provide, e.g. a hub or the documentation
   
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 3
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-        folders:
-          - news
-      offset: 0
-      order: desc
-    design:
-      view: card
-      columns: '1'
+  # - block: collection
+  #   content:
+  #     title: Latest News
+  #     subtitle:
+  #     text:
+  #     count: 3
+  #     filters:
+  #       author: ''
+  #       category: ''
+  #       exclude_featured: false
+  #       publication_type: ''
+  #       tag: ''
+  #       folders:
+  #         - news
+  #     offset: 0
+  #     order: desc
+  #   design:
+  #     view: card
+  #     columns: '1'
 
   #- block: collection
   #  content:
