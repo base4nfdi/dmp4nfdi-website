@@ -37,25 +37,25 @@ sections:
       view: card
       columns: '1'
 
-  - block: collection
-    content:
-      title: Latest Publications
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publications
-        #publication_type: 'article'
-    design:
-      view: list
-      columns: '1'
+  #- block: collection
+  #  content:
+  #    title: Latest Publications
+  #    text: ""
+  #    count: 5
+  #    filters:
+  #      folders:
+  #        - publications
+  #      #publication_type: 'article'
+  #  design:
+  #    view: list
+  #    columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}} {{% cta cta_link="./contact/" cta_text="Contact us →" %}}
-    design:
-      columns: '1'
+ # - block: markdown
+   # content:
+   #   title:
+   #   subtitle:
+   #   text: |
+   #     {{% cta cta_link="./people/" cta_text="Meet the team →" %}} {{% cta cta_link="./contact/" cta_text="Contact us →" %}}
+   # design:
+   #   columns: '1'
 ---
