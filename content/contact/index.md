@@ -48,7 +48,7 @@ sections:
 
         Or contact us by email:
 
-      email: dmp4nfdi<-@->lists.nfdi.de
+      email: dmp4nfdi @ lists.nfdi.de
       #appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
