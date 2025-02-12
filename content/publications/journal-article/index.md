@@ -3,7 +3,7 @@
 
 title: "An example journal article"
 
-draft: false
+draft: true
 
 authors:
 - josiah
