@@ -20,7 +20,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'Our cool Todo4NFDI service'
+    description: 'Our cool DMP4NFDI service'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -59,14 +59,16 @@ footer:
         [What is a Basic Service?](https://base4nfdi.de/process/basic-services)<br>
         [Our Mission Statement](https://base4nfdi.de/about/mission-statement)<br>
         '
-  dfg: ' Todo4NFDI is funded as part of [Base4NFDI](https://base4nfdi.de).<br>
+  dfg: ' DMP4NFDI is funded as part of [Base4NFDI](https://base4nfdi.de).<br>
         Grant number: 521466146. 
         '
+  # ToDo rights statement
+
   copyright:
     notice: '<b>Legal</b><br>
     [Privacy](https://www.base4nfdi.de) | [Legal Note](https://www.base4nfdi.de) <br>
     [Accessibility](https://www.base4nfdi.de)<br> <br>
-    © {year} Todo4NFDI  <br> 
+    © {2025} DMP4NFDI  <br> 
     This work is licensed <br>
     under {license}'
     license:
