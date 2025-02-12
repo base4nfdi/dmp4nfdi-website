@@ -36,7 +36,7 @@ This poster presents the development of the core service to date, initial implem
 
 summary: "Poster of NFDI base service DMP4NFDI."
 
-tags: ["DMP4NFDI", "Poster", "NFDI", "Conference" "RDA-DE"]
+tags: ["DMP4NFDI", "Poster", "NFDI", "Conference", "RDA-DE"]
 
 featured: true
 
