@@ -14,7 +14,7 @@ sections:
         <!-- Put form here as HTML, because the hugo template does not support custom URLs for contact forms.. -->
 
         <div class="mb-3">
-         <form action="https://dmp.nfdiform.techfak.de/create" method="post" target='formres'>
+         <form action="https://dmp.nfdiform.techfak.de/create" method="post">
           <div class="container mt-5">
             <div class="form-group row">
               <label for="subject" class="col-sm-2 col-form-label">Subject:</label>
@@ -43,7 +43,6 @@ sections:
             <button type="submit" class="btn btn-primary col-sm-2 offset-sm-5">Create Ticket</button>
           </div>
         </form> 
-          <iframe id="formres" name="formres" style="height: 3em; width: 100%; border: none;"></iframe>
         </div>
 
         Or contact us by email:
