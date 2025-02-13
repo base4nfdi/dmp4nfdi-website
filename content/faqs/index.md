@@ -27,7 +27,6 @@ Incubator projects:
 **Send us an Email!** 
 ***dmp4nfdi*** ***@*** ***lists.nfdi.de***
 **or use our input from on out contact page**
-{{% cta cta_link="./contact/" cta_text="Contact →" %}}
 
 **We’ll explore your needs and goals with you.**
 
