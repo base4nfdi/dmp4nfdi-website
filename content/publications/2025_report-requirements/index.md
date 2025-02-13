@@ -21,7 +21,6 @@ doi: "10.5281/zenodo.14643349"
 
 # Typ "report" passt, da es ein Report ist. 
 publication_types: ["report"]
-
 publication: "Zenodo"
 publication_short: ""
 

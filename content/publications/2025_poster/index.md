@@ -38,7 +38,7 @@ featured: true
 url_pdf: "https://doi.org/10.5281/zenodo.14833740"
 url_code: ""
 url_dataset: ""
-url_poster: "https://doi.org/10.5281/zenodo.14833740"
+url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
