@@ -24,8 +24,11 @@ Incubator projects:
 - Require active collaboration, including providing your specific requirements for the DMP.
 
 **Q: How do we get started?**  
-**Send us an Email!** <br>
-***dmp4nfdi*** ***@*** ***lists.nfdi.de***<br>
+**Send us an Email!** 
+***dmp4nfdi*** ***@*** ***lists.nfdi.de***
+**or use our input from on out contact page**
+{{% cta cta_link="./contact/" cta_text="Contact →" %}}
+
 **We’ll explore your needs and goals with you.**
 
 
