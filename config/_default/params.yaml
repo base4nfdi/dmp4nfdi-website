@@ -65,17 +65,19 @@ footer:
   # ToDo rights statement 2025 Febr.
 
 copyright:
-    notice: '<b>Legal</b><br>
-    [Privacy](https://www.zbmed.de/en/privacy-policy) | [Legal Note](https://www.zbmed.de/en/legal-notice) <br>
-    [Accessibility](https://www.zbmed.de/en/accessibility-statement)<br> <br>
-    © {2025} DMP4NFDI  <br> 
-    This work is licensed <br>
-    under {license}'
-    license:
-      enable: true
-      allow_derivatives: true
-      share_alike: true
-      allow_commercial: true
+  notice: '<b>Legal</b><br>
+  [Privacy](https://www.zbmed.de/en/privacy-policy) | [Legal Note](https://www.zbmed.de/en/legal-notice) <br>
+  [Accessibility](https://www.zbmed.de/en/accessibility-statement)<br> <br>
+  © {2025} DMP4NFDI  <br> 
+  This work is licensed <br>
+  under {license}'
+
+license:
+  enable: true
+  allow_derivatives: true
+  share_alike: true
+  allow_commercial: true
+
 
 
 
