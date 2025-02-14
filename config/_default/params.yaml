@@ -71,12 +71,11 @@ copyright:
   © {2025} DMP4NFDI  <br> 
   This work is licensed <br>
   under {license}'
-
-license:
-  enable: true
-  allow_derivatives: true
-  share_alike: true
-  allow_commercial: true
+  license:
+    enable: true
+    allow_derivatives: true
+    share_alike: true
+    allow_commercial: true
 
 
 
