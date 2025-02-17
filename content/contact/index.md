@@ -40,12 +40,12 @@ sections:
                   <label for="bl4nk" class="col-sm-2 col-form-label">Bot check:</label>
                   <input type="text" id="bl4nk" name="bl4nk" class="form-control col-sm-10" placeholder="">
               </div>
-            <button type="submit" class="btn btn-primary col-sm-2 offset-sm-5">Create Ticket</button>
+            <button type="submit" class="btn btn-primary col-sm-2 offset-sm-5">Submit Your Request </button>
           </div>
         </form> 
         </div>
 
-        Or contact us by email:
+        Alternatively you can contact us via email:
 
       email: dmp4nfdi @ lists.nfdi.de
       #appointment_url: 'https://calendly.com'
