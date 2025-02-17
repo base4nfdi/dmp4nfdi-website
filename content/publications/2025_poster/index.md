@@ -1,5 +1,5 @@
 ---
-title: "DMP4NFDI - A Central Service for Data/Software Management Plans (1.0)"
+title: "DMP4NFDI - A Central Service for Data/Software Management Plans"
 draft: false
 
 authors:

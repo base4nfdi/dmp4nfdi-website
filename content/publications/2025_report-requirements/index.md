@@ -22,7 +22,7 @@ doi: "10.5281/zenodo.14643349"
 # Typ "report" passt, da es ein Report ist. 
 publication_types: ["report"]
 publication: "Zenodo"
-publication_short: ""
+publication_short: "Report"
 
 abstract: >
   DMP4NFDI is the basic service in development for data management planning 

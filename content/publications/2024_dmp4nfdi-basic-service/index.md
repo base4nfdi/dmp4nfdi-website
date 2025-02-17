@@ -27,7 +27,7 @@ doi: "10.5281/zenodo.13445355"
 # Publication type "report" is appropriate for this content
 publication_types: ["report"]
 publication: "Zenodo"
-publication_short: ""
+publication_short: "Proposal"
 
 abstract: >
   This proposal outlines DMP4NFDI, a centralized Basic Service for NFDI-wide data management plans (DMPs) and software management plans (SMPs), addressing critical gaps in the NFDI infrastructure for their use and application. In addition to centrally hosting the open-source DMP tool RDMO, the service will coordinate template creation, content standardization, and provide guidance through training and support to consortial staff responsible for DMPs. These measures aim to facilitate discipline-specific DMP templates in standardized, machine-readable, and interoperable formats, enhancing communication among stakeholders and services involved in an RDM process, supporting processes like data collection and review.
