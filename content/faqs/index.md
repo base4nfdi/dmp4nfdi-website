@@ -24,9 +24,17 @@ Incubator projects:
 - Require active collaboration, including providing your specific requirements for the DMP.
 
 **Q: How do we get started?**  
-Send us an Email or use our contact form [**See contact →**](/contact/)  
+<!-- Send us an Email or use our contact form see [**Contact**](/contact/)  
 We’ll explore your needs and goals with you.
-
+-->
+<p>
+  Q: How do we get started?<br>
+  Send us an Email or use our contact form
+  <a href="https://dmp.services.base4nfdi.de/contact/" class="btn btn-primary">
+    See contact →
+  </a><br>
+  We’ll explore your needs and goals with you.
+</p>
 
 ## **2. Data Management Plans (DMPs)**
 
