@@ -45,17 +45,17 @@ sections:
         - title: Integration Phase
           company: Second Phase
           location: planned
-          date_start: '2025-05-01'
-          date_end: '2027-04-30'
+          date_start: '2025-07-01'
+          date_end: '2027-06-30'
           description: |
             During the integration phase, we expand our reach by supporting consortia through incubator projects, enhancing template frameworks, and integrating RDMO with other tools and services to ensure interoperability.
-        - title: Ramp-up Phase
-          company: Third Phase
-          location: planned
-          date_start: '2027-05-01'
-          date_end: '2029-04-30'
-          description: |
-            The ramp-up phase will scale the service further, fostering widespread adoption of DMPs and SMPs across consortia while ensuring sustainability through community-driven training and support.
+    #    - title: Ramp-up Phase
+    #      company: Third Phase
+    #      location: planned
+    #      date_start: '2027-07-01'
+    #      date_end: '2029-06-30'
+    #      description: |
+    #        The ramp-up phase will scale the service further, fostering widespread adoption of DMPs and SMPs across consortia while ensuring sustainability through community-driven training and support.
     design:
       columns: '1'
 ---
