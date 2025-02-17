@@ -1,12 +1,10 @@
 ---
-title: FAQs
+title: DMP4NFDI FAQs
 summary: DMP4NFDI FAQs (part of documentation)
 date: 2025-01-07
 type: book
 
 ---    
-
-# **DMP4NFDI - FAQs**
 
 
 ## **1. Getting Started with DMP4NFDI**
