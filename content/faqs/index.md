@@ -1,5 +1,5 @@
 ---
-title: DMP4NFDI FAQs
+title: FAQs
 summary: DMP4NFDI FAQs (part of documentation)
 date: 2025-01-07
 type: book
