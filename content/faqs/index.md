@@ -24,7 +24,7 @@ Incubator projects:
 - Require active collaboration, including providing your specific requirements for the DMP.
 
 **Q: How do we get started?**  
-Send us an Email or use our contact form [**See contact →**](../contact/)  
+Send us an Email or use our contact form [**See contact →**](/contact/)  
 We’ll explore your needs and goals with you.
 
 
