@@ -1,45 +1,49 @@
 ---
-title: "infra-dmp & DMP4NFDI (12. RDMO Community-Treffen)"
+title: "Services Roadshow by Base4NFDI - DMP4NFDI"
 draft: false
 
 authors:
+  - "Gonzalez-Ocanto, M."
   - "Windeck, J."
   - "Diederichs, K."
   - "Schönau, S."
+  - "Wallace, D." 
 
 author_notes: []
 
 # Publication date
-date: "2024-10-08T00:00:00Z"
+date: "2024-01-01T00:00:00Z"
 
 # Date on which this page gets published
-publishDate: "2024-10-08T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 doi: ""
 
 # Use "paper-conference" for a conference/talk
 publication_types: ["paper-conference"]
-publication: "12. RDMO Community-Treffen"
-publication_short: "Presentation"
+publication: "Base4NFDI Services Roadshow"
+publication_short: "Presentation Video"
 
 abstract: >
-  This presentation, given at the 12th RDMO Community Meeting, 
-  highlights the work of NFDI section infra-dmp and NFDI base service DMP4NFDI. 
+  As part of the Base4NFDI Services Roadshow, 
+  this presentation showcases DMP4NFDI, highlighting its 
+  RDMO hosting, DMP template framework, and planned expansions 
+  as a Basic Service. The recording of the presentation is presented as a youtube video.
 
-summary: "Talk about infra-dmp and DMP4NFDI at the 12th RDMO Community Meeting."
+summary: "Base4NFDI Roadshow session on DMP4NFDI."
 
-tags: ["infra-dmp", "DMP4NFDI", "RDMO", "Conference"]
+tags: ["DMP4NFDI", "Base4NFDI", "Roadshow", "Conference", "Presentation"]
 
 featured: true
 
-url_pdf: "https://www.forschungsdaten.org/index.php/Datei:2024-10-08-infra-dmp-DMP4NFDI.pdf"
+url_pdf: ""
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=Gw5qoD-sCxc"
 
 # Optional Preview Image
 image:
