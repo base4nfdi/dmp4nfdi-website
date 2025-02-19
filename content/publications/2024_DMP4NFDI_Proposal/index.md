@@ -57,7 +57,6 @@ image:
 projects:
   - example
   
-bibliography: "cite.bib"
 
 # Optional if slides deck
 slides: ""
