@@ -3,7 +3,7 @@ title: "infra-dmp & DMP4NFDI (12. RDMO Community-Treffen)"
 draft: false
 
 authors:
-  - "Windeck, J."
+  - "Windeck, Jürgen"
   - "Diederichs, K."
   - "Schönau, S."
 
@@ -20,7 +20,7 @@ doi: ""
 # Use "paper-conference" for a conference/talk
 publication_types: ["paper-conference"]
 publication: "12. RDMO Community-Treffen"
-publication_short: "Presentation"
+publication_short: "Conference"
 
 abstract: >
   This presentation, given at the 12th RDMO Community Meeting, 
