@@ -1,5 +1,5 @@
 ---
-title: RDMO How To for a catalog deveopement
+title: RDMO How To (create a catalog)
 date: 2024-07-24
 type: book
 ---    

@@ -1,16 +1,10 @@
 ---
-title: RDMO Documentation
+title: DMP4NFDI Documentation
 summary: DMP4NFDI documentation
 date: 2024-07-24
 type: book
 ---
 
-# Embedded RDMO Information and Documentation
+# DMP4NFDI Documentation
 
-Below you see an embedded page from the RDMO main page with informations, documentation, FAQs, How-Tos, etc.   
-Scroll within the frame to read the content, or visit the original source at 
-<a href="https://rdmo.readthedocs.io/en/latest/index.html">
-this link</a>.
-
-
-{{< embediframe src="https://rdmo.readthedocs.io/en/latest/index.html" height="1000px" >}}
+The usage documentation for the DMP4NFDI service is currently under construction and will be available soon. However, pages with the RDMO documentation and a RDMO how-to guide are already available, see in the side menu. 
