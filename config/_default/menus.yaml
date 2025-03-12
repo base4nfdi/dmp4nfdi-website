@@ -19,9 +19,9 @@ main:
 #  - name: Training Material
 #    url: training-material
 #    weight: 40
-#  - name: Docs
-#    url: docs
-#    weight: 40
+  - name: Documentations
+    url: docs
+    weight: 40
 #  - name: PID Services/Provider
 #    url: pid-services-provider
 #    weight: 60
