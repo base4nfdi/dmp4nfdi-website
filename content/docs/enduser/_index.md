@@ -1,13 +1,12 @@
 ---
-title: Enduser Documentation
+title: RDMO How To for a catalog deveopement
 date: 2024-07-24
 type: book
 ---    
 
-# Embedded RDMO "How To" for catalog development
+# RDMO "How To guide" for catalog development
 
-Below you see an embedded page from the RDMO Documentation with a "How To" for catalog development.  
-Scroll within the frame to read the content, or visit the original source at 
+Below, you will see an embedded page from the RDMO Documentation that provides a 'How To' guide for catalog development. Scroll within the frame to read the content, or visit the original source at 
 <a href="https://rdmo.readthedocs.io/en/latest/management/catalog-development.html">
 this link</a>.
 
