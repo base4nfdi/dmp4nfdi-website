@@ -1,7 +1,7 @@
-title: 
-summary: 
-date: 
-type: 
+#title: Documentation
+#summary: DMP4NFDI documentation
+#date: 2024-07-24
+#type: book
 ---
 
 
