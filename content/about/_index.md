@@ -17,7 +17,7 @@ sections:
     content:
       title: And what are the details?
       text: |
-        We work closely with consortia to:
+        We work closely with consortia to
           - Develop DMP/SMP templates that streamline data workflows across projects.
           - Train consortia staff to support their communities in using the DMP/SMP-Tool RDMO effectively.
           - Facilitate integrations with other tools and services in the research data ecosystem of the NFDI.
