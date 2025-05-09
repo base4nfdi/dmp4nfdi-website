@@ -5,7 +5,7 @@ date: 2025-05-09
 type: landing
 ---
 
-# Set up your DMP service
+# Set up your DMP service 
 
 DMP4NFDI supports consortia in providing a DMP service to their community. For onboarding new consortia we hold a regular call for incubator projects.  
 [Learn about the next call for incubators](#next-call-for-incubators)
