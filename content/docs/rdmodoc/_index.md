@@ -8,11 +8,8 @@ type: book
 <!-- ## Linked RDMO Information and Documentation -->
 
 
-Below you’ll find four section headings—**RDMO Documentation**, **DMP Template Management**, **RDMO FAQs**, and **How To: Template Creation**. 
-Clicking on the link below the heading will take you straight to the corresponding page on the official RDMO Read-The-Docs site.
-
-Each section provides a concise overview of key RDMO resources:
-Feel free to browse directly via the links below. 
+Below you'll find section headings, each of which provides a concise overview of key RDMO resources: 
+Feel free to browse directly via the links below. They will take you straight to the corresponding page on the official RDMO Read-The-Docs site.  
 
 ## RDMO Documentation
 - **RDMO Documentation** gives you a complete introduction to RDMO’s features, configuration options, and user interface walkthroughs.  
