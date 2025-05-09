@@ -4,13 +4,20 @@ summary: DMP4NFDI documentation
 date: 2024-07-24
 type: book
 ---
-<!--Erst wenn es mehr Punkte gibt, headings nutzen, die dann rechts im Menu stehen -->
-<!-- ## Embedded RDMO Information and Documentation -->
-
-Below you see an embedded page from the RDMO main page with informations, documentation, FAQs, How-Tos, etc.   
-Scroll within the frame to read the content, or visit the original source at 
-<a href="https://rdmo.readthedocs.io/en/latest/index.html">
-this link</a>.
+<!-- wenn es mehr Punkte gibt, headings nutzen, die dann rechts im Menu stehen -->
+<!-- ## Linked RDMO Information and Documentation -->
 
 
-{{< embediframe src="https://rdmo.readthedocs.io/en/latest/index.html" height="1000px" >}}
+Below you’ll find four section headings linking to the official RDMO pages —**RDMO Documentation**, **DMP Template Management**, **RDMO FAQs**, and **How To: Template Creation**. 
+
+## RDMO Documentation
+[View full RDMO documentation](https://rdmo.readthedocs.io/en/latest/)
+ 
+## RDMO – DMP Template Management
+[Manage your DMP templates](https://rdmo.readthedocs.io/en/latest/management/index.html)
+
+## RDMO – FAQs
+[Read the RDMO FAQs](https://rdmo.readthedocs.io/en/latest/faq/index.html)
+
+## RDMO – How To: Template Creation
+[Learn how to create a catalog/template](https://rdmo.readthedocs.io/en/latest/management/catalog-development.html)
