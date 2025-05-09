@@ -8,4 +8,4 @@ type: book
 <!--Erst wenn es mehr Punkte gibt, headings nutzen, die dann rechts im Menu stehen -->
 <!-- ## DMP4NFDI Documentation -->
 
-The usage documentation for the DMP4NFDI service is currently under construction and will be available soon. However, pages with the RDMO documentation and a RDMO how-to guide are already available, see in the side menu. 
+The usage documentation for the DMP4NFDI service is currently under construction and will be available soon. However, information on the RDMO documentation and e.g. a RDMO how-to guide are already available, see in the side menu. 
