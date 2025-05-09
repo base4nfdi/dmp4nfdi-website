@@ -1,8 +1,8 @@
 ---
-title: "Incubator Projects"
-summary: "Call for incubator projects and how to join"
-date: 2025-05-09
-type: landing
+title: Incubator Projects
+summary: Call for incubator projects and how to join
+date: 2025-01-07
+type: book
 ---
 
 # Set up your DMP service 
