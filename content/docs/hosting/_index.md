@@ -24,7 +24,7 @@ For each tenant adjustments can be made to
 <style>
 .hosting-grid { 
   display: grid; 
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); 
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); 
   gap: 1rem; 
   margin: 1rem 0;
 }
