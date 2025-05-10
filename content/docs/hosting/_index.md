@@ -49,7 +49,7 @@ For each tenant adjustments can be made to
 }
 </style>
 
-<div class="hosting-grid">
+<!-- <div class="hosting-grid">
   <div class="hosting-tile">
     <img src="/images/rdmo-nfdi4ing.png" alt="NFDI4ING RDMO">
     <a href="https://rdmo.nfdi4ing.de">NFDI4ING</a>
@@ -66,8 +66,34 @@ For each tenant adjustments can be made to
     <img src="/images/rdmo-fairagro.png" alt="FAIRagro RDMO">
     <a href="https://rdmo.fairagro.net/">FAIRagro</a>
   </div>
-</div>
+</div> -->
 
+<div class="hosting-grid">
+  <div class="hosting-tile">
+    <a href="https://rdmo.nfdi4ing.de">
+      <img src="/images/rdmo-nfdi4ing.png" alt="NFDI4ING RDMO">
+    </a>
+    <strong>NFDI4ING</strong>
+  </div>
+  <div class="hosting-tile">
+    <a href="https://rdmo.nfdi4culture.de/">
+      <img src="/images/rdmo-nfdi4culture.png" alt="NFDI4Culture RDMO">
+    </a>
+    <strong>NFDI4Culture</strong>
+  </div>
+  <div class="hosting-tile">
+    <a href="https://rdmo.nfdi4chem.de/">
+      <img src="/images/rdmo-nfdi4chem.png" alt="NFDI4Chem RDMO">
+    </a>
+    <strong>NFDI4Chem</strong>
+  </div>
+  <div class="hosting-tile">
+    <a href="https://rdmo.fairagro.net/">
+      <img src="/images/rdmo-fairagro.png" alt="FAIRagro RDMO">
+    </a>
+    <strong>FAIRagro</strong>
+  </div>
+</div>
 
 ## How to get started?
 
