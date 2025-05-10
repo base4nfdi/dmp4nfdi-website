@@ -19,7 +19,7 @@ For each tenant adjustments can be made to
 - **Usage rights** (define editors and managers)  
 - **Plugins & integrations** with other services of your consortium
 
-## Examples
+## Examples of already integrated consortium RDMO tenants
 
 <style>
 .hosting-grid { 
