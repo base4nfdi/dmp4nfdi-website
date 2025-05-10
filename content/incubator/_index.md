@@ -26,7 +26,7 @@ Our first call for incubators opens on **Nov 15, 2025**. We will publish a plann
 
 <!-- Our next call for incubators opens on **TO DO **. We will publish a planning template once the call begins.--> 
 
-Please reach out in advance to discuss your ideas: [Contact us](/contact/)
+Please reach out in advance to discuss your ideas: [Contact us](/contact/)!
 
 Send your submissions (PDF) to **[dmp4nfdni@lists.nfdi.de](mailto:dmp4nfdni@lists.nfdi.de)**.  
 **Deadline:** Dec 2, 2025.  
