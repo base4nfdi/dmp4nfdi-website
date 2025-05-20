@@ -7,9 +7,6 @@ main:
   - name: About
     url: about
     weight: 10
-  - name: FAQs
-    url: faqs
-    weight: 50
 #  - name: News
 #    url: news
 #    weight: 20
