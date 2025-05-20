@@ -2,7 +2,7 @@
 title: Incubator Projects
 summary: Call for incubator projects and how to join
 date: 2025-01-07
-type: landing
+type: page
 ---
 
 # Set up your DMP service 
