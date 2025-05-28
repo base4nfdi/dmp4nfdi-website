@@ -13,10 +13,10 @@ In this template, 'TODO' is used as a placeholder in every place you need to fil
 DMP4NFDI is the central service for managing Data and Software Management Plans across the NFDI. Hosting the open-source tool RDMO, it supports template creation, standardisation, and guidance for consortia. By fostering interoperability and enhancing collaboration, the service streamlines DMP processes and integrates them into the NFDI's research data ecosystem.
 
 # Website
-Check out our website [dmp.services.base4nfdi.de](https://dmp.services.base4nfdi.de/)). (_The website is hosted in this repository._)
+Check out our website [dmp.services.base4nfdi.de](https://dmp.services.base4nfdi.de/). (_The website is hosted in this repository._)
 <!-- https://dmp.services.base4nfdi.de/--> 
 
-You can also find our service also [on the Base4NFDI website](https://base4nfdi.de/projects/). 
+You can also find infos on our service  [on the Base4NFDI website](https://base4nfdi.de/projects/). 
 
 # License
 This repository and the website content [dmp.services.base4nfdi.de](https://dmp.services.base4nfdi.de/) are licensed under Creative Commons [CC-BY-SA-4.0 licence](https://creativecommons.org/licenses/by-sa/4.0/).
