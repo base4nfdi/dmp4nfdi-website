@@ -13,15 +13,20 @@ author_notes: []
 
 date: "2025-06-30T00:00:00Z"
 doi: "10.5281/zenodo.15771035"
-publishDate: "2025-06-30T00:00:00Z"
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2025-07-01T00:00:00Z"
 
 # If it's not a paper or conference item, you can adapt the type. For a general doc, "misc" often works.
 publication_types: ["Project deliverable"]
+
+# Publication name and optional abbreviated publication name.
 publication: "Zenodo"
 publication_short: "TtT concept"
 
 abstract: "The DMP4NFDI Train-the-Trainer concept on Data Management Plans (DMPs) and RDMO is part of our mission to support the National Research Data Infrastructure (NFDI) by offering consortia-oriented, reusable training formats. These trainings aim to foster the creation and use of DMPs and SMPs across the NFDI, with RDMO as the central tool. This first version is based on an extensive requirement analysis carried out during the first project phase."
 
+# Summary. An optional shortened abstract.
 summary: "Modular train-the-trainer approach for DMPs and RDMO that supports learners at different levels of expertise"
 
 tags: ["DMP4NFDI", "Train-the-Trainer", "DMP", "RDMO", "NFDI", "Base4NFDI"]
@@ -37,8 +42,10 @@ url_slides: ""
 url_source: ""
 url_video: ""
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ""
+  caption: "Preview Image"
   focal_point: ""
   preview_only: false
 
