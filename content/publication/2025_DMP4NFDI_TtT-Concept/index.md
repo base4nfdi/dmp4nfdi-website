@@ -32,6 +32,7 @@ summary: "Modular train-the-trainer approach for DMPs and RDMO that supports lea
 tags: ["DMP4NFDI", "Train-the-Trainer", "DMP", "RDMO", "NFDI", "Base4NFDI"]
 
 featured: true
+featured_image: "featured.png"
 
 url_pdf: "https://doi.org/10.5281/zenodo.15771036"
 url_code: ""
@@ -44,7 +45,7 @@ url_video: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
- 
+
 #image:
 #  caption: "Preview Image"
 #  focal_point: ""
