@@ -17,7 +17,9 @@ doi: "10.5281/zenodo.15771035"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-07-01T00:00:00Z"
 
-# If it's not a paper or conference item, you can adapt the type. For a general doc, "misc" often works.
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
 publication_types: ["report"]
 
 # Publication name and optional abbreviated publication name.
@@ -32,8 +34,10 @@ summary: "Modular train-the-trainer approach for DMPs and RDMO that supports lea
 tags: ["DMP4NFDI", "Train-the-Trainer", "DMP", "RDMO", "NFDI", "Base4NFDI"]
 
 featured: true
-featured_image: "featured.png"
 
+# links:
+# - name: ""
+#   url: ""
 url_pdf: "https://doi.org/10.5281/zenodo.15771036"
 url_code: ""
 url_dataset: ""
@@ -43,18 +47,20 @@ url_slides: ""
 url_source: ""
 url_video: ""
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-
-#image:
-#  caption: "Preview Image"
-#  focal_point: ""
-#  preview_only: false
+# Optional Preview Image
+image:
+  caption: "Preview Image"
+  focal_point: ""
+  preview_only: false
 
 projects:
   - example
+  
 
-slides: example
+# Optional if slides deck
+slides: ""
+
+slides: ""
 ---
 
 {{% callout note %}}
