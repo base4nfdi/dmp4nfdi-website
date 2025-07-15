@@ -18,7 +18,7 @@ doi: "10.5281/zenodo.15771035"
 publishDate: "2025-07-01T00:00:00Z"
 
 # If it's not a paper or conference item, you can adapt the type. For a general doc, "misc" often works.
-publication_types: ["Project deliverable"]
+publication_types: ["report"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Zenodo"
