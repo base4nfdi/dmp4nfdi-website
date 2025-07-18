@@ -6,7 +6,7 @@ type: book
 
 ---
 
-We offer you Train-the-Trainer (TtT) workshops and support with training activities to raise awareness and promote adoption of the use of DMPs, SMPs and RDMO within your NFDI consortium.
+We offer Train-the-Trainer (TtT) workshops and tailored support to help you design and deliver effective training activities. Our goal is to support you in raising awareness and promoting the adoption of DMPs, SMPs, and RDMO within your NFDI consortium.
 
 ## TtT concept 
 
@@ -36,7 +36,7 @@ We hold regular calls to onboard new consortia. See our information on [Incubato
 
 In our [Service Cooperation Model](https://doi.org/10.5281/zenodo.15004953) we describe in detail what you need to provide in order to implement the service for your consortium. 
 
-To ensure effective adoption, your consortium takes the lead in training activities for DMPs, SMPs and the use of RDMO. We strongly recommend providing a community-specific DMP template and integrating RDMO by connecting it to other services in your service portfolio. 
+To ensure effective adoption, your consortium takes the lead in training activities for DMPs, SMPs and the use of RDMO. We strongly recommend providing a community-specific DMP or SMP template, and integrating RDMO by connecting it to other services in your service portfolio. 
 
 Feel free to get in touch with us to discuss how we can help: [Contact us](/contact/).  
 
