@@ -37,14 +37,14 @@ sections:
       items:
         - title: Initialisation Phase
           company: First Phase
-          location: current
+          location: completed
           date_start: '2024-05-01'
-          date_end: ''
+          date_end: '2025-06-30'
           description: |
             In the initialisation phase, we laid the foundation for the service by hosting RDMO and collaborating with consortia to create first discipline-specific DMP templates. We gathered feedback from early adopters to refine our offerings, we started developing the NFDI Template Framework to standardize DMP/SMP creation and enable machine actionability.
         - title: Integration Phase
           company: Second Phase
-          location: planned
+          location: current
           date_start: '2025-07-01'
           date_end: '2027-06-30'
           description: |
