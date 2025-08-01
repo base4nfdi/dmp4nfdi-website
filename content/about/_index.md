@@ -46,7 +46,7 @@ sections:
           company: Second Phase
           location: current
           date_start: '2025-07-01'
-          date_end: '2027-06-30'
+          date_end: ''
           description: |
             During the integration phase, we expand our reach by supporting consortia through incubator projects, enhancing template frameworks, and integrating RDMO with other tools and services to ensure interoperability.
     #    - title: Ramp-up Phase
