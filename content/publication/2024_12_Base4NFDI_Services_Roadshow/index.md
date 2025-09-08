@@ -20,7 +20,7 @@ publishDate: "2024-12-11T00:00:00Z"
 doi: ""
 
 # Use "paper-conference" for a conference/talk
-publication_types: ["motion_picture"]
+publication_types: ["paper-conference"]
 publication: "Base4NFDI Services Roadshow"
 publication_short: "Presentation Video"
 
@@ -36,7 +36,7 @@ tags: ["DMP4NFDI", "Base4NFDI", "Roadshow", "Conference", "Presentation"]
 
 featured: true
 
-url_pdf: ""
+url_pdf: "https://base4nfdi.de/images/documents/Roadshow_2024/Roadshow_Presentation_DMP4NFDI.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
