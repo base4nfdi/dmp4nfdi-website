@@ -1,6 +1,5 @@
 ---
 title: "Standardising Data Management Plans for Machine-Actionable Data Management across NFDI and beyond"
-
 draft: false
 
 # Authors
