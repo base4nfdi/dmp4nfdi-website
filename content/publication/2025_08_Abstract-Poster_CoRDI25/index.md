@@ -1,5 +1,5 @@
 ---
-title: 'Standardising Data Management Plans for Machine-Actionable Data Management across NFDI and beyond'
+title: "Standardising Data Management Plans for Machine-Actionable Data Management across NFDI and beyond"
 
 draft: false
 
@@ -17,17 +17,17 @@ authors:
 author_notes: []
 
 # Publication date
-date: '2025-08-04T00:00:00Z'
+date: "2025-08-04T00:00:00Z"
 
-doi: '10.5281/zenodo.16736035'
+doi: "10.5281/zenodo.16736035"
 
 # Date on which this page gets published
-publishDate: '2025-08-04T00:00:00Z'
+publishDate: "2025-08-04T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard: https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
-publication_types: ['paper-conference']
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Zenodo"
@@ -38,7 +38,7 @@ abstract: "The NFDI basic service in development DMP4NFDI works towards the deve
 # Summary. An optional shortened abstract.
 summary:  "The NFDI basic service in development DMP4NFDI works towards the development of a NFDI-wide standard for DMPs, the NFDI DMP Template Framework, and providing a common tool connecting consortia and their RDM services: RDMO."
 
-tags: []
+tags: ["DMP4NFDI", "RDMO", "machine-actionable", "Data Management Plans", "maDMP", "Base4NFDI"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -48,20 +48,20 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi.org/10.5281/zenodo.16736035'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: "https://doi.org/10.5281/zenodo.16736035"
+url_code: ""
+url_dataset: "" 
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: "Preview Image"
-  focal_point: ''
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
