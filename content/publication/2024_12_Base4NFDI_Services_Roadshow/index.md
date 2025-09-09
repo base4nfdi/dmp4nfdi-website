@@ -20,7 +20,7 @@ publishDate: "2024-12-11T00:00:00Z"
 doi: ""
 
 # Use "paper-conference" for a conference/talk
-publication_types: ["speech"]
+publication_types: ["paper-conference"]
 publication: "Base4NFDI Services Roadshow"
 publication_short: "Presentation Video"
 
