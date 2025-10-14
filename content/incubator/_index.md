@@ -8,7 +8,8 @@ type: page
 # Set up your DMP service 
 
 DMP4NFDI supports consortia in providing a DMP service to their community. For onboarding new consortia we hold a regular call for incubator projects.  
-[Learn about the next call for incubators](#next-call-for-incubators)
+
+<!-- [Learn about the next call for incubators](#next-call-for-incubators) -->
 
 An incubator project is a short-term engagement (3–6 months) with a clearly defined goal. Typical focus areas include:
 
@@ -22,11 +23,12 @@ An incubator project is a short-term engagement (3–6 months) with a clearly de
 ## Next call for incubators
 
 **Nov 2025**  
-Our first call for incubators opens on **Nov 15, 2025**. We will publish a planning template once the call begins.
+Our first call for incubators opens on **Nov 17, 2025**. We will publish a planning template once the call begins.
 
-<!-- Our next call for incubators opens on **TO DO **. We will publish a planning template once the call begins.--> 
 
-Please reach out in advance to discuss your ideas: [Contact us](/contact/)!
+Do you already have ideas for an incubator? Please reach out in advance to discuss them: [Contact us](/contact/)!
 
+<!--
 Send your submissions (PDF) to **[dmp4nfdi@lists.nfdi.de](mailto:dmp4nfdi@lists.nfdi.de)**.  
 **Deadline:** Dec 2, 2025.  
+-->
