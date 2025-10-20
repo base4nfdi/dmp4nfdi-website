@@ -13,10 +13,10 @@ sections:
         <div style="text-align:center;">
         <p>DMP4NFDI supports NFDI consortia by providing services aligned to Data and Software Management Plans:</p>
 
-         **[RDMO hosting](#hosting)**  
-         **[DMP/SMP template development](#template)**  
-         **[Training and community outreach support](#training-outreach)**  
-         **[Integration with other consortium services via plugins](#rdmo-integration)** 
+         **[RDMO hosting for consortia](#hosting)**  
+         **[DMP & SMP template development](#template)**  
+         **[Train-the-Trainer & Community Outreach](#training-outreach)**  
+         **[RDMO integration with NFDI service portfolio](#rdmo-integration)** 
 
         </div>
     design:
@@ -37,7 +37,7 @@ sections:
   - block: markdown
     id: template
     content:
-      title: Template Development
+      title: DMP & SMP template development
       text: |
         We provide advice and support to consortia in using RDMO for the creation of catalogs, tailoring them to the needs of their communities, and aligning them with the developed NFDI DMP Template.
     design:
