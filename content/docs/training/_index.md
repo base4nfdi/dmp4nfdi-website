@@ -3,6 +3,7 @@ title: Training & Capacity Building
 summary: DMP4NFDI documentations
 date: 2024-07-24
 type: book
+draft: true
 
 ---
 
