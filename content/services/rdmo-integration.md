@@ -40,6 +40,8 @@ If your consortium already provides services or APIs, such as repositories, regi
 
 An incubator project is a short-term engagement (3–6 months) with a clearly defined goal. We hold regular calls to onboard new consortia. 
 
+Before submitting a proposal for service integration, please [contact us](/contact/) to discuss feasibility.
+
 Learn the details on [→ Incubator Projects](/incubator/).
 
 ### What your consortium needs to provide
