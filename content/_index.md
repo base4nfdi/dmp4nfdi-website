@@ -61,7 +61,7 @@ sections:
     id: training-outreach
     content:
       title: Train-the-Trainer & Community Outreach 
-      text: 
+      text:  |
         We offer Train-the-Trainer workshops on DMPs and RDMO, along with comprehensive training materials and tailored support to help you design and deliver effective training activities. In addition, we support community outreach to raise awareness and promote the adoption of DMPs, SMPs, and RDMO within your NFDI consortium.
 
         [Read more →](/services/training-outreach/)
@@ -72,7 +72,7 @@ sections:
     id: rdmo-integration
     content:
       title: RDMO Integration with NFDI Service Portfolio
-      text: 
+      text:  |
         RDMO can connect seamlessly with many tools your consortium already uses, such as repositories, registries, or helpdesks. We provide integration support and help you link these systems with RDMO via API.
         
         [Read more →](/services/rdmo-integration/) 
