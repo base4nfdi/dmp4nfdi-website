@@ -6,11 +6,11 @@ type: page
 
 ---
 
-We support the integration of RDMO with other tools and services. RDMO provides a REST API and a flexible plugin architecture that enables dynamic database queries and the exchange of information between RDMO and other web services.
+We support the integration of RDMO with other tools and services. RDMO provides a REST API and a plugin architecture that enables flexible integration with other web services. It allows for a dynamic exchange of information to and from RDMO. 
 
 ## What do we offer?
 
-We support the integration of RDMO with other tools and services. This may include services provided by your consortium or other web services that are relevant to your community and available via API. 
+We support the integration of RDMO with other tools and services. These may include services provided by your consortium or other web services that are relevant to your community and available via API. 
 
 Our Services include:
 
@@ -25,7 +25,7 @@ RDMO can connect directly to many tools your consortium already uses. Here are s
 - **Use your own databases**: connect RDMO to community-specific resources (e.g. instrument, sensor, or vocabulary databases) to fill in metadata automatically
 - **Add person information via ORCID**: Search ORCID from within RDMO and add researcher IDs and affiliations directly to the plan
 - **Connect with OpenProject or GitLab**: Sync tasks between RDMO and your project management system
-- **Publish directly to Zenodo or other repositories**: When a project is ready to share data or software, RDMO can automatically create a Zenodo record with metadata and links from your DMP
+- **Publish directly to Zenodo/Invenio or other repositories**: When a project is ready to share data or software, RDMO can automatically create a Zenodo record with metadata and links from your DMP
 - **Fetch information from GitHub**: Import project or software details (title, description, contributors) into RDMO automatically from existing GitHub repositories
 - **Enhance workflows with custom features**: Generate usage statistics or enable AI-assisted help via chatbot plugin
 
