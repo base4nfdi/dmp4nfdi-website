@@ -28,9 +28,9 @@ sections:
       title: RDMO Hosting for Consortia
       # subtitle:
       text: |
-        We offer to host RDMO for your NFDI consortium. DMP4NFDI hosts a multi-tenant RDMO instance. This makes it possible to add customised RDMO clients for each NFDI consortium, while still enabling the exchange of DMP templates and modules between the consortia.
+        We provide RDMO hosting for NFDI consortia through a multi-tenant RDMO instance. This setup allows each consortium to have a customised RDMO client, while still enabling the exchange of DMP templates and modules across the NFDI.
 
-        [Read more →](/docs/hosting/) 
+        [Read more →](/services/rdmo-hosting/) 
     design:
       columns: '2'
 
@@ -39,7 +39,9 @@ sections:
     content:
       title: DMP & SMP template development
       text: |
-        We provide advice and support to consortia in using RDMO for the creation of catalogs, tailoring them to the needs of their communities, and aligning them with the developed NFDI DMP Template.
+        We provide guidance and support to NFDI consortia in using RDMO to create and customise catalogs and templates that meet their community’s specific needs and align with the NFDI DMP Template.
+
+        [Read more →](/services/template-development/) 
     design:
       columns: '2'
 
@@ -48,16 +50,9 @@ sections:
     content:
       title: Train-the-Trainer & Community Outreach 
       text: 
-        We offer Train-the-Trainer workshops focused on DMPs and RDMO, along with comprehensive training materials and tailored support to help you design and deliver effective training activities.
+        We offer Train-the-Trainer workshops on DMPs and RDMO, along with comprehensive training materials and tailored support to help you design and deliver effective training activities. In addition, we support community outreach to raise awareness and promote the adoption of DMPs, SMPs, and RDMO within your NFDI consortium.
 
-        
-        [Read more about Training & Capacity Building →](/docs/training/)
-
-        
-        In addition, we provide community outreach support to raise awareness and promote the adoption and use of DMPs, SMPs, and RDMO within your NFDI consortium.
-
-        
-        [Read more about Community Outreach →](/docs/outreach/)
+        [Read more →](/services/training-outreach/)
     design:
       columns: '2'
 
@@ -66,7 +61,9 @@ sections:
     content:
       title: RDMO Integration with NFDI Service Portfolio
       text: 
-        We support the integration of RDMO with other tools and services provided by the NFDI or your NFDI consortium.
+        RDMO can connect seamlessly with many tools your consortium already uses, such as repositories, registries, or helpdesks. We provide integration support and help you link these systems with RDMO via API.
+        
+        [Read more →](/services/rdmo-integration/) 
     design:
       columns: '2'
 ---
