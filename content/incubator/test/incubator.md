@@ -3,7 +3,11 @@ title: Incubator Projects
 summary: Call for incubator projects and how to join
 date: 2025-01-07
 type: landing
-draft: true
+
+_build:
+  list: never
+  publishResources: true
+  render: always
 
 sections:
   - block: markdown
