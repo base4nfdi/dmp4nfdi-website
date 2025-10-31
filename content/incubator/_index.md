@@ -129,27 +129,27 @@ sections:
             <img src="/images/nfdi4memory_logo.png" alt="NFDI4Memory Logo">
             <h2>Template Development</h2>
             <h5>Goal:</h5><p>NFDI4Memory is developing a discipline-specific DMP template to support the historical research community in their application process. The questionnaire is being continually refined in close collaboration with the community. In this incubator project, the template is developed based on the existing NFDI DMP Template Framework, while adapting and extending results from the community. The project also includes the integration of the new template into the NFDI4Memory RDMO client.</p>
-            <h5>Duration:</h5><p>July 2025 - Dec 2025</p>
+            <h5>Duration:</h5><p>July 2025 - December 2025</p>
           </div>      
                     <div class="usecase-card" data-service="Template Development">
             <img src="/images/nfdi4objects_nfdi4culture_logo.png" alt="NFDI4Objects and NFDI4Culture Logo">
             <h2>Template Development</h2>
             <h5>Goal:</h5><p>A DMP template has been developed to support museums and collection institutions in operationalising the FAIR principles. The template integrates several perspectives and offers a low-threshold option for FAIR quality assessment of collection data. The questions are assigned to four typical processing phases: digitisation, documentation, provision, and storage/archiving. Within these categories, many questions are assigned to indicators from the FAIR Data Maturity Model. Valid answer options, recommendations for action, help texts, notes, and links to useful materials are included. This incubator project aims to create a template that illustrates the different levels of FAIRness implementation, while also providing institutions with a roadmap and monitoring tool to improve the quality of their data.</p>
-            <h5>Duration:</h5><p>July 2025 - Dec 2025</p>
+            <h5>Duration:</h5><p>July 2025 - December 2025</p>
           </div>
 
           <div class="usecase-card" data-service="Template Development">
             <img src="/images/fairagro_logo.png" alt="FAIRagro Logo">
             <h2>Template Development</h2>
             <h5>Goal:</h5><p>FAIRagro customises DMP templates of funding agencies based on the needs of the agrosystem community for efficient and straight forward usage. The close cooperation with DMP4NFDI will ensure the compatibility and reusability of the developments. During the incubator project, a customised DMP template for the agrosystem sciences will be created and made available, based on community feedback (e.g. through workshops) and aligned with the existing NFDI DMP Template Framework.</p>
-            <h5>Duration:</h5><p>July 2025 - Dec 2025</p>
+            <h5>Duration:</h5><p>July 2025 - December 2025</p>
           </div>
           
           <div class="usecase-card" data-service="Template Development">
             <img src="/images/text+_logo.png" alt="Text+ Logo">
             <h2>Template Development</h2>
             <h5>Goal:</h5><p>The institutions involved in Text+ advise researchers on all steps of the systematic organisation of their research data. Thus, Text+ offers its community a question catalogue for structured planning, which is provided by the eResearch Alliance of the University of Göttingen (access via GRO.Plan, access with Academic ID). Based on the RDMO standard catalogue and the question catalogue of the Max Weber Foundation, the Text+ catalogue was adapted accordingly in collaboration with participants of the consortium, based on the removal of irrelevant questions, the enrichment with subject-specific examples and the integration of suitable plugins. In this incubator project, the compatibility between the Text+ catalogue and the NFDI question catalogue will be ensured, specifying and adjusting the places where the Text+ catalogue is still too generic.</p>
-            <h5>Duration:</h5><p>September 2025 - Dec 2025</p>
+            <h5>Duration:</h5><p>September 2025 - December 2025</p>
           </div>          
          
           <div class="usecase-card" data-service="Training & Outreach">
