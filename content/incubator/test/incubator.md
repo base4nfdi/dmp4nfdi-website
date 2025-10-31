@@ -13,7 +13,7 @@ sections:
   - block: markdown
     content:
       title: Incubator Projects
-      subtitle: Set up your DMP service 
+      subtitle: Set up your DMP/SMP service 
       text: |
         <div style="text-align:left;">
         
@@ -38,16 +38,29 @@ sections:
   - block: markdown
     id: call
     content:
-      title: Next call for incubators
-      subtitle: Nov 2025 
+      title: Call for incubator projects 01/2026
+      subtitle: |
+        We look forward to your application!
+
+        **Deadline**: Dec 15, 2025
       text: |
+        <!--
         Our first call for incubators opens on **Nov 17, 2025**. 
         
         To propose an incubator project, please complete the short application template outlining your goals, team, and expected outcomes, and **submit the template by Dec 15**. We will publish the application template once the call begins.
 
-        Do you already have ideas for an incubator? Please reach out in advance to discuss them: [Contact us](/contact/)!         
+        Do you already have ideas for an incubator? Please reach out in advance to discuss them: <a href="/contact/" target="_blank" rel="noopener">Contact us!</a>           
+        
+        Send your submissions (PDF) to **[dmp4nfdi@lists.nfdi.de](mailto:dmp4nfdi@lists.nfdi.de)**.
+        -->  
 
-        Send your submissions (PDF) to **[dmp4nfdi@lists.nfdi.de](mailto:dmp4nfdi@lists.nfdi.de)**.  
+        Our first call for incubators is **now open**. 
+        
+        To propose an incubator project, please complete the <a href="/files/DMP4NFDI-incubator-template-application.pdf" target="_blank" rel="noopener">short application template</a> outlining your goals, team, and expected outcomes, and **submit the template by Dec 15**. 
+
+        Do you already have ideas for an incubator? Please reach out in advance to discuss them: <a href="/contact/" target="_blank" rel="noopener">Contact us!</a>        
+
+        Send your submissions (PDF) to **[dmp4nfdi@lists.nfdi.de](mailto:dmp4nfdi@lists.nfdi.de)**.
     design:
       columns: '2'
 
