@@ -40,7 +40,9 @@ sections:
         
         Our first call for incubators opens on **Nov 17, 2025**. 
         
-        To propose an incubator project, please complete the short application template outlining your goals, team, and expected outcomes, and **submit the template by Dec 15**. We will publish the application template once the call begins.
+        To propose an incubator project, please complete the short application template outlining your goals, team, and expected outcomes, and **submit the template by Dec 15**. 
+
+        **Download the Template:** <a href="/files/DMP4NFDI-incubator-template-application.odt" target="_blank" rel="noopener">.odt</a>, <a href="/files/DMP4NFDI-incubator-template-application.docx" target="_blank" rel="noopener">.docx</a>, <a href="/files/DMP4NFDI-incubator-template-application.pdf" target="_blank" rel="noopener">.pdf</a>
 
         Do you already have ideas for an incubator? Please reach out in advance to discuss them: <a href="/contact/" target="_blank" rel="noopener">Contact us!</a>           
         
