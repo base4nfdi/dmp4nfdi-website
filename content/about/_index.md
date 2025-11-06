@@ -9,7 +9,8 @@ sections:
       title: What is DMP4NFDI?
       subtitle: DMP4NFDI is the basic service for all consortia. We support consortia with DMPs and SMPs.
       text: |
-        DMP4NFDI is your centralized solution for creating and managing Data Management Plans (DMPs) and Software Management Plans (SMPs) within the NFDI. As a Basic Service, we address critical gaps in infrastructure by hosting the open-source tool RDMO, enabling consortia to create discipline-specific, standardized, and interoperable templates tailored to their needs.
+        DMP4NFDI is your centralised solution for creating and managing Data Management Plans (DMPs) and Software Management Plans (SMPs) within the NFDI. As a Basic Service, we address critical gaps in infrastructure by hosting the open-source tool Research Data Management Organiser (RDMO), enabling consortia to create discipline-specific, standardised, and interoperable templates tailored to their needs.
+      # DMP4NFDI is a centralised Basic Service for managing data management plans (DMPs) and software management plans (SMPs) across the NFDI. It host the open-source DMP tool Research Data Management Organiser (RDMO), coordinate template creation, standardise content, and offer guidance and support to consortia staff responsible for DMPs. The service aims to enhance communication among stakeholders, support data collection and review processes, and foster interoperability by engaging consortia early on to refine requirements and develop standardised DMP templates. Ultimately, DMP4NFDI seeks to maximise the benefits of widespread DMP adoption by promoting interoperability and integration across the NFDI's research data ecosystem.   
     design:
       columns: '1'
 
@@ -22,11 +23,11 @@ sections:
           - Train consortia staff to support their communities in using the DMP/SMP-Tool RDMO effectively.
           - Facilitate integrations with other tools and services in the research data ecosystem of the NFDI.
 
-        By fostering collaboration, standardization, and machine-readability, DMP4NFDI enhances communication between stakeholders and ensures that DMPs become powerful tools for research planning and data sharing. Together, we make data management seamless and impactful for all disciplines!
+        By fostering collaboration, standardisation, and machine-readability, DMP4NFDI enhances communication between stakeholders and ensures that DMPs become powerful tools for research planning and data sharing. Together, we make data management seamless and impactful for all disciplines!
 
         Join us in advancing the NFDI's vision for a unified and innovative research data management ecosystem!
 
-        DMPs and SMPs: While DMP4NFDI initially focused on Data Management Plans (DMPs), we are expanding our expertise to include Software Management Plans (SMPs) during the integration phase. With the support of dedicated experts, we aim to address the growing importance of SMPs for managing software resources and workflows in research.
+        While DMP4NFDI initially focused on DMPs, we are expanding our expertise to include SMPs during the integration phase. With the support of dedicated experts, we aim to address the growing importance of SMPs for managing software resources and workflows in research.
     design:
       columns: '1'
 
@@ -41,14 +42,16 @@ sections:
           date_start: '2024-05-01'
           date_end: '2025-06-30'
           description: |
-            In the initialisation phase, we laid the foundation for the service by hosting RDMO and collaborating with consortia to create first discipline-specific DMP templates. We gathered feedback from early adopters to refine our offerings, we started developing the NFDI Template Framework to standardize DMP/SMP creation and enable machine actionability.
+            During the initialisation phase, DMP4NFDI established a multi-tenant RDMO instance with community-specific, customisable clients for several consortia, with some already in productive use (NFDI4ING, NFDI4Chem, NFDI4Culture, FAIRagro) and others in testing environments (NFDI4Memory, NFDI4Earth, MaRDI) to prepare templates and plugins. For template development, we organised several workshops and exchange meetings with consortia and the broader RDM community to collect requirements and feedback, resulting in the publication of the first version of the NFDI DMP Template Framework. The framework ensures interoperability across consortia templates by defining a common vocabulary and supports consortia by providing a reusable and adaptable DMP template available in text form and as an RDMO catalog. We also supported consortia in developing customised RDMO plugins to connect RDMO directly to sensor databases (NFDI4Earth), Zenodo (NFDI4Biodiversity), and knowledge graphs (MaRDI). Completing the framework approach, we gathered requirements for DMP training and developed a train-the-trainer concept. 
+            
+            To prepare for the further integration of consortia during the next project phase and build on experiences from the initial integration use cases, we developed a service cooperation model that describes the responsibilities and collaboration mechanisms between consortia and DMP4NFDI, and which will iteratively be refined in the course of our collaborations. 
         - title: Integration Phase
           company: Second Phase
           location: current
           date_start: '2025-07-01'
           date_end: ''
           description: |
-            During the integration phase, we expand our reach by supporting consortia through incubator projects, enhancing template frameworks, and integrating RDMO with other tools and services to ensure interoperability.
+            During the integration phase, we run regular calls for incubator projects to onboard new consortia. Each Project typically focus on one aspect of a DMP service: hosting of RDMO, template development for DMPs or SMPs, service integration, or training and outreach activities. We will also incorporate SMPs into the template framework and improve interoperability by aligning it with international standards currently in development.
     #    - title: Ramp-up Phase
     #      company: Third Phase
     #      location: planned
