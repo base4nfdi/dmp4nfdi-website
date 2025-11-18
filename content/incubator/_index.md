@@ -42,7 +42,7 @@ sections:
         **Deadline**: Dec 15, 2025
       text: |
         
-        Our first call for incubators is **now open**. 
+        Our first call for incubators is **now open**. The incubator projects will run from January to Juny 2026.
         
         To propose an incubator project, please complete the short application template outlining your goals, team, and expected outcomes, and **submit the template by Dec 15**. 
 
