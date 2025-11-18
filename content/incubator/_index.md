@@ -174,11 +174,11 @@ sections:
         <!-- minimal CSS for filters -->
         <style>
           .usecase-filter { display:flex; gap:.5rem; align-items:center; margin:1rem 0 1.5rem }
-          .usecase-filter select, .usecase-filter button { padding:.4rem .6rem; border:1px solid #e3e3e3; border-radius:.5rem; background:#fff; cursor:pointer }
+          .usecase-filter select, .usecase-filter button { color: black; padding:.4rem .6rem; border:1px solid #e3e3e3; border-radius:.5rem; background:#fff; cursor:pointer }
           .usecase-card-grid { display:grid; gap:1rem; grid-template-columns:repeat(auto-fit, minmax(400px, 1fr)); }
           .usecase-card { padding:1rem; border:1px solid #e3e3e3; border-radius:.5rem; background:#fff; text-align:left; }
           .usecase-card img, .usecase-card h2 { display: block; margin: 0 auto; text-align: center; }
-          .usecase-card p { text-align: left; margin-top: .5rem; }
+          .usecase-card p { text-align: left; margin-top: .5rem; color: black; }
           .usecase-card img { width:auto; height:100px; margin-bottom: 1.5rem; }
           .usecase-card-grid .usecase-card[hidden]{ display:none !important }
           #usecase-count { margin-left:auto; font-size:.9rem; opacity:.8 }
