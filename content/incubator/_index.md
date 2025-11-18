@@ -35,7 +35,11 @@ sections:
     content:
       title: Call for incubator projects 01/2026
       subtitle: |
-        Submissions open: **17 Nov 2025**
+        **Open now**
+        
+        We look forward to your application!
+
+        **Deadline**: Dec 15, 2025
       text: |
         
         Our first call for incubators opens on **now open**. 
