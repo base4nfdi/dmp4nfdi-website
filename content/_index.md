@@ -16,7 +16,7 @@ sections:
       text: |
         DMP4NFDI is a centralised Basic Service supporting the development and provision of standardised Data and Software Management Plan (DMP/SMP) services within the NFDI. We address critical infrastructure gaps by offering technical hosting of the open-source tool Research Data Management Organiser (RDMO), specialised support for DMP/SMP template development, RDMO service integration, and targeted training.
 
-        {{% cta cta_link="./about/" cta_text="Read more →" %}}
+        {{% cta cta_link="./about/dmp4nfdi/" cta_text="Read more →" %}}
   
   - block: markdown
     content:

@@ -6,7 +6,7 @@ type: page
 
 ---
 
-We offer to host RDMO for your NFDI consortium. DMP4NFDI hosts a multi-tenant RDMO instance. This makes it possible to add customised RDMO clients for each NFDI consortium, while still enabling the exchange of DMP templates and modules between the consortia.
+We offer to host [RDMO](/about/rdmo/) for your NFDI consortium. DMP4NFDI hosts a multi-tenant RDMO instance. This makes it possible to add customised RDMO clients for each NFDI consortium, while still enabling the exchange of DMP templates and modules between the consortia.
 
 
 ## What can be customised?

@@ -1,5 +1,5 @@
 ---
-title: About
+title: About DMP4NFDI
 date: 2024-07-24
 type: landing
 
@@ -9,8 +9,7 @@ sections:
       title: What is DMP4NFDI?
       subtitle: DMP4NFDI is the basic service for all consortia. We support consortia with DMPs and SMPs.
       text: |
-        DMP4NFDI is your centralised solution for creating and managing Data Management Plans (DMPs) and Software Management Plans (SMPs) within the NFDI. As a Basic Service, we address critical gaps in infrastructure by hosting the open-source tool Research Data Management Organiser (RDMO), enabling consortia to create discipline-specific, standardised, and interoperable templates tailored to their needs.
-      # DMP4NFDI is a centralised Basic Service for managing data management plans (DMPs) and software management plans (SMPs) across the NFDI. It host the open-source DMP tool Research Data Management Organiser (RDMO), coordinate template creation, standardise content, and offer guidance and support to consortia staff responsible for DMPs. The service aims to enhance communication among stakeholders, support data collection and review processes, and foster interoperability by engaging consortia early on to refine requirements and develop standardised DMP templates. Ultimately, DMP4NFDI seeks to maximise the benefits of widespread DMP adoption by promoting interoperability and integration across the NFDI's research data ecosystem.   
+        DMP4NFDI is your centralised solution for creating and managing Data Management Plans (DMPs) and Software Management Plans (SMPs) within the NFDI. As a Basic Service, we address critical gaps in infrastructure by hosting the open-source tool [Research Data Management Organiser (RDMO)](/about/rdmo/), enabling consortia to create discipline-specific, standardised, and interoperable templates tailored to their needs.
     design:
       columns: '1'
 
@@ -51,7 +50,7 @@ sections:
           date_start: '2025-07-01'
           date_end: ''
           description: |
-            During the integration phase, we run regular calls for incubator projects to onboard new consortia. Each Project typically focus on one aspect of a DMP service: hosting of RDMO, template development for DMPs or SMPs, service integration, or training and outreach activities. We will also incorporate SMPs into the template framework and improve interoperability by aligning it with international standards currently in development.
+            During the integration phase, we run regular calls for incubator projects to onboard new consortia. Each Project typically focuses on one aspect of a DMP service: hosting of RDMO, template development for DMPs or SMPs, service integration, or training and outreach activities. We will also incorporate SMPs into the template framework and improve interoperability by aligning it with international standards currently in development.
     #    - title: Ramp-up Phase
     #      company: Third Phase
     #      location: planned

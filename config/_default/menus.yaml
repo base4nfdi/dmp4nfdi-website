@@ -6,8 +6,17 @@
 
 main:
   - name: About
+    identifier: about
     url: about
     weight: 10
+  - name: DMP4NFDI
+    parent: about 
+    url: about/dmp4nfdi/
+    weight: 10
+  - name: RDMO
+    parent: about 
+    url: about/rdmo/
+    weight: 20    
   - name: Our Services
     identifier: services
     url: services
