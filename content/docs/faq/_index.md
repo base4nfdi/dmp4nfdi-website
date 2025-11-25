@@ -82,7 +82,7 @@ We develop:
 **Q: Who should attend TTT workshops?**  
 Data stewards, research data managers, or anyone in your consortium responsible for supporting researchers with DMP creation.
 
-**Q: How can we promote RDMO in our community? **  
+**Q: How can we promote RDMO in our community?**  
 As part of our incubator projects, we help consortia:  
 - Promote the use of RDMO.  
 - Train key stakeholders.  
