@@ -200,17 +200,118 @@ sections:
         </div>
 
         <!-- minimal CSS for filters -->
+        <!--
         <style>
           .usecase-filter { display:flex; gap:.5rem; align-items:center; margin:1rem 0 1.5rem }
-          .usecase-filter select, .usecase-filter button { padding:.4rem .6rem; border:1px solid #e3e3e3; border-radius:.5rem; background:#fff; cursor:pointer }
+          .usecase-filter select, .usecase-filter button { color: black; padding:.4rem .6rem; border:1px solid #e3e3e3; border-radius:.5rem; background:#fff; cursor:pointer }
           .usecase-card-grid { display:grid; gap:1rem; grid-template-columns:repeat(auto-fit, minmax(400px, 1fr)); }
           .usecase-card { padding:1rem; border:1px solid #e3e3e3; border-radius:.5rem; background:#fff; text-align:left; }
           .usecase-card img, .usecase-card h2 { display: block; margin: 0 auto; text-align: center; }
-          .usecase-card p { text-align: left; margin-top: .5rem; }
+          .usecase-card p { text-align: left; margin-top: .5rem; color: black; }
+          .usecase-card h1, .usecase-card h2, .usecase-card h3, .usecase-card h4, .usecase-card h5, .usecase-card h6 {  color: black; }
           .usecase-card img { width:auto; height:100px; margin-bottom: 1.5rem; }
           .usecase-card-grid .usecase-card[hidden]{ display:none !important }
           #usecase-count { margin-left:auto; font-size:.9rem; opacity:.8 }
         </style>
+        -->
+
+        <style>
+        /* ---------- Filter Bar ---------- */
+        .usecase-filter {
+          display: flex;
+          gap: .5rem;
+          align-items: center;
+          margin: 1rem 0 1.5rem;
+        }
+
+        .usecase-filter select,
+        .usecase-filter button {
+          color: black;
+          padding: .4rem .6rem;
+          border: 1px solid #e3e3e3;
+          border-radius: .5rem;
+          background: #fff;
+          cursor: pointer;
+        }
+
+        /* ---------- Use Case Grid ---------- */
+        .usecase-card-grid {
+          display: grid;
+          gap: 1rem;
+          grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+        }
+
+        /* ---------- Use Case Card ---------- */
+        .usecase-card {
+          padding: 1rem;
+          border: 1px solid #e3e3e3;
+          border-radius: .5rem;
+          background: #fff;   /* white background */
+          color: black;       /* default text color */
+          text-align: left;
+
+          /* Optional: override theme CSS variables */
+          --tw-prose-body: black;
+          --tw-prose-headings: black;
+          --tw-prose-links: #0abaf0; /* blue links */
+        }
+
+        /* ---------- Card Headings ---------- */
+        .usecase-card h2 {
+          display: block;
+          margin: 0 auto 1rem;
+          text-align: center;  /* centered under image */
+          color: black;
+        }
+
+        .usecase-card h5 {
+          margin: 0.8rem 0 0.3rem;  /* spacing before/after */
+          color: black;
+          font-weight: bold;
+          text-align: left;          /* left-aligned for labels */
+          font-size: 0.95rem;        /* slightly smaller than h2 */
+        }
+
+        /* ---------- Paragraphs ---------- */
+        .usecase-card p {
+          margin-top: .5rem;
+          color: black;
+          text-align: left;
+        }
+
+        /* ---------- Links inside cards ---------- */
+        .usecase-card a {
+          color: #0abaf0;          /* visible blue links */
+          text-decoration: underline;
+        }
+
+        .usecase-card a:hover {
+          color: #45546b;          /* darker blue on hover */
+          text-decoration: none;
+        }
+
+        /* ---------- Images ---------- */
+        .usecase-card img {
+          display: block;
+          margin: 0 auto 1.5rem;
+          width: auto;
+          height: 100px;
+        }
+
+        /* ---------- Hidden Cards ---------- */
+        .usecase-card-grid .usecase-card[hidden] {
+          display: none !important;
+        }
+
+        /* ---------- Counter ---------- */
+        #usecase-count {
+          margin-left: auto;
+          font-size: .9rem;
+          opacity: .8;
+        }
+        </style>
+
+
 
         <!-- filtering script -->
         <script>

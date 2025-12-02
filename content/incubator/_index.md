@@ -174,6 +174,7 @@ sections:
           .usecase-card { padding:1rem; border:1px solid #e3e3e3; border-radius:.5rem; background:#fff; text-align:left; }
           .usecase-card img, .usecase-card h2 { display: block; margin: 0 auto; text-align: center; }
           .usecase-card p { text-align: left; margin-top: .5rem; color: black; }
+          .usecase-card h1, .usecase-card h2, .usecase-card h3, .usecase-card h4, .usecase-card h5, .usecase-card h6 {  color: black; }
           .usecase-card img { width:auto; height:100px; margin-bottom: 1.5rem; }
           .usecase-card-grid .usecase-card[hidden]{ display:none !important }
           #usecase-count { margin-left:auto; font-size:.9rem; opacity:.8 }
