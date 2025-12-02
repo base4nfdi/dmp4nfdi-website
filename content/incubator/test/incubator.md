@@ -98,14 +98,6 @@ sections:
         <!-- Use case cards grid -->
         <div class="usecase-card-grid">
         <div class="usecase-card-grid">
-          <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Initialisation phase">
-            <img src="/images/nfdi4ing_logo.png" alt="NFDI4Ing Logo">
-            <h2>RDMO Hosting</h2>
-            <h5>Goal:</h5><p>NFDI4Ing....</p>
-            <h5>Duration:</h5><p>NFDI4Ing....</p>
-            <h5>Results:</h5><p><a href="https://rdmo.nfdi4ing.de" target="_blank" rel="noopener noreferrer">NFDI4Ing RDMO Client</a></p>
-          </div>
-
           <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 0">
             <img src="/images/nfdi4microbiota_logo.png" alt="NFDI4Microbiota Logo">
             <h2>RDMO Hosting</h2>
@@ -140,6 +132,22 @@ sections:
             <h5>Goal:</h5><p>The goal is to set up a dedicated RDMO client for NFDI4Health, which will provide a Data Management Plan (DMP) service for the health research community. A test system will be set up in the first incubator project to facilitate the implementation, development and testing of the catalogue. Work on the catalogue will likely form part of another incubator project prior to migration to a productive RDMO system. The RDMO client will support authentication via the NFDI-AAI, enabling users to securely log in with their institutional credentials.</p>
             <h5>Duration:</h5><p>October 2025 - December 2025</p>
           </div>
+
+          <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Initialisation phase">
+            <img src="/images/nfdi4ing_logo.png" alt="NFDI4Ing Logo">
+            <h2>RDMO Hosting</h2>
+            <h5>Goal:</h5><p>NFDI4Ing....</p>
+            <h5>Duration:</h5><p>NFDI4Ing....</p>
+            <h5>Results:</h5><p><a href="https://rdmo.nfdi4ing.de" target="_blank" rel="noopener noreferrer">NFDI4Ing RDMO Client</a></p>
+          </div>
+          
+          <div class="usecase-card" data-service="Template Development" data-cycle="Initialisation phase">
+            <img src="/images/nfdi4earth_logo.png" alt="NFDI4Earth Logo">
+            <h2>Template Development</h2>
+            <h5>Goal:</h5><p>NFDI4Earth....</p>
+            <h5>Duration:</h5><p>NFDI4Earth....</p>
+            <h5>Results:</h5><p>MOSES catalog</p>
+          </div>          
 
           <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 0">
             <img src="/images/nfdi4culture_logo.png" alt="NFDI4Culture Logo">
