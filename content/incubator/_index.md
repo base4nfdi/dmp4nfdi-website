@@ -162,6 +162,7 @@ sections:
             <h2>RDMO Integration</h2>
             <h5>Goal:</h5><p>MaRDI offers its MaRDMO service to all researchers using mathematical methods in their research, regardless of discipline background. In this incubator project, the MaRDMO plugin collection for RDMO is further enhanced to include instrument data bases. The plugin will be able to query different instrument databases across NFDI consortia, and to store instrument metadata inside the MaRDMO template.</p>
             <h5>Duration:</h5><p>September 2025 - December 2025</p>
+            <h5>Results:</h5><p><a href="https://github.com/rdmorganiser/rdmo-plugins-generic-search" target="_blank" rel="noopener noreferrer">Generic Search RDMO Plugin</a></p>
           </div>
 
         </div>
