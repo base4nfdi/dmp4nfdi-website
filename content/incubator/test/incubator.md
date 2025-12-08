@@ -141,9 +141,9 @@ sections:
             <h5>Results:</h5><p><a href="https://rdmo.nfdi4ing.de" target="_blank" rel="noopener noreferrer">NFDI4Ing RDMO Client</a></p>
           </div>
           
-          <div class="usecase-card" data-service="Template Development" data-cycle="Initialisation phase">
+          <div class="usecase-card" data-service="RDMO Hosting, Template Development, RDMO Integration" data-cycle="Initialisation phase">
             <img src="/images/nfdi4earth_logo.png" alt="NFDI4Earth Logo">
-            <h2>Template Development</h2>
+            <h2>RDMO Hosting, Template Development, RDMO Integration</h2>
             <h5>Goal:</h5><p>NFDI4Earth....</p>
             <h5>Duration:</h5><p>NFDI4Earth....</p>
             <h5>Results:</h5><p>MOSES catalog</p>
@@ -328,14 +328,27 @@ sections:
               let visible = 0;
               const serviceVal = serviceFilter.value.trim().toLowerCase();
               const cycleVal   = cycleFilter.value.trim().toLowerCase();
-              cards.forEach(card=>{
-                const serviceOk = !serviceVal || card.dataset.service.toLowerCase() === serviceVal;
-                const cycleOk   = !cycleVal   || card.dataset.cycle.toLowerCase() === cycleVal;
+
+
+              cards.forEach(card => {
+                // Split comma-separated values and trim whitespace
+                const services = card.dataset.service.toLowerCase()
+                  .split(',')
+                  .map(s => s.trim());
+
+                const cycles = card.dataset.cycle.toLowerCase()
+                  .split(',')
+                  .map(s => s.trim());
+
+                // Check if selected filter value matches any of the values in the card
+                const serviceOk = !serviceVal || services.includes(serviceVal);
+                const cycleOk   = !cycleVal   || cycles.includes(cycleVal);
+
                 const show = serviceOk && cycleOk;
                 card.hidden = !show;
                 if(show) visible++;
               });
-              counter.textContent = visible + ' shown / ' + cards.length + ' total';
+              counter.textContent = `${visible} shown / ${cards.length} total`;
             }
 
             serviceFilter.addEventListener('input', apply);
