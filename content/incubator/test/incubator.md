@@ -136,8 +136,8 @@ sections:
           <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 0">
             <img src="/images/nfdi4culture_logo.png" alt="NFDI4Culture Logo">
             <h4>Cycle 0</h4>        
-            <h5>Goal:</h5><p>A digital collection management system (CMS) is a specialized software solution for organizing and presenting collections and their objects in cultural heritage institutions. Before selecting and implementing a CMS, institutions should clearly define their needs in order to decide which system is best suited to them. The aim of the incubator project is to develop a decision-making aid with the help of two specific DMP templates that complement and interlock with each other in their functions. One questionnaire is formulated from the user's perspective and helps to clarify their own requirements and assist in the selection of suitable software. The other questionnaire enables SMS products to be described in detail from the provider's perspective and makes them comparable for user institutions.</p>
-            <h5>Duration:</h5><p>September 2025 - December 2025</p>          
+            <h5>Goal:</h5><p>The aim of this incubator project was to help cultural heritage institutions find the right software solution for organising and presenting their artefacts. To this end, we have developed a decision-making aid comprising two complementary DMP templates. One template is designed from the user's perspective (i.e. collections) to help clarify their requirements and assist in selecting suitable software for collection management. The other template enables collection management products to be described in detail from the provider's perspective, making them comparable for users. This facilitates a matching between software products and users.</p>
+            <h5>Duration:</h5><p>December 2024 - September 2025</p>          
           </div>
 
           <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 0">
@@ -150,8 +150,8 @@ sections:
           <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 0">
             <img src="/images/nfdi4objects_nfdi4culture_logo.png" alt="NFDI4Objects and NFDI4Culture Logo">
             <h4>Cycle 0</h4>        
-            <h5>Goal:</h5><p>A DMP template has been developed to support museums and collection institutions in operationalising the FAIR principles. The template integrates several perspectives and offers a low-threshold option for FAIR quality assessment of collection data. The questions are assigned to four typical processing phases: digitisation, documentation, provision, and storage/archiving. Within these categories, many questions are assigned to indicators from the FAIR Data Maturity Model. Valid answer options, recommendations for action, help texts, notes, and links to useful materials are included. This incubator project aims to create a template that illustrates the different levels of FAIRness implementation, while also providing institutions with a roadmap and monitoring tool to improve the quality of their data.</p>
-            <h5>Duration:</h5><p>July 2025 - Dec 2025</p>
+            <h5>Goal:</h5><p>The product of this incubator project is a DMP template to help museums and collections implement the FAIR principles. The template provides an accessible option for assessing the FAIR quality of collection data. The questions are categorised according to four typical processing phases: digitisation, documentation, publication and storage/archiving. Most of the questions within these categories are assigned to indicators from the FAIR Data Maturity Model. The template includes answer options, some recommendations for action, help texts, notes and links to useful materials. The aim is to create a template that illustrates the different levels of FAIR implementation, while also providing institutions with a roadmap to improve the quality of their data.</p>
+            <h5>Duration:</h5><p>July 2025 - December 2025</p>
           </div>
 
           <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 0">
@@ -207,7 +207,7 @@ sections:
             <h5>Results:</h5><p><a href="https://rdmo.fairagro.net/" target="_blank" rel="noopener noreferrer">FAIRagro RDMO Client</a></p>
           </div>          
 
-          <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Initialisation phase">
+          <div class="usecase-card" data-service="RDMO Integration" data-cycle="Initialisation phase">
             <img src="/images/nfdi4biodiversity_logo.png" alt="NFDI4Biodiversity Logo">
             <h4>Initialisation phase</h4>     
             <h5>Goal:</h5><p>Develop a plugin for RDMO that connects the DMP tool to Zenodo and allows users to publish a DMP as a PDF directly from RDMO.</p>
