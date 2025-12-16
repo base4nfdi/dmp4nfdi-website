@@ -33,18 +33,16 @@ sections:
   - block: markdown
     id: call
     content:
-      title: Call for incubator projects 01/2026
+      title: Call for incubator projects
       subtitle: |
-        **Open now**
-        
-        We look forward to your application!
+        <!-- We look forward to your application!
 
         **Deadline**: Dec 15, 2025
+        -->
+        Next call: 2nd Quarter of 2026
       text: |
         
-        Our first call for incubators is **now open**. The incubator projects will run from January to Juny 2026.
-        
-        To propose an incubator project, please complete the short application template outlining your goals, team, and expected outcomes, and **submit the template by Dec 15**. 
+        To propose an incubator project, please complete the short application template outlining your goals, team, and expected outcomes. 
 
         **Download the Template:** <a href="/files/DMP4NFDI-incubator-template-application.odt" target="_blank" rel="noopener">.odt</a>, <a href="/files/DMP4NFDI-incubator-template-application.docx" target="_blank" rel="noopener">.docx</a>, <a href="/files/DMP4NFDI-incubator-template-application.pdf" target="_blank" rel="noopener">.pdf</a>
 
