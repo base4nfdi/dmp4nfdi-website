@@ -24,7 +24,7 @@ sections:
 
          - **RDMO integration with other services**
         
-        [-> Explore our current incubator projects](#incubators)
+        [-> Explore our current and past incubator projects](#incubators)
         
         </div>
     design:
@@ -120,6 +120,14 @@ sections:
             <h5>Duration:</h5><p>October 2025 - December 2025</p>
           </div>  
 
+          <div class="usecase-card" data-service="RDMO Integration" data-cycle="Cycle 0">
+            <img src="/images/mardi_logo.png" alt="MaRDI Logo">
+            <h4>Cycle 0</h4>      
+            <h5>Goal:</h5><p>MaRDI offers its MaRDMO service to all researchers using mathematical methods in their research, regardless of discipline background. In this incubator project, the MaRDMO plugin collection for RDMO is further enhanced to include instrument data bases. The plugin will be able to query different instrument databases across NFDI consortia, and to store instrument metadata inside the MaRDMO template.</p>
+            <h5>Duration:</h5><p>September 2025 - December 2025</p>
+            <h5>Results:</h5><p><a href="https://github.com/rdmorganiser/rdmo-plugins-generic-search" target="_blank" rel="noopener noreferrer">Generic Search RDMO Plugin</a></p>            
+          </div>
+          
           <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 0">
             <img src="/images/nfdi4culture_logo.png" alt="NFDI4Culture Logo">
             <h4>Cycle 0</h4>        
@@ -161,14 +169,6 @@ sections:
             <h5>Goal:</h5><p>NFDI4Chem has a productive RDMO client with a DMP template that has been optimised for the special requirements of chemists and can be used by everyone. The consortium is organising training activities for its community to showcase the use of RDMO for creating and managing DMPs based on the developed template. In this incubator project, DMP4NFDI supports the consortium by providing available Open Educational Resources (OERs) and other training materials, as well as a checklist for data stewards based on the Train-the-Trainer concept for DMPs and RDMO. This checklist will highlight key considerations for delivering introductory workshops on DMPs and the use of RDMO.</p>
             <h5>Duration:</h5><p>July 2025 - December 2025</p>
           </div>              
-
-          <div class="usecase-card" data-service="RDMO Integration" data-cycle="Cycle 0">
-            <img src="/images/mardi_logo.png" alt="MaRDI Logo">
-            <h4>Cycle 0</h4>      
-            <h5>Goal:</h5><p>MaRDI offers its MaRDMO service to all researchers using mathematical methods in their research, regardless of discipline background. In this incubator project, the MaRDMO plugin collection for RDMO is further enhanced to include instrument data bases. The plugin will be able to query different instrument databases across NFDI consortia, and to store instrument metadata inside the MaRDMO template.</p>
-            <h5>Duration:</h5><p>September 2025 - December 2025</p>
-            <h5>Results:</h5><p><a href="https://github.com/rdmorganiser/rdmo-plugins-generic-search" target="_blank" rel="noopener noreferrer">Generic Search RDMO Plugin</a></p>            
-          </div>
 
           <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Initialisation phase">
             <img src="/images/nfdi4ing_logo.png" alt="NFDI4Ing Logo">
