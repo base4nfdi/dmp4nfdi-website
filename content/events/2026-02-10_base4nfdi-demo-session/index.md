@@ -36,7 +36,7 @@ share: false
 featured: false
 
 image:
-  caption: 'Image credit: [Love Data Week](https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/love-data-week-2026/)'
+  caption: 'Image credit: [Base4NFDI](https://base4nfdi.de/)'
   focal_point: Right
 
 url_code: ''
@@ -58,3 +58,8 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+Join the **DMP4NFDI demo session** to discover how to build a DMP or SMP service for your community. Whether you already manage DMPs/SMPs in your consortium, want to start offering a service, or want to learn more about reusable DMP frameworks in NFDI – we’ll show you how to: 
+- Run your own **RDMO client** 
+- Connect it to **community services** 
+- create **interoperable templates**
+- Engage your users through **training and other outreach activities**
