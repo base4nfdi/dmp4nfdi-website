@@ -36,7 +36,7 @@ share: false
 featured: false
 
 image:
-  caption: 'Image credit: [Base4NFDI](https://base4nfdi.de/)'
+  caption: 'Image credit: [Base4NFDI](https://base4nfdi.de/news-events/events/demo-sessions-02-2026)'
   focal_point: Right
 
 url_code: ''
@@ -68,6 +68,10 @@ Join the **DMP4NFDI demo session** to discover how to build a DMP or SMP service
 
 💻 Where: **online via Zoom** 
 
-📝 Register hier: [Link] 
+📝 Want to join? **[Register hier!](https://uni-goettingen.zoom.us/meeting/register/ti1IAqn3RaO9eYbviU7huw#/registration)**
 
 We look forward to seeing you there!
+
+***Base4NFDI Demo Sessions***
+
+*BASE4NFDI integrates and provides basic services as common, interoperable solutions for the scientific community. Existing services are adapted across disciplines, reducing parallel developments while meeting shared research data management needs. These demo sessions are a great opportunity to gain insights, provide feedback, and see how the services can help NFDI consortia streamline workflows and support research data management activities. [-> Have a look at the upcoming sessions!](https://base4nfdi.de/news-events/events/demo-sessions-02-2026)*
