@@ -59,12 +59,12 @@ slides:
 projects:
 ---
 
-As part on the **Love Data Week 2026**, NFDI Basic Service **DMP4NFDI** will provide an overview of **how to design and implement interoperable DMP templates in RDMO**. Topics covered will include key considerations and common challenges when creating RDMO catalogs, how to use the RDMO guide effectively, and the integration of RDMO with other services via plugins.
+As part on the **Love Data Week 2026**, the NFDI Basic Service **DMP4NFDI** will provide an overview of **how to design and implement interoperable DMP templates in RDMO**. Topics covered will include key considerations and common challenges when creating RDMO catalogs, how to use the RDMO guide effectively, and the integration of RDMO with other services via plugins.
 
-When: **10 February 2026, 11:00-12:00 (CET)**
+⏰ When: **10 February 2026, 11:00-12:00 (CET)**
 
-Where: **online via Zoom** 
+💻 Where: **online via Zoom** 
 
-Register hier: [Link]
+📝 Register hier: [Link]
 
 We look forward to seeing you there!

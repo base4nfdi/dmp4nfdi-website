@@ -61,5 +61,13 @@ projects:
 Join the **DMP4NFDI demo session** to discover how to build a DMP or SMP service for your community. Whether you already manage DMPs/SMPs in your consortium, want to start offering a service, or want to learn more about reusable DMP frameworks in NFDI – we’ll show you how to: 
 - Run your own **RDMO client** 
 - Connect it to **community services** 
-- create **interoperable templates**
+- Create **interoperable templates**
 - Engage your users through **training and other outreach activities**
+
+⏰ When: **10 February 2026, 13:30-14:30 (CET)** 
+
+💻 Where: **online via Zoom** 
+
+📝 Register hier: [Link] 
+
+We look forward to seeing you there!
