@@ -40,21 +40,21 @@ main:
   - name: Publications
     url: publication
     weight: 30
+  - name: Events
+    url: events
+    weight: 40
   - name: Documentations
     url: docs
-    weight: 40
+    weight: 50
   - name: Incubator Projects
     url: incubator
-    weight: 50
+    weight: 60
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70
 #  - name: PID Services/Provider
 #    url: pid-services-provider
 #    weight: 70
-#  - name: Events
-#    url: event
-#    weight: 80
 #  - name: People
 #    url: people
 #    weight: 90

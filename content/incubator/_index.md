@@ -97,6 +97,7 @@ sections:
             <h4>Cycle 0</h4>       
             <h5>Goal:</h5><p>Establishing an RDMO environment tailored to the consortium’s needs. During the incubator project, a test client will be set up, followed shortly by a productive system to enable early evaluation within the community by utilising existing RDMO catalogs and templates, e.g. by NFDI4ING. User access will be managed through the NFDI-AAI login, providing federated authentication based on institutional accounts.</p>
             <h5>Duration:</h5><p>July 2025 - December 2025</p>
+            <h5>Results:</h5><p><a href="https://rdmo.nfdi4energy.org/" target="_blank" rel="noopener noreferrer">NFDI4Energy RDMO Client</a></p>
           </div>
 
           <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 0">

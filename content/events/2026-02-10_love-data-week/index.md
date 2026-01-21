@@ -67,4 +67,6 @@ Topics covered will include key considerations and common challenges when creati
 
 💻 Where: **online via Zoom** 
 
+📝 Want to join? **[Register hier!](https://rwth.zoom-x.de/meeting/register/9J88NyQURteFg3dDUW7eaQ)**
+
 We look forward to seeing you there!

@@ -29,7 +29,7 @@ sections:
 
          - **RDMO integration with other services**
         
-        [-> Explore our current incubator projects](#incubators)
+        [-> Explore our current and past incubator projects](#incubators)
         
         </div>
     design:
@@ -38,22 +38,36 @@ sections:
   - block: markdown
     id: call
     content:
-      title: Call for incubator projects 01/2026
+      title: Call for incubator projects
       subtitle: |
-        We look forward to your application!
+        <!-- We look forward to your application!
 
         **Deadline**: Dec 15, 2025
+        -->
+        Next call in the 2nd Quarter of 2026
       text: |
+  
+        To propose an incubator project, please complete the short application template outlining your goals, team, and expected outcomes.
+
+        **Download the Template:** <a href="/files/DMP4NFDI-incubator-template-application.odt" target="_blank" rel="noopener">.odt</a>, <a href="/files/DMP4NFDI-incubator-template-application.docx" target="_blank" rel="noopener">.docx</a>, <a href="/files/DMP4NFDI-incubator-template-application.pdf" target="_blank" rel="noopener">.pdf</a>        
+
+        Do you already have ideas for an incubator? Please reach out in advance to discuss them: <a href="/contact/" target="_blank" rel="noopener">Contact us!</a>           
+        
+        Send your submissions (PDF) to **[dmp4nfdi@lists.nfdi.de](mailto:dmp4nfdi@lists.nfdi.de)**.
+
         <!--
         Our first call for incubators opens on **Nov 17, 2025**. 
         
-        To propose an incubator project, please complete the short application template outlining your goals, team, and expected outcomes, and **submit the template by Dec 15**. We will publish the application template once the call begins.
+        To propose an incubator project, please complete the short application template outlining your goals, team, and expected outcomes, and **submit the template by Dec 15**. 
+
+        **Download the Template:** <a href="/files/DMP4NFDI-incubator-template-application.odt" target="_blank" rel="noopener">.odt</a>, <a href="/files/DMP4NFDI-incubator-template-application.docx" target="_blank" rel="noopener">.docx</a>, <a href="/files/DMP4NFDI-incubator-template-application.pdf" target="_blank" rel="noopener">.pdf</a>
 
         Do you already have ideas for an incubator? Please reach out in advance to discuss them: <a href="/contact/" target="_blank" rel="noopener">Contact us!</a>           
         
         Send your submissions (PDF) to **[dmp4nfdi@lists.nfdi.de](mailto:dmp4nfdi@lists.nfdi.de)**.
         -->  
 
+        <!--
         Our first call for incubators is **now open**. 
         
         To propose an incubator project, please **complete the short application template** outlining your goals, team, and expected outcomes, and **submit the template by Dec 15**. 
@@ -63,6 +77,7 @@ sections:
         Do you already have ideas for an incubator? Please reach out in advance to discuss them: <a href="/contact/" target="_blank" rel="noopener">Contact us!</a>        
 
         Send your submissions (PDF) to **[dmp4nfdi@lists.nfdi.de](mailto:dmp4nfdi@lists.nfdi.de)**.
+        -->
     design:
       columns: '2'
 
@@ -186,7 +201,7 @@ sections:
           <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Initialisation phase">
             <img src="/images/nfdi4ing_logo.png" alt="NFDI4Ing Logo">
             <h4>Initialisation phase</h4>     
-            <h5>Goal:</h5><p>Use the NFDI4ING RDMO service as a reference implementation for RDMO hosting in DMP4NFDI and as a foundation for adding further clients to the DMP4NFDI service.</p>
+            <h5>Goal:</h5><p>Use the NFDI4ING RDMO service as the reference implementation for RDMO hosting in DMP4NFDI and as a foundation for onboarding further clients to the DMP4NFDI service.</p>
             <h5>Duration:</h5><p>June 2024 - September 2025</p>
             <h5>Results:</h5><p><a href="https://rdmo.nfdi4ing.de" target="_blank" rel="noopener noreferrer">NFDI4Ing RDMO Client</a></p>
           </div>
@@ -194,7 +209,7 @@ sections:
           <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Initialisation phase">
             <img src="/images/nfdi4chem_logo.png" alt="NFDI4Chem Logo">
             <h4>Initialisation phase</h4>     
-            <h5>Goal:</h5><p>Host an RDMO client for the NFDI4Chem consortium as part of the DMP4NFDI service.</p>
+            <h5>Goal:</h5><p>Host and operate the RDMO client for the NFDI4Chem consortium within the DMP4NFDI service and bring it into productive operation.</p>
             <h5>Duration:</h5><p>June 2024 - September 2025</p>
             <h5>Results:</h5><p><a href="https://rdmo.nfdi4chem.de" target="_blank" rel="noopener noreferrer">NFDI4Chem RDMO Client</a></p>
           </div>
@@ -210,7 +225,7 @@ sections:
           <div class="usecase-card" data-service="RDMO Integration" data-cycle="Initialisation phase">
             <img src="/images/nfdi4biodiversity_logo.png" alt="NFDI4Biodiversity Logo">
             <h4>Initialisation phase</h4>     
-            <h5>Goal:</h5><p>Develop a plugin for RDMO that connects the DMP tool to Zenodo and allows users to publish a DMP as a PDF directly from RDMO.</p>
+            <h5>Goal:</h5><p>Develop an RDMO plugin that connects the DMP tool to Zenodo, enabling users to publish DMPs as PDFs directly from RDMO.</p>
             <h5>Duration:</h5><p>June 2024 - June 2025</p>
             <h5>Results:</h5><p><a href="https://github.com/rdmorganiser/rdmo-plugins-zenodo" target="_blank" rel="noopener noreferrer">RDMO Zenodo Plugin</a></p>
           </div>        
@@ -218,7 +233,7 @@ sections:
           <div class="usecase-card" data-service="RDMO Hosting, RDMO Integration" data-cycle="Initialisation phase">
             <img src="/images/nfdi4culture_logo.png" alt="NFDI4Culture Logo">
             <h4>Initialisation phase</h4>     
-            <h5>Goal:</h5><p>Host an RDMO tenant for the NFDI4Culture consortium and integrate the consortium’s community AAI as the login mechanism. RDMO user permissions should be manageable within the NFDI4Culture community AAI. The resulting service will support researchers, cultural professionals, and cultural heritage institutions.</p>
+            <h5>Goal:</h5><p>Host an RDMO tenant for the NFDI4Culture consortium and integrate the consortium’s community AAI as the login mechanism for authentication and authorization. RDMO user permissions should be manageable within the NFDI4Culture community AAI. The resulting service will support researchers, cultural professionals, and cultural heritage institutions.</p>
             <h5>Duration:</h5><p>June 2025 - June 2025</p>
             <h5>Results:</h5><p><a href="https://rdmo.nfdi4culture.de" target="_blank" rel="noopener noreferrer">NFDI4Culture RDMO Client</a></p>
           </div>
@@ -234,7 +249,7 @@ sections:
           <div class="usecase-card" data-service="RDMO Hosting, Template Development, RDMO Integration" data-cycle="Initialisation phase">
             <img src="/images/nfdi4earth_logo.png" alt="NFDI4Earth Logo">
             <h4>Initialisation phase</h4>
-            <h5>Goal:</h5><p>Set up an RDMO test client for the NFDI4Earth consortium to support the conversion of a community-specific DMP template in the context of the MOSES project into an RDMO catalog. Support the consortium in developing a plugin that allows users to search sensor databases from within RDMO and retrieve metadata to be stored in the DMP.</p>
+            <h5>Goal:</h5><p>Set up an RDMO test client for the NFDI4Earth consortium to support the conversion of a community-specific DMP template (MOSES project) into an RDMO catalog. Additionally, support the consortium in developing a plugin that allows users to search sensor databases from within RDMO and import retrieved metadata directly into the DMP.</p>
             <h5>Duration:</h5><p>June 2024 - June 2025</p>
             <!--<h5>Results:</h5><p>MOSES catalog</p>-->
           </div>        
