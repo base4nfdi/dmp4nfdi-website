@@ -43,6 +43,76 @@ sections:
         We provide RDMO hosting for NFDI consortia through a multi-tenant RDMO instance. This setup allows each consortium to have a customised RDMO client, while still enabling the exchange of DMP templates and modules across the NFDI.
 
         [Read more →](/services/rdmo-hosting/) 
+
+        <h5>Overview of available RDMO clients hosted by DMP4NFDI</h5>
+        
+        <style>
+        .hosting-grid { 
+          display: grid; 
+          grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); 
+          gap: 1rem; 
+          margin: 1rem 0;
+        }
+        .hosting-tile { 
+          text-align: center; 
+          border: 1px solid #ddd; 
+          border-radius: 0.5rem; 
+          padding: 0.5rem; 
+        }
+        .hosting-tile img { 
+          width: 10vw; 
+          height: auto; 
+          display: block; 
+          margin: 0 auto 0.5rem; 
+          border-radius: 0.25rem;
+        }
+        .hosting-tile a { 
+          display: block; 
+          font-weight: bold; 
+          color: #0ABAF0; 
+          text-decoration: none; 
+        }
+        </style>
+
+        <div class="hosting-grid">
+          <div class="hosting-tile">
+            <a href="https://rdmo.nfdi4ing.de" target="_blank" rel="noopener noreferrer">
+              <img src="/images/rdmo-nfdi4ing.png" alt="NFDI4ING RDMO">
+            </a>
+            <strong>NFDI4ING</strong>
+          </div>
+          <div class="hosting-tile">
+            <a href="https://rdmo.nfdi4culture.de/" target="_blank" rel="noopener noreferrer">
+              <img src="/images/rdmo-nfdi4culture.png" alt="NFDI4Culture RDMO">
+            </a>
+            <strong>NFDI4Culture</strong>
+          </div>
+          <div class="hosting-tile">
+            <a href="https://rdmo.nfdi4chem.de/" target="_blank" rel="noopener noreferrer">
+              <img src="/images/rdmo-nfdi4chem.png" alt="NFDI4Chem RDMO">
+            </a>
+            <strong>NFDI4Chem</strong>
+          </div>
+          <div class="hosting-tile">
+            <a href="https://rdmo.fairagro.net/" target="_blank" rel="noopener noreferrer">
+              <img src="/images/rdmo-fairagro.png" alt="FAIRagro RDMO">
+            </a>
+            <strong>FAIRagro</strong>
+          </div>
+          <div class="hosting-tile">
+            <a href="https://rdmo.nfdi4energy.org/" target="_blank" rel="noopener noreferrer">
+              <img src="/images/rdmo-nfdi4energy.png" alt="NFDI4Energy RDMO">
+            </a>
+            <strong>NFDI4Energy</strong>
+          </div>
+          <div class="hosting-tile">
+            <a href="https://rdmo.mardi4nfdi.de/" target="_blank" rel="noopener noreferrer">
+              <img src="/images/rdmo-mardi.png" alt="MaRDI4NFDI RDMO">
+            </a>
+            <strong>MaRDI4NFDI</strong>
+          </div>          
+        </div>
+        
     design:
       columns: '2'
 
