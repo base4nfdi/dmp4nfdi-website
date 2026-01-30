@@ -12,7 +12,7 @@ location: online via Zoom
 #  postcode: '10589'
 #  country: Germany
 
-summary: DMP4NFDI demonstrates how NFDI consortia can set up a DMP or SMP service.
+summary: DMP4NFDI will demonstrate at the *Base4NFDI Demo Session* how NFDI consortia can set up a DMP or SMP service.
 abstract: 'Join the DMP4NFDI demo session to discover how to build a DMP or SMP service for your community. Whether you already manage DMPs/SMPs in your consortium, want to start offering a service, or want to learn more about reusable DMP frameworks in NFDI – we’ll show you how to run your own RDMO client, connect it to community services, create interoperable templates, and engage your users through training and other outreach activities'
 
 # Talk start and end times.

@@ -12,7 +12,7 @@ location: online via Zoom
 #  postcode: '10589'
 #  country: Germany
 
-summary: DMP4NFDI will provide best practices for creating interoperable  RDMO catalogs.
+summary: DMP4NFDI contributes to the *Love Data Week 2026* by providing best practices for creating interoperable  RDMO catalogs.
 abstract: 'As part on the Love Data Week 2026, DMP4NFDI will provide an overview of how to design and implement DMP templates in RDMO. Topics covered will include key considerations and common challenges when creating RDMO catalogs, how to use the RDMO guide effectively, and the integration of RDMO with other services via plugins.'
 
 # Talk start and end times.
