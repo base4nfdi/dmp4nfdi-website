@@ -59,7 +59,7 @@ slides:
 projects:
 ---
 
-We’re excited to present our poster: **“From Templates to Interoperability with the NFDI DMP Template Framework”** at the **RDA Germany Conference 2026**. 
+We’re excited to present our poster: [**“From Templates to Interoperability with the NFDI DMP Template Framework”**](/publication/2026_02_poster_rda-de_dmp4nfdi/) at the **RDA Germany Conference 2026**. 
 
 Come and learn how the framework supports standardised, interoperable DMP templates across NFDI consortia! We will be sharing insights during [Session 5 – Minute Madness Poster Spotlight](https://indico.desy.de/event/50156/sessions/21018/#20260224) on **24 February 2026 at 16:30**.
 
