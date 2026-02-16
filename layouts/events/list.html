@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="universal-wrapper">
+<div class="universal-wrapper pt-3">
   <div class="row">
     <div class="col-lg-12">
     <h1>{{ .Title }}</h1>
@@ -61,7 +61,9 @@
   
   
   {{ else }}
-    <p>No upcoming events.</p>
+    <div class="col-lg-12">
+      <p>No upcoming events.</p>
+    </div>
   {{ end }}
   </div>
   
@@ -81,7 +83,9 @@
   
   
   {{ else }}
-    <p>No past events.</p>
+    <div class="col-lg-12">
+      <p>No past events.</p>
+    </div>
   {{ end }}
   </div>
 </div>
