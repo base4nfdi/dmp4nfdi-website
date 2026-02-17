@@ -1,0 +1,93 @@
+{{ define "main" }}
+<div class="universal-wrapper pt-3">
+  <div class="row">
+    <div class="col-lg-12">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    </div>
+  </div>
+  
+  {{ $view := .Params.view | default "card" }}
+  {{ $block := . }}
+  
+  {{/* Build upcoming and past slices */}}
+  {{ $now := now }}
+  {{ $events := where .Site.RegularPages "Section" "events" }}
+  {{ $upcoming := slice }}
+  {{ $past := slice }}
+  
+  {{ range $events }}
+    {{ $start := .Date }}
+    {{ $endParam := .Params.end }}
+  
+    {{/* if endParam is nil use start, else try casting with time */}}
+    {{ $eventEnd := $start }}
+    {{ if $endParam }}
+      {{ $eventEnd = time $endParam }}
+    {{ end }}
+  
+    {{ if ge $eventEnd $now }}
+      {{ $upcoming = $upcoming | append . }}
+    {{ else }}
+      {{ $past = $past | append . }}
+    {{ end }}
+  {{ end }}
+  
+  {{ $upcoming = sort $upcoming "Date" "asc" }}
+  {{ $past = sort $past "Date" "desc" }}
+  
+  {{ $baseConfig := dict 
+    "columns" (.Params.columns | default 2) 
+    "fill_image" (.Params.fill_image | default true)
+    "show_date" (.Params.show_date | default true)
+    "show_read_time" (.Params.show_read_time | default true)
+    "show_read_more" (.Params.show_read_more | default true)
+  }}
+
+  
+  <div class="row">
+    <div class="col-lg-12">
+      <h2 class="mt-3">Upcoming events</h2>
+    </div>
+  </div>
+  
+  <div class="row">
+  {{ if gt (len $upcoming) 0 }}
+    {{ $config := merge $baseConfig (dict "len" (len $upcoming)) }}
+  
+    {{ range $index, $item := $upcoming }}
+      {{ partial "functions/render_view" (dict "page" . "item" $item "view" $view "index" $index "config" $config) }}
+    {{ end }}
+  
+  
+  {{ else }}
+    <div class="col-lg-12">
+      <p>No upcoming events.</p>
+    </div>
+  {{ end }}
+  </div>
+  
+  <div class="row">
+    <div class="col-lg-12">
+      <h2 class="mt-3">Past events</h2>
+    </div>
+  </div>
+  
+  <div class="row">
+  {{ if gt (len $past) 0 }}
+    {{ $config := merge $baseConfig (dict "len" (len $past)) }}
+  
+    {{ range $index, $item := $past }}
+      {{ partial "functions/render_view" (dict "page" . "item" $item "view" $view "index" $index "config" $config) }}
+    {{ end }}
+  
+  
+  {{ else }}
+    <div class="col-lg-12">
+      <p>No past events.</p>
+    </div>
+  {{ end }}
+  </div>
+</div>
+{{ end }}
+
