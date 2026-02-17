@@ -12,17 +12,17 @@ location: online via Zoom
 #  postcode: '10589'
 #  country: Germany
 
-summary: DMP4NFDI contributes to the *Love Data Week 2026* by providing best practices for creating interoperable  RDMO catalogs.
-abstract: 'As part on the Love Data Week 2026, DMP4NFDI will provide an overview of how to design and implement DMP templates in RDMO. Topics covered will include key considerations and common challenges when creating RDMO catalogs, how to use the RDMO guide effectively, and the integration of RDMO with other services via plugins.'
+summary: DMP4NFDI contributed to the *Love Data Week 2026* by providing best practices for creating interoperable  RDMO catalogs.
+abstract: 'As part on the Love Data Week 2026, DMP4NFDI provided an overview of how to design and implement DMP templates in RDMO. Topics covered included key considerations and common challenges when creating RDMO catalogs, how to use the RDMO guide effectively, and the integration of RDMO with other services via plugins.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-02-10T11:00:00Z'
-date_end: '2026-02-10T12:00:00Z'
+date: 2026-02-10T11:00:00Z
+date_end: 2026-02-10T12:00:00Z
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2026-01-19T00:00:00Z'
+publishDate: 2026-01-19T00:00:00Z
 
 tags: ["Base4NFDI", "DMP4NFDI", "Love Data Week", "RDMO"]
 
@@ -41,7 +41,7 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: /publication/2026_02_10_presentation_love-data-week/
 url_video: ''
 
 # Markdown Slides (optional).
@@ -49,7 +49,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides:
+slides: ''
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -59,14 +59,10 @@ slides:
 projects:
 ---
 
-As part of the **[Love Data Week 2026](https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/love-data-week-2026/)**, the NFDI Basic Service **DMP4NFDI** will provide an overview of **how to design and implement interoperable DMP templates in RDMO**. 
+As part of the **[Love Data Week 2026](https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/love-data-week-2026/)**, the NFDI Basic Service **DMP4NFDI** provided an overview of **how to design and implement interoperable DMP templates in RDMO**. 
 
-Topics covered will include key considerations and common challenges when creating RDMO catalogs, how to use the RDMO guide effectively, and the integration of RDMO with other services via plugins.
+Topics covered included key considerations and common challenges when creating RDMO catalogs, how to use the RDMO guide effectively, and the integration of RDMO with other services via plugins.
 
 ⏰ When: **10 February 2026, 11:00-12:00 (CET)**
 
 💻 Where: **online via Zoom** 
-
-📝 Want to join? **[Register hier!](https://rwth.zoom-x.de/meeting/register/9J88NyQURteFg3dDUW7eaQ)**
-
-We look forward to seeing you there!

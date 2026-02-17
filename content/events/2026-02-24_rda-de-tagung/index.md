@@ -17,12 +17,12 @@ abstract: 'DMP4NFDI presents the poster “From Templates to Interoperability wi
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-02-24T09:00:00Z'
-date_end: '2026-02-25T15:30:00Z'
+date: 2026-02-24T09:00:00Z
+date_end: 2026-02-25T15:30:00Z
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2026-01-01T00:00:00Z'
+publishDate: 2026-01-01T00:00:00Z
 
 tags: ["RDA", "DMP", "SMP", "RDMO"]
 

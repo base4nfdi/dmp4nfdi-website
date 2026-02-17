@@ -17,12 +17,12 @@ abstract: 'In this hands-on workshop at FDM-Werkstatt 2026, participants will le
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-03-23T11:00:00Z'
-date_end: '2026-03-25T15:00:00Z'
+date: 2026-03-23T11:00:00Z
+date_end: 2026-03-25T15:00:00Z
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2026-01-01T00:00:00Z'
+publishDate: 2026-01-01T00:00:00Z
 
 tags: ["FDM-Werkstatt", "DMP4NFDI", "DMP", "RDMO"]
 
@@ -58,6 +58,7 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
 **Join the DMP4NFDI’s workshop “RDMO for Editors: Building Interoperable Catalogs with the NFDI DMP Template” at FDM-Werkstatt 2026!** 
 
 The [Research Data Management Organiser (RDMO)](https://rdmorganiser.github.io/en/) has established itself as the most widely used tool for data management plans (DMP) by universities and non-university research institutions across Germany. In this **hands-on workshop**, participants will learn how to work with and further develop interoperable and standardised DMP templates using the [NFDI DMP Template](https://github.com/rdmorganiser/rdmo-catalog/blob/main/shared/DMP4NFDI/NFDI_DMP_Template.md). 
