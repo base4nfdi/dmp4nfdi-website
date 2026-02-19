@@ -35,14 +35,21 @@ sections:
     content:
       title: Call for incubator projects
       subtitle: |
-        <!-- We look forward to your application!
+        
+        Submissions will open in the second half of March!
 
-        **Deadline**: Dec 15, 2025
-        -->
-        Next call: 2nd Quarter of 2026
+        <!-- 
+        We look forward to your application!     
+        
+        **Deadline**: April 22, 2026
+        -->  
+
+        <!-- Next call: 2nd Quarter of 2026 -->
       text: |
         
-        To propose an incubator project, please complete the short application template outlining your goals, team, and expected outcomes. 
+        Our next call for incubators opens on the second half of March. 
+        
+        To propose an incubator project, please complete the short application template outlining your goals, team, and expected outcomes, and **submit the template by April 22**. 
 
         **Download the Template:** <a href="/files/DMP4NFDI-incubator-template-application.odt" target="_blank" rel="noopener">.odt</a>, <a href="/files/DMP4NFDI-incubator-template-application.docx" target="_blank" rel="noopener">.docx</a>, <a href="/files/DMP4NFDI-incubator-template-application.pdf" target="_blank" rel="noopener">.pdf</a>
 
