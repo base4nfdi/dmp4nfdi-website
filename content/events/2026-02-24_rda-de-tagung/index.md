@@ -12,8 +12,8 @@ address:
   postcode: '14473'
   country: Germany
 
-summary: DMP4NFDI presents the poster 'From Templates to Interoperability with the NFDI DMP Template Framework' at the *RDA Germany Conference 2026*.
-abstract: 'DMP4NFDI presents the poster “From Templates to Interoperability with the NFDI DMP Template Framework” at the RDA Germany Conference 2026. Come and learn how the framework supports standardised, interoperable DMP templates across NFDI consortia.'
+summary: DMP4NFDI presented the poster 'From Templates to Interoperability with the NFDI DMP Template Framework' at the *RDA Germany Conference 2026*.
+abstract: 'DMP4NFDI presented the poster “From Templates to Interoperability with the NFDI DMP Template Framework” at the RDA Germany Conference 2026. Attendees had the opportunity to learn how the framework supports standardised, interoperable DMP templates across NFDI consortia.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -59,10 +59,10 @@ slides:
 projects:
 ---
 
-We’re excited to present our poster: [**“From Templates to Interoperability with the NFDI DMP Template Framework”**](/publication/2026_02_poster_rda-de_dmp4nfdi/) at the **RDA Germany Conference 2026**. 
+We presented our poster: [**“From Templates to Interoperability with the NFDI DMP Template Framework”**](/publication/2026_02_poster_rda-de_dmp4nfdi/) at the **RDA Germany Conference 2026**. 
 
-Come and learn how the framework supports standardised, interoperable DMP templates across NFDI consortia! We will be sharing insights during [Session 5 – Minute Madness Poster Spotlight](https://indico.desy.de/event/50156/sessions/21018/#20260224) on **24 February 2026 at 16:30**.
+Attendees had the opportunity to learn how the framework supports standardised, interoperable DMP templates across NFDI consortia. Key insights were presented during [Session 5 – Minute Madness Poster Spotlight](https://indico.desy.de/event/50156/sessions/21018/#20260224) on **24 February 2026 at 16:30**.
 
-The RDA Deutschland Tagung 2026 is organised by RDA Deutschland e.V. with the Helmholtz Open Science Office. It will take place from **February 24 to 25, 2026, at the GFZ Helmholtz Centre for Geosciences** (Haus H).
+The RDA Deutschland Tagung 2026 is organised by RDA Deutschland e.V. with the Helmholtz Open Science Office. It took place from **February 24 to 25, 2026, at the GFZ Helmholtz Centre for Geosciences** (Haus H).
 
 Further details can be found on the [conference website](https://indico.desy.de/event/50156/contributions/197421/).
