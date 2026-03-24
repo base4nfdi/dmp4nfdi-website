@@ -35,19 +35,19 @@ sections:
     content:
       title: Call for incubator projects
       subtitle: |
-        
+        <!--         
         Submissions will open in the second half of March!
+        -->  
 
-        <!-- 
         We look forward to your application!     
         
         **Deadline**: April 22, 2026
-        -->  
+
 
         <!-- Next call: 2nd Quarter of 2026 -->
       text: |
         
-        Our next call for incubators opens on the second half of March. 
+        Our 2nd call for incubators is **now open**. 
         
         To propose an incubator project, please complete the short application template outlining your goals, team, and expected outcomes, and **submit the template by April 22**. 
 
