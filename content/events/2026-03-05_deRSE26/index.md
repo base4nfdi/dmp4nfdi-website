@@ -14,8 +14,8 @@ address:
   postcode: '70569'
   country: Germany
 
-summary: 'At the upcoming deRSE26 Conference, DMP4NFDI will present a comparative analysis of five Software Management Plans (SMPs), highlighting their commonalities and differences.'
-abstract: 'At the upcoming deRSE26 Conference, DMP4NFDI will present a comparative analysis of five Software Management Plans (SMPs): ELIXIR SMP, eScience Center SMP, PreSOFT, Max Planck Digital Libraries SMP, Digital Research Alliance of Canada SMP, including commonalities and differences.'
+summary: 'At the deRSE26 Conference, DMP4NFDI presented a comparative analysis of five Software Management Plans (SMPs), highlighting their commonalities and differences.'
+abstract: 'At the deRSE26 Conference, DMP4NFDI presented a comparative analysis of five Software Management Plans (SMPs): ELIXIR SMP, eScience Center SMP, PreSOFT, Max Planck Digital Libraries SMP, Digital Research Alliance of Canada SMP, including commonalities and differences.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -61,19 +61,13 @@ slides:
 projects:
 ---
 
-At **[deRSE26 - 6th Conference for Research Software Engineering in Germany](https://events.hifis.net/event/2945/)**, the **DMP4NFDI** service will showcase its work in the Software Quality and Architecture session with the talk “**[A comparison across Software Management Plans (SMPs)](https://events.hifis.net/event/2945/contributions/21138/)**”
+At **[deRSE26 - 6th Conference for Research Software Engineering in Germany](https://events.hifis.net/event/2945/)**, the **DMP4NFDI** service showcased its work in the Software Quality and Architecture session with the talk “**[A comparison across Software Management Plans (SMPs)](https://events.hifis.net/event/2945/contributions/21138/)**”
 
 As software is essential for processing research data, SMPs naturally complement DMPs. Recognizing this, SMPs were integrated into the DMP4NFDI project in 2025. Software management questions are being added to the [NFDI Template Framework](/services/template-development/), allowing researchers to manage both research data and software artifacts in a unified way. But which questions are most relevant for an SMP template? To answer this, it is necessary to examine existing SMPs and understand how they serve researchers, particularly in Germany. 
 
-In this talk, DMP4NFDI will present **a comparative analysis of five SMPs**: ELIXIR SMP, eScience Center SMP, PreSOFT, Max Planck Digital Libraries SMP, Digital Research Alliance of Canada SMP, including commonalities and differences. The session will conclude with our own proposal for an SMP for [RDMO](/about/rdmo/) and an opportunity to gather feedback from the audience.
-
+In this talk, DMP4NFDI presented **a comparative analysis of five SMPs**: ELIXIR SMP, eScience Center SMP, PreSOFT, Max Planck Digital Libraries SMP, Digital Research Alliance of Canada SMP, including commonalities and differences.
 
 ⏰ When: **05 March 2026, 09:00 AM - 10:30 PM (CET)** 
 
 🏙️ Where: **University of Stuttgart, V47.05** 
-
-📝 Want to join? **[Register hier!](https://events.hifis.net/event/2945/page/962-registration)**
-
-We look forward to seeing you there!
-
 
