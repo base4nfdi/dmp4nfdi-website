@@ -67,7 +67,7 @@ The [Research Data Management Organiser (RDMO)](https://rdmorganiser.github.io/e
 
 🏙️ Where: **HdU (Haus der Universität), Schadowplatz 14, 40212 Düsseldorf** 
 
-The fourth [FDM-Werkstatt](https://www.fdm.nrw/fdm-werkstatt) takes place at the **Heinrich Heine University Düsseldorf from 23–25 March 2026**. It is organised by fdm.nrw in cooperation with the RDM Competence Centre of Heinrich Heine University Düsseldorf, CEPLAS, DataPLANT and NFDI4BIOIMAGE. 
+The fourth [FDM-Werkstatt](https://www.fdm.nrw/fdm-werkstatt) took place at the **Heinrich Heine University Düsseldorf from 23–25 March 2026**. It was organised by fdm.nrw in cooperation with the RDM Competence Centre of Heinrich Heine University Düsseldorf, CEPLAS, DataPLANT and NFDI4BIOIMAGE. 
 
 ***What is the FDM-Werkstatt?***
 
