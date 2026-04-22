@@ -85,9 +85,9 @@ RDMO allows **integrations via plugins with other management tools** such as Ope
 - **Tasks**: They are generated automatically from the responses given in the project and help users remember important data management tasks.  
 - **Import/Export**: You can import and export your RDMO project to create a local backup or to use it in other RDMO instances/clients. You can also export different versions of your DMP (e.g. as PDF).
 
-### How RDMO connects to ORCID or GitHub?
+### How does RDMO connect to ORCID or GitHub?
 
-RDMO provides a REST API and a plugin architecture that enables flexible integration with other web services. Plugins are available for ORCID and Github.
+RDMO provides a REST API and a plugin architecture that enables flexible integration with other web services. Plugins are available for ORCID and GitHub.
 
 You can find an overview of currently available RDMO plugins here: [RDMO Plugins](https://github.com/rdmorganiser/rdmo-plugins)
 
@@ -118,7 +118,7 @@ If you have already created RDMO catalogs, we recommend revising and adapting th
 
 You can raise awareness of Data and Software Management Planning within your consortium by showcasing the value and benefits of using DMPs and RDMO through workshops, low-barrier introductory sessions, live demos, tailored presentations, and quick-start materials.
 
-### I belong to a NFDI consortium and want to offer a DMP service to my research community. What should I do?
+### I belong to an NFDI consortium and want to offer a DMP service to my research community. What should I do?
 
 [Contact us\!](http:///contact/) For onboarding new consortia, we hold a regular call for [incubator projects](http:///incubator/), where we will together develop or improve your consortium's DMP or SMP service.
 
@@ -128,7 +128,7 @@ You can raise awareness of Data and Software Management Planning within your con
 
 You can find examples on Zenodo, but we are not aware of a central DMP collection.
 
-At EU level, you can find many examples on the [CORDIS website](https://cordis.europa.eu/search?q=%27data%20management%20plan%27%20AND%20%2Fresult%2Frelations%2Fcategories%2Fcollection%2Fcode%3D%27deliverable%27&p=1&num=10&srt=Relevance:decreasing). This is the European Commission's main source of information on projects funded by the EU's research and innovation framework programmes.
+At the EU level, you can find many examples on the [CORDIS website](https://cordis.europa.eu/search?q=%27data%20management%20plan%27%20AND%20%2Fresult%2Frelations%2Fcategories%2Fcollection%2Fcode%3D%27deliverable%27&p=1&num=10&srt=Relevance:decreasing). This is the European Commission's main source of information on projects funded by the EU's research and innovation framework programmes.
 
 ### What does the maDMP look like in practice? Is there an example?
 
@@ -137,7 +137,7 @@ For RDMO, several plugins and integrations are available that enable metadata ex
 - NFDI4Earth is connecting RDMO to sensor databases, collecting sensor metadata during the RDMO interview for inclusion in the DMP  
 - MaRDI uses RDMO to add workflow information to their knowledge graph  
 - In NFDI4ING, we are integrating the NFDI4ING Collections Explorer \- a catalog of repositories, data bases and resources  
-- Together with NFDI4Biodiversity we developed a plugin that allows DMPs to be published on Zenodo
+- Together with NFDI4Biodiversity, we developed a plugin that allows DMPs to be published on Zenodo
 
 A variety of RDMO plugins are already available: for connecting project management tools (e.g. OpenProject), querying data bases (e.g. ORCID, GND, Wikidata), or exporting metadata (e.g. as a CFF file for SMPs). When developing a template together with consortia, we also explore service integration options.
 
