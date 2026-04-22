@@ -17,7 +17,7 @@ The NFDI is a non-profit association that aims to systematically manage scientif
 
 Funded and supported by Base4NFDI, DMP4NFDI is a centralised Basic Service supporting the development and provision of standardised Data and Software Management Plan services within the NFDI (DMP/SMP services). The service was initiated in May 2024 and is currently in the integration phase.
 
-You can find more details here: [About DMP4NFDI](http:///about/dmp4nfdi/)
+You can find more details here: [About DMP4NFDI](/about/dmp4nfdi/)
 
 ### What services does DMP4NFDI provide for NFDI?
 
@@ -28,7 +28,7 @@ DMP4NFDI supports NFDI consortia in developing and improving DMP or SMP Services
 - Support for DMP & SMP template development and standardisation  
 - Support for training and community outreach activities
 
-You can explore our services in detail here: [DMP4NFDI Services](http:///services/)
+You can explore our services in detail here: [DMP4NFDI Services](/services/)
 
 ## 💻 Getting started with RDMO in the NFDI
 
@@ -36,13 +36,13 @@ You can explore our services in detail here: [DMP4NFDI Services](http:///service
 
 The Research Data Management Organiser (RDMO) is an open-source DMP tool in productive use at many institutions in Germany for several years. It supports multiple DMP templates and its plugin architecture enables integrations with other services. RDMO has reached the status of a mature software with a big user community. To better satisfy the increasing demands and guarantee continuity and reliability, the non-profit RDMO association was founded on 19th November 2024\.
 
-You can find more the details here: [About RDMO](http:///about/rdmo/)
+You can find more the details here: [About RDMO](/about/rdmo/)
 
 ### How does the RDMO hosting service provided by DMP4NFDI work?
 
 DMP4NFDI hosts a multi-tenant RDMO instance. This makes it possible to add customised RDMO clients for each NFDI consortium. Our tasks include access management, roles and rights management, server management and maintenance, and general technical support for the consortia clients.
 
-Learn more about our hosting service here: [RDMO hosting](http:///services/rdmo-hosting/)
+Learn more about our hosting service here: [RDMO hosting](/services/rdmo-hosting/)
 
 ### Why does each NFDI consortium have its own RDMO rather than one NFDI-RDMO instance?
 
@@ -112,7 +112,7 @@ The NFDI consortium is responsible for identifying discipline-specific needs, fo
 
 If you have already developed a DMP template tailored to the needs of your community, we recommend transferring the text-based template to RDMO.
 
-If you have already created RDMO catalogs, we recommend revising and adapting them to align with the structure of the [NFDI DMP Template](http:///services/template-development/#nfdi-dmp-template-framework), which is in line with international standards. DMP4NFDI will support you throughout the process.
+If you have already created RDMO catalogs, we recommend revising and adapting them to align with the structure of the [NFDI DMP Template](/services/template-development/#nfdi-dmp-template-framework), which is in line with international standards. DMP4NFDI will support you throughout the process.
 
 ### How can I motivate researchers to use DMPs, SMPs and/or RDMO?
 
@@ -120,7 +120,7 @@ You can raise awareness of Data and Software Management Planning within your con
 
 ### I belong to an NFDI consortium and want to offer a DMP service to my research community. What should I do?
 
-[Contact us\!](http:///contact/) For onboarding new consortia, we hold a regular call for [incubator projects](http:///incubator/), where we will together develop or improve your consortium's DMP or SMP service.
+[Contact us\!](/contact/) For onboarding new consortia, we hold a regular call for [incubator projects](/incubator/), where we will together develop or improve your consortium's DMP or SMP service.
 
 ## 📄 Data Management Plans (DMPs) and machine-actionable DMPs (maDMP)
 
