@@ -43,7 +43,7 @@ main:
   - name: Events
     url: events
     weight: 40
-  - name: Documentations
+  - name: Documentation
     url: docs
     weight: 50
   - name: Incubator Projects
