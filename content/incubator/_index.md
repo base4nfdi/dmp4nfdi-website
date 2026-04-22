@@ -245,7 +245,7 @@ sections:
           
           <div class="usecase-card" data-service="Training & Outreach" data-cycle="Cycle 0, Cycle 1">
               <img src="/images/nfdi4chem_logo.png" alt="NFDI4Chem Logo">
-              <h4>Cycle 0</h4>        
+              <h4>Cycle 0, Cycle 1</h4>        
               <h5>Goal:</h5><p>NFDI4Chem has a productive RDMO client with a DMP template that has been optimised for the special requirements of chemists and can be used by everyone. The consortium is organising training activities for its community to showcase the use of RDMO for creating and managing DMPs based on the developed template. In this incubator project, DMP4NFDI supports the consortium by providing available Open Educational Resources (OERs) and other training materials, as well as a checklist for data stewards based on the Train-the-Trainer concept for DMPs and RDMO. This checklist will highlight key considerations for delivering introductory workshops on DMPs and the use of RDMO.</p>
               <h5>Duration:</h5><p>July 2025 - May 2026</p>
               <!--<h5>Results:</h5><p><a href="https://dmp.services.base4nfdi.de/" target="_blank" rel="noopener noreferrer">Link to results</a></p>-->
