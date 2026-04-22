@@ -109,6 +109,7 @@ sections:
               <h4>Cycle 1</h4>     
               <h5>Goal:</h5><p>Establishing an RDMO client that provides high-quality, user-friendly DMP templates that meet funder requirements and reflects the needs of the research community. The service will initially support the solid-state physics community represented within the NFDI by <b>FAIRmat</b>. The RDMO client will be prepared for extensibility so that other physical-sciences consortia (PSinNFDI), including DAPHNE4NFDI, MaRDI, MatWerk, NFDI4Chem, NFDI4Cat, and PUNCH4NFDI, can provide their existing RDMO catalogues or later contribute domain requirements or templates if capacity allows.</p>
               <h5>Duration:</h5><p>January 2026 - June 2026</p>
+              <h5>Status:</h5><p>Test client ready; productive client in preparation</p>
             </div>
             
           <div class="usecase-card" data-service="RDMO Integration" data-cycle="Cycle 1">
