@@ -4,6 +4,11 @@ summary: Call for incubator projects and how to join
 date: 2025-01-07
 type: landing
 
+_build:
+  list: never
+  publishResources: true
+  render: always
+
 sections:
   - block: markdown
     content:
@@ -100,7 +105,7 @@ sections:
             </div>
 
           <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 1">
-              <img src="/images/psinnfdi_logo.png" alt="Physical-sciences Consortia Logo">
+               <img src="/images/psinnfdi_logo.png" alt="Physical-sciences Consortia Logo">
               <h4>Cycle 1</h4>     
               <h5>Goal:</h5><p>Establishing an RDMO client that provides high-quality, user-friendly DMP templates that meet funder requirements and reflects the needs of the research community. The service will initially support the solid-state physics community represented within the NFDI by <b>FAIRmat</b>. The RDMO client will be prepared for extensibility so that other physical-sciences consortia (PSinNFDI), including DAPHNE4NFDI, MaRDI, MatWerk, NFDI4Chem, NFDI4Cat, and PUNCH4NFDI, can provide their existing RDMO catalogues or later contribute domain requirements or templates if capacity allows.</p>
               <h5>Duration:</h5><p>January 2026 - June 2026</p>
@@ -114,10 +119,10 @@ sections:
             </div>
 
           <div class="usecase-card" data-service="RDMO Integration, Training & Outreach" data-cycle="Cycle 1">
-              <img src="/images/fairagro_logo.png" alt="FAIRagro Logo">
-              <h4>Cycle 1</h4>     
-              <h5>Goal:</h5><p>This incubator project focuses on community outreach and promoting FAIRagro’s domain-specific DMP template. The project also aims to increase the template’s interoperability by dynamically making terminologies available for specific questions. A workshop or training session will be organized to gather user feedback for template improvement and to foster its adoption across the agricultural research community. For terminology implementation the project will gather and contribute requirements to inform technical developments between DMP4NFDI and the TS4NFDI basic service.</p>
-              <h5>Duration:</h5><p>January 2026 - June 2026</p>
+                <img src="/images/fairagro_logo.png" alt="FAIRagro Logo">
+                <h4>Cycle 1</h4>     
+                <h5>Goal:</h5><p>This incubator project focuses on community outreach and promoting FAIRagro’s domain-specific DMP template. The project also aims to increase the template’s interoperability by dynamically making terminologies available for specific questions. A workshop or training session will be organized to gather user feedback for template improvement and to foster its adoption across the agricultural research community. For terminology implementation the project will gather and contribute requirements to inform technical developments between DMP4NFDI and the TS4NFDI basic service.</p>
+                <h5>Duration:</h5><p>January 2026 - June 2026</p>
             </div>
 
           <div class="usecase-card" data-service="Training & Outreach" data-cycle="Cycle 1">
@@ -132,7 +137,7 @@ sections:
               <h4>Cycle 1</h4>     
               <h5>Goal:</h5><p>NFDI4Cat is developing a discipline-specific DMP template that covers catalysis-related aspects like complex analysis, catalyst testing workflows and cooperation with industry. The important aspects of RDM in catalysis at the status quo, based on requirement analysis, will be addressed by the DMP template. The DMP template will be released to collect further community feedback and update the template based on this iterative workflow and further ongoing developments in RDM.</p>
               <h5>Duration:</h5><p>February 2026 - July 2026</p>
-            </div>  
+            </div>     
 
           <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 1">
               <img src="/images/nfdi4health_logo.png" alt="NFDI4Health Logo">
@@ -140,19 +145,21 @@ sections:
               <h5>Goal:</h5><p>The template "Research Data Management Plan - Epidemiological studies" is aimed at epidemiological researchers and is currently published as a fillable PDF document. The goal of this incubator project is to fully implement the template in RDMO so that researchers can use, review and adapt it to their needs. The incubator will provide the basis for the implementation of two further NFDI4Health DMP templates, one for clinical research and one shortened version that can be handed it along with a research proposal, e.g. at the DFG.</p>
               <h5>Duration:</h5><p>February 2026 - July 2026</p>
             </div>
-
+            
           <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 1">
               <img src="/images/mardi_logo.png" alt="MaRDI Logo">
               <h4>Cycle 1</h4>     
               <h5>Goal:</h5><p>This project aims to develop a mathematics-specific DMP template, building on the recommendations of the MaRDI consortium’s white paper “Research Data Management Planning in Mathematics”. The project will translate discipline-specific requirements into a structured, modular template capturing the diversity of mathematical research data—proofs, algorithms, computational workflows, mathematical models, software, numerical datasets, and visualizations.</p>
               <h5>Duration:</h5><p>February 2026 - July 2026</p>
-            </div>                 
+            </div>              
 
           <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 0">
               <img src="/images/nfdi4microbiota_logo.png" alt="NFDI4Microbiota Logo">
               <h4>Cycle 0</h4>     
               <h5>Goal:</h5><p>NFDI4Microbiota will use RDMO to provide and continuously maintain a tailored DMP template for the microbiological research community. A dedicated test environment already supports current catalog development and evaluation, with the productive system scheduled for release by the end of 2025. Data stewards from the consortium's help desk will receive manager rights to offer first-level support and ensure wide user adoption.</p>
               <h5>Duration:</h5><p>July 2025 - December 2025</p>
+              <h5>Status:</h5><p>Test client ready; productive client in preparation</p>
+              <!--<h5>Results:</h5><p><a href="https://rdmo.consortia.de" target="_blank" rel="noopener noreferrer">Consortium RDMO Client</a></p>-->
             </div>
 
           <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 0">
@@ -168,6 +175,8 @@ sections:
               <h4>Cycle 0</h4>       
               <h5>Goal:</h5><p>Implementing an RDMO client to serve the consortium’s research data management activities. A pilot version will be launched for internal testing. A productive instance is foreseen after validation of the pilot.</p>
               <h5>Duration:</h5><p>September 2025 - December 2025</p>
+              <h5>Status:</h5><p>Test client ready; productive client in preparation</p>
+              <!--<h5>Results:</h5><p><a href="https://rdmo.consortia.de" target="_blank" rel="noopener noreferrer">Consortium RDMO Client</a></p>-->
             </div>
 
           <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 0">
@@ -175,6 +184,8 @@ sections:
               <h4>Cycle 0</h4>       
               <h5>Goal:</h5><p>Setting up an RDMO client to explore integration with existing data workflows and to develop initial catalog structures. Create familiarity with the template system and build up Know-How to enable guidance and teaching of users. Integration with the NFDI-AAI Didmos login is planned to provide seamless and secure user authentication. </p>
               <h5>Duration:</h5><p>October 2025 - December 2025</p>
+              <h5>Status:</h5><p>Test client ready; productive client in preparation</p>
+              <!--<h5>Results:</h5><p><a href="https://rdmo.consortia.de" target="_blank" rel="noopener noreferrer">Consortium RDMO Client</a></p>-->
             </div>
 
           <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 0">
@@ -182,6 +193,8 @@ sections:
               <h4>Cycle 0</h4>        
               <h5>Goal:</h5><p>The goal is to set up a dedicated RDMO client for NFDI4Health, which will provide a Data Management Plan (DMP) service for the health research community. A test system will be set up in the first incubator project to facilitate the implementation, development and testing of the catalogue. Work on the catalogue will likely form part of another incubator project prior to migration to a productive RDMO system. The RDMO client will support authentication via the NFDI-AAI, enabling users to securely log in with their institutional credentials.</p>
               <h5>Duration:</h5><p>October 2025 - December 2025</p>
+              <h5>Status:</h5><p>Test client ready; productive client in preparation</p>
+              <!--<h5>Results:</h5><p><a href="https://rdmo.consortia.de" target="_blank" rel="noopener noreferrer">Consortium RDMO Client</a></p>-->
             </div>  
 
           <div class="usecase-card" data-service="RDMO Integration" data-cycle="Cycle 0">
@@ -196,7 +209,8 @@ sections:
               <img src="/images/nfdi4culture_logo.png" alt="NFDI4Culture Logo">
               <h4>Cycle 0</h4>        
               <h5>Goal:</h5><p>The aim of this incubator project was to help cultural heritage institutions find the right software solution for organising and presenting their artefacts. To this end, we have developed a decision-making aid comprising two complementary DMP templates. One template is designed from the user's perspective (i.e. collections) to help clarify their requirements and assist in selecting suitable software for collection management. The other template enables collection management products to be described in detail from the provider's perspective, making them comparable for users. This facilitates a matching between software products and users.</p>
-              <h5>Duration:</h5><p>December 2024 - September 2025</p>          
+              <h5>Duration:</h5><p>December 2024 - September 2025</p>
+              <h5>Results:</h5><p><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/NFDI4Culture" target="_blank" rel="noopener noreferrer">NFDI4Culture RDMO Catalog</a></p>         
             </div>
 
           <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 0">
@@ -218,6 +232,7 @@ sections:
               <h4>Cycle 0</h4>       
               <h5>Goal:</h5><p>FAIRagro customises DMP templates of funding agencies based on the needs of the agrosystem community for efficient and straight forward usage. The close cooperation with DMP4NFDI will ensure the compatibility and reusability of the developments. During the incubator project, a customised DMP template for the agrosystem sciences will be created and made available, based on community feedback (e.g. through workshops) and aligned with the existing NFDI DMP Template Framework.</p>
               <h5>Duration:</h5><p>July 2025 - Dec 2025</p>
+              <!--<h5>Results:</h5><p><a href="https://dmp.services.base4nfdi.de/" target="_blank" rel="noopener noreferrer">FAIRagro RDMO Catalog</a></p>-->
             </div>
             
           <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 0">
@@ -225,13 +240,15 @@ sections:
               <h4>Cycle 0</h4>     
               <h5>Goal:</h5><p>The institutions involved in Text+ advise researchers on all steps of the systematic organisation of their research data. Thus, Text+ offers its community a question catalogue for structured planning, which is provided by the eResearch Alliance of the University of Göttingen (access via GRO.Plan, access with Academic ID). Based on the RDMO standard catalogue and the question catalogue of the Max Weber Foundation, the Text+ catalogue was adapted accordingly in collaboration with participants of the consortium, based on the removal of irrelevant questions, the enrichment with subject-specific examples and the integration of suitable plugins. In this incubator project, the compatibility between the Text+ catalogue and the NFDI question catalogue will be ensured, specifying and adjusting the places where the Text+ catalogue is still too generic.</p>
               <h5>Duration:</h5><p>September 2025 - Dec 2025</p>
+              <!--<h5>Results:</h5><p><a href="https://dmp.services.base4nfdi.de/" target="_blank" rel="noopener noreferrer">Text+ RDMO Catalog</a></p>-->
             </div>          
           
           <div class="usecase-card" data-service="Training & Outreach" data-cycle="Cycle 0, Cycle 1">
               <img src="/images/nfdi4chem_logo.png" alt="NFDI4Chem Logo">
-              <h4>Cycle 0, Cycle 1</h4>        
-              <h5>Goal:</h5><p>NFDI4Chem has a productive RDMO client with a DMP template that has been optimised for the special requirements of chemists and can be used by everyone. The consortium is organising training activities for its community to showcase the use of RDMO for creating and managing DMPs based on the developed template. In this incubator project, DMP4NFDI supports the consortium by providing available Open Educational Resources (OER) and other training materials. Guidelines for data stewards will be developed based on the Train-the-Trainer concept for DMPs and RDMO, and OER developed by NFDI4Chem. The guidelines will highlight key considerations for delivering introductory workshops on DMPs and the use of RDMO.</p>
+              <h4>Cycle 0</h4>        
+              <h5>Goal:</h5><p>NFDI4Chem has a productive RDMO client with a DMP template that has been optimised for the special requirements of chemists and can be used by everyone. The consortium is organising training activities for its community to showcase the use of RDMO for creating and managing DMPs based on the developed template. In this incubator project, DMP4NFDI supports the consortium by providing available Open Educational Resources (OERs) and other training materials, as well as a checklist for data stewards based on the Train-the-Trainer concept for DMPs and RDMO. This checklist will highlight key considerations for delivering introductory workshops on DMPs and the use of RDMO.</p>
               <h5>Duration:</h5><p>July 2025 - May 2026</p>
+              <!--<h5>Results:</h5><p><a href="https://dmp.services.base4nfdi.de/" target="_blank" rel="noopener noreferrer">Link to results</a></p>-->
             </div>              
 
           <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Initialisation phase">
@@ -287,8 +304,9 @@ sections:
               <h4>Initialisation phase</h4>
               <h5>Goal:</h5><p>Set up an RDMO test client for the NFDI4Earth consortium to support the conversion of a community-specific DMP template (MOSES project) into an RDMO catalog. Additionally, support the consortium in developing a plugin that allows users to search sensor databases from within RDMO and import retrieved metadata directly into the DMP.</p>
               <h5>Duration:</h5><p>June 2024 - June 2025</p>
-              <!--<h5>Results:</h5><p>MOSES catalog</p>-->
-            </div>               
+              <h5>Status:</h5><p>Test client ready; productive client in preparation</p>
+              <!--<h5>Results:</h5><p><a href="https://rdmo.mardi4nfdi.de" target="_blank" rel="noopener noreferrer">MOSES Catalog</a></p>-->
+            </div>
 
         </div>
 
@@ -514,7 +532,7 @@ sections:
               }
             });
           });
-        </script>
+        </script>       
         
     design:
       spacing:

@@ -105,9 +105,9 @@ sections:
             </div>
 
           <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 1">
-              <img src="/images/psinnfdi_logo.png" alt="FAIRmat Logo">
+               <img src="/images/psinnfdi_logo.png" alt="Physical-sciences Consortia Logo">
               <h4>Cycle 1</h4>     
-              <h5>Goal:</h5><p>Establishing an RDMO client that provides high-quality, user-friendly DMP templates that meet funder requirements and reflects the needs of the research community. The service will initially support the solid-state physics community represented within the NFDI by FAIRmat. The RDMO client will be prepared for extensibility so that other physical-sciences consortia (PSinNFDI), including DAPHNE4NFDI, MaRDI, MatWerk, NFDI4Chem, NFDI4Cat, and PUNCH4NFDI, can provide their existing RDMO catalogues or later contribute domain requirements or templates if capacity allows.</p>
+              <h5>Goal:</h5><p>Establishing an RDMO client that provides high-quality, user-friendly DMP templates that meet funder requirements and reflects the needs of the research community. The service will initially support the solid-state physics community represented within the NFDI by <b>FAIRmat</b>. The RDMO client will be prepared for extensibility so that other physical-sciences consortia (PSinNFDI), including DAPHNE4NFDI, MaRDI, MatWerk, NFDI4Chem, NFDI4Cat, and PUNCH4NFDI, can provide their existing RDMO catalogues or later contribute domain requirements or templates if capacity allows.</p>
               <h5>Duration:</h5><p>January 2026 - June 2026</p>
             </div>
             
@@ -125,6 +125,20 @@ sections:
                 <h5>Duration:</h5><p>January 2026 - June 2026</p>
             </div>
 
+          <div class="usecase-card" data-service="Training & Outreach" data-cycle="Cycle 1">
+              <img src="/images/text+_logo.png" alt="Text+ Logo">
+              <h4>Cycle 1</h4>     
+              <h5>Goal:</h5><p>Text+ has created a DMP template in collaboration with participants of the consortium that has been expanded with discipline-specific examples. The compatibility between the Text+ template and the NFDI DMP template on RDMO has been also ensured. The aim of this new incubator project is to raise awareness of the added value of the DMP template in RDMO and to showcase it through the Text+ event series, “Show and Tell: Tools, Services, Projects”, as well as through a workshop to gather feedback.</p>
+              <h5>Duration:</h5><p>January 2026 - June 2026</p>
+            </div>
+
+          <div class="usecase-card" data-service="Training & Outreach, Template Development" data-cycle="Cycle 1">
+              <img src="/images/nfdi4cat_logo.png" alt="NFDI4Cat Logo">
+              <h4>Cycle 1</h4>     
+              <h5>Goal:</h5><p>NFDI4Cat is developing a discipline-specific DMP template that covers catalysis-related aspects like complex analysis, catalyst testing workflows and cooperation with industry. The important aspects of RDM in catalysis at the status quo, based on requirement analysis, will be addressed by the DMP template. The DMP template will be released to collect further community feedback and update the template based on this iterative workflow and further ongoing developments in RDM.</p>
+              <h5>Duration:</h5><p>February 2026 - July 2026</p>
+            </div>     
+
           <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 1">
               <img src="/images/nfdi4health_logo.png" alt="NFDI4Health Logo">
               <h4>Cycle 1</h4>     
@@ -138,20 +152,6 @@ sections:
               <h5>Goal:</h5><p>This project aims to develop a mathematics-specific DMP template, building on the recommendations of the MaRDI consortium’s white paper “Research Data Management Planning in Mathematics”. The project will translate discipline-specific requirements into a structured, modular template capturing the diversity of mathematical research data—proofs, algorithms, computational workflows, mathematical models, software, numerical datasets, and visualizations.</p>
               <h5>Duration:</h5><p>February 2026 - July 2026</p>
             </div>              
-
-          <div class="usecase-card" data-service="Training & Outreach" data-cycle="Cycle 1">
-              <img src="/images/text+_logo.png" alt="Text+ Logo">
-              <h4>Cycle 1</h4>     
-              <h5>Goal:</h5><p>Text+ has created a DMP template in collaboration with participants of the consortium that has been expanded with discipline-specific examples. The compatibility between the Text+ template and the NFDI DMP template on RDMO has been also ensured. The aim of this new incubator project is to raise awareness of the added value of the DMP template in RDMO and to showcase it through the Text+ event series, “Show and Tell: Tools, Services, Projects”, as well as through a workshop to gather feedback.</p>
-              <h5>Duration:</h5><p>January 2026 - June 2026</p>
-            </div>
-
-          <div class="usecase-card" data-service="Training & Outreach, Template Development" data-cycle="Cycle 1">
-              <img src="/images/nfdi4cat_logo.png" alt="Text+ Logo">
-              <h4>Cycle 1</h4>     
-              <h5>Goal:</h5><p>NFDI4Cat is developing a discipline-specific DMP template that covers catalysis-related aspects like complex analysis, catalyst testing workflows and cooperation with industry. The important aspects of RDM in catalysis at the status quo, based on requirement analysis, will be addressed by the DMP template. The DMP template will be released to collect further community feedback and update the template based on this iterative workflow and further ongoing developments in RDM.</p>
-              <h5>Duration:</h5><p>February 2026 - July 2026</p>
-            </div>     
 
           <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 0">
               <img src="/images/nfdi4microbiota_logo.png" alt="NFDI4Microbiota Logo">
@@ -243,11 +243,12 @@ sections:
               <!--<h5>Results:</h5><p><a href="https://dmp.services.base4nfdi.de/" target="_blank" rel="noopener noreferrer">Text+ RDMO Catalog</a></p>-->
             </div>          
           
-          <div class="usecase-card" data-service="Training & Outreach" data-cycle="Cycle 0">
+          <div class="usecase-card" data-service="Training & Outreach" data-cycle="Cycle 0, Cycle 1">
               <img src="/images/nfdi4chem_logo.png" alt="NFDI4Chem Logo">
               <h4>Cycle 0</h4>        
               <h5>Goal:</h5><p>NFDI4Chem has a productive RDMO client with a DMP template that has been optimised for the special requirements of chemists and can be used by everyone. The consortium is organising training activities for its community to showcase the use of RDMO for creating and managing DMPs based on the developed template. In this incubator project, DMP4NFDI supports the consortium by providing available Open Educational Resources (OERs) and other training materials, as well as a checklist for data stewards based on the Train-the-Trainer concept for DMPs and RDMO. This checklist will highlight key considerations for delivering introductory workshops on DMPs and the use of RDMO.</p>
-              <h5>Duration:</h5><p>July 2025 - December 2025</p>
+              <h5>Duration:</h5><p>July 2025 - May 2026</p>
+              <!--<h5>Results:</h5><p><a href="https://dmp.services.base4nfdi.de/" target="_blank" rel="noopener noreferrer">Link to results</a></p>-->
             </div>              
 
           <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Initialisation phase">
@@ -531,7 +532,7 @@ sections:
               }
             });
           });
-        </script>
+        </script>       
         
     design:
       spacing:
