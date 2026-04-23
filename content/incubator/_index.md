@@ -44,23 +44,25 @@ sections:
         Submissions will open in the second half of March!
         -->  
 
-        We look forward to your application!     
+        <!-- We look forward to your application!     
         
-        **Deadline**: April 22, 2026
+        **Deadline**: April 22, 2026 -->
 
 
-        <!-- Next call: 2nd Quarter of 2026 -->
+        Next Call: Autumn 2026
       text: |
         
-        Our 2nd call for incubators is **now open**. 
+        <!-- Our 2nd call for incubators is **now open**.
         
-        To propose an incubator project, please complete the short application template outlining your goals, team, and expected outcomes, and **submit the template by April 22**. 
-
-        **Download the Template:** <a href="/files/DMP4NFDI-incubator-template-application.odt" target="_blank" rel="noopener">.odt</a>, <a href="/files/DMP4NFDI-incubator-template-application.docx" target="_blank" rel="noopener">.docx</a>, <a href="/files/DMP4NFDI-incubator-template-application.pdf" target="_blank" rel="noopener">.pdf</a>
-
-        Do you already have ideas for an incubator? Please reach out in advance to discuss them: <a href="/contact/" target="_blank" rel="noopener">Contact us!</a>           
+        To propose an incubator project, please complete the short application template outlining your goals, team, and expected outcomes, and **submit the template by April 22**. -->
         
-        Send your submissions (PDF) to **[dmp4nfdi@lists.nfdi.de](mailto:dmp4nfdi@lists.nfdi.de)**.
+        Our **next call for incubator projects** will open in **autumn 2026**. To apply, please complete the short application template outlining your goals, team, and expected outcomes.
+
+        **Download the Template:** <a href="/files/DMP4NFDI-incubator-template-application.odt" target="_blank" rel="noopener">.odt</a> | <a href="/files/DMP4NFDI-incubator-template-application.docx" target="_blank" rel="noopener">.docx</a> | <a href="/files/DMP4NFDI-incubator-template-application.pdf" target="_blank" rel="noopener">.pdf</a>    
+        
+        <!-- Send your submissions (PDF) to **[dmp4nfdi@lists.nfdi.de](mailto:dmp4nfdi@lists.nfdi.de)**. -->
+
+        Do you already have ideas for an incubator? <a href="/contact/" target="_blank" rel="noopener">Get in touch</a> in advance to discuss it with us. We’re happy to support you in shaping your project idea!              
          
     design:
       columns: '2'
