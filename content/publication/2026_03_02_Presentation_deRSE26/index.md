@@ -1,26 +1,27 @@
 ---
-title: 'Presentation title (ggf. @event)'
+title: 'A comparison across SMPs'
 
-draft: true
+draft: false
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - "Castro Garcia, L"
-  - "Gonzalez Ocanto, M."
-  - "Hohle, I."
+  - "Müller, B."
+  - "Solanki, D."
+  - "Gonzalez-Ocanto, M."
+  - "Wallace, D."
   - "Schönau, S."
-  - "Wallace, D."   
   - "Windeck, J."
+  - "Castro, L."
 
 # Author notes (optional)
 author_notes: []
 
 # Publication date
-date: '2013-07-01T00:00:00Z'
+date: '2026-03-02T00:00:00Z'
 
-doi: ''
+doi: '10.5281/zenodo.18838164'
 
 # Date on which this page gets published
 publishDate: '2017-01-01T00:00:00Z'
@@ -34,12 +35,13 @@ publication_types: ['paper-conference']
 publication: "Zenodo"
 publication_short: "Presentation"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 'In this talk at the deRSE26 - Conference for Research Software Engineering in Germany, we presented a comparative analysis of five Software Management Plans: ELIXIR SMP, eScience Center SMP, PreSOFT, Max Planck Digital Libraries SMP, Digital Research Alliance of Canada SMP, including commonalities and differences'
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this talk at the deRSE26 we presented a comparative analysis of five Software Management Plans.  
 
-tags: []
+tags: ["DMP4NFDI", "deRSE26", "SMP", "Software Management Plan"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -49,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://doi.org/10.5281/zenodo.18838164'
 url_code: ''
 url_dataset: ''
 url_poster: ''

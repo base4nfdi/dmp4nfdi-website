@@ -12,13 +12,13 @@ location: online via Zoom
 #  postcode: '50931'
 #  country: Germany
 
-summary: 'DMP4NFDI is conducting the hands-on workshop “RDMO for Editors” on 12–13 May 2026, from 9:00 AM to 12:30 PM (CET), online via Zoom.'
-abstract: 'DMP4NFDI is conducting the hands-on workshop “RDMO for Editors” on 12–13 May 2026, online via Zoom. Participants will learn how to navigate the RDMO management interface, create new catalogs, and use the NFDI Template Framework to build interoperable and standardised catalogs for their communities.'
+summary: 'DMP4NFDI held the hands-on workshop “RDMO for Editors” on 12–13 May 2026, from 9:00 AM to 12:30 PM (CET), online via Zoom.'
+abstract: 'DMP4NFDI conducted the hands-on workshop “RDMO for Editors” on 12–13 May 2026, online via Zoom. Participants learned how to navigate the RDMO management interface, create new catalogs, and use the NFDI Template Framework to build interoperable and standardised catalogs for their communities.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2026-05-12T09:00:00Z
-date_end: 2026-05-13T13:00:00Z
+date: 2026-05-12T00:00:00Z
+date_end: 2026-05-13T00:00:00Z
 all_day: false
 
 # Schedule page publish date (NOT talk date).
