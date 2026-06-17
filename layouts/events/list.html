@@ -18,9 +18,9 @@
   
   {{ range $events }}
     {{ $start := .Date }}
-    {{ $endParam := .Params.end }}
+    {{ $endParam := .Params.date_end }}
   
-    {{/* if endParam is nil use start, else try casting with time */}}
+    {{/* if date_end is nil use start, else use date_end */}}
     {{ $eventEnd := $start }}
     {{ if $endParam }}
       {{ $eventEnd = time $endParam }}

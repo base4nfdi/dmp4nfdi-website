@@ -235,7 +235,7 @@ sections:
               <h4>Cycle 0</h4>       
               <h5>Goal:</h5><p>FAIRagro customises DMP templates of funding agencies based on the needs of the agrosystem community for efficient and straight forward usage. The close cooperation with DMP4NFDI will ensure the compatibility and reusability of the developments. During the incubator project, a customised DMP template for the agrosystem sciences will be created and made available, based on community feedback (e.g. through workshops) and aligned with the existing NFDI DMP Template Framework.</p>
               <h5>Duration:</h5><p>July 2025 - Dec 2025</p>
-              <!--<h5>Results:</h5><p><a href="https://dmp.services.base4nfdi.de/" target="_blank" rel="noopener noreferrer">FAIRagro RDMO Catalog</a></p>-->
+              <h5>Results:</h5><p><a href="https://github.com/fairagro/FAIRagro_DMP_Template" target="_blank" rel="noopener noreferrer">FAIRagro RDMO Catalog</a></p>
             </div>
             
           <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 0">
@@ -243,7 +243,7 @@ sections:
               <h4>Cycle 0</h4>     
               <h5>Goal:</h5><p>The institutions involved in Text+ advise researchers on all steps of the systematic organisation of their research data. Thus, Text+ offers its community a question catalogue for structured planning, which is provided by the eResearch Alliance of the University of Göttingen (access via GRO.Plan, access with Academic ID). Based on the RDMO standard catalogue and the question catalogue of the Max Weber Foundation, the Text+ catalogue was adapted accordingly in collaboration with participants of the consortium, based on the removal of irrelevant questions, the enrichment with subject-specific examples and the integration of suitable plugins. In this incubator project, the compatibility between the Text+ catalogue and the NFDI question catalogue will be ensured, specifying and adjusting the places where the Text+ catalogue is still too generic.</p>
               <h5>Duration:</h5><p>September 2025 - Dec 2025</p>
-              <!--<h5>Results:</h5><p><a href="https://doi.org/10.5281/zenodo.20529135" target="_blank" rel="noopener noreferrer">Text+ RDMO Catalog</a></p>-->
+              <h5>Results:</h5><p><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/Text%2B" target="_blank" rel="noopener noreferrer">Text+ RDMO Catalog</a></p>
             </div>          
           
           <div class="usecase-card" data-service="Training & Outreach" data-cycle="Cycle 0, Cycle 1">
@@ -307,8 +307,7 @@ sections:
               <h4>Initialisation phase</h4>
               <h5>Goal:</h5><p>Set up an RDMO test client for the NFDI4Earth consortium to support the conversion of a community-specific DMP template (MOSES project) into an RDMO catalog. Additionally, support the consortium in developing a plugin that allows users to search sensor databases from within RDMO and import retrieved metadata directly into the DMP.</p>
               <h5>Duration:</h5><p>June 2024 - June 2025</p>
-              <h5>Status:</h5><p>Test client ready; productive client in preparation</p>
-              <!--<h5>Results:</h5><p><a href="https://rdmo.mardi4nfdi.de" target="_blank" rel="noopener noreferrer">MOSES Catalog</a></p>-->
+              <h5>Results:</h5><p><a href="https://github.com/rdmorganiser/rdmo-plugins-sensorsearch" target="_blank" rel="noopener noreferrer">RDMO Sensor Search option set plugin</a></p><p>RDMO test client ready; productive client in preparation</p>
             </div>
 
         </div>
