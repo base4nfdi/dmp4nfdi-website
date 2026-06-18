@@ -73,6 +73,12 @@ sections:
       title: "Projects"
       text: |
         <p>We work with NFDI consortia to <b>develop and enhance DMP and SMP services</b> for their research communities. Browse our current and past incubator projects and filter by <b>service type</b> and <b>cycle</b> to learn more.</p>
+        <p> Upcoming incubators:</p>
+         <ul>
+          <li>RDMO Integration with <b>RADAR research data repository</b></li>
+          <li>Template Development with <b>NFDI4Chem</b> and <b>NFDI4Ing</b> (alignment with NFDI Template Framework)</li>
+          <li>Training & Outreach with <b>NFDI4Health</b></li>
+        </ul> 
 
         <!-- Filter bar -->
         <div id="usecase-filter" class="usecase-filter not-prose">
