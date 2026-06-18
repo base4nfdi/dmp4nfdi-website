@@ -72,13 +72,22 @@ sections:
     content:
       title: "Projects"
       text: |
-        <p>We work with NFDI consortia to <b>develop and enhance DMP and SMP services</b> for their research communities. Browse our current and past incubator projects and filter by <b>service type</b> and <b>cycle</b> to learn more.</p>
-        <p> Upcoming incubators:</p>
-         <ul>
-          <li>RDMO Integration with <b>RADAR research data repository</b></li>
-          <li>Template Development with <b>NFDI4Chem</b> and <b>NFDI4Ing</b> (alignment with NFDI Template Framework)</li>
-          <li>Training & Outreach with <b>NFDI4Health</b></li>
-        </ul> 
+        <div style="text-align:left;">
+        
+        We work with NFDI consortia to **develop and enhance DMP and SMP services** for their research communities. Browse our current and past incubator projects and filter by **service type** and **cycle** to learn more.
+
+        <em><p>Upcoming incubator projects (Cycle 2):</p>
+        
+          - RDMO Integration with **RADAR research data repository**
+
+          - Template Development with **NFDI4Chem** and **NFDI4Ing** (alignment with <a href="/services/template-development/#nfdi-dmp-template-framework" target="_blank" rel="noopener">NFDI DMP Template Framework</a>)
+
+          - Training & Outreach with **NFDI4Health** 
+
+        The details will be available on the incubator's dashboard by summer 2026.
+        </em>
+
+        </div>
 
         <!-- Filter bar -->
         <div id="usecase-filter" class="usecase-filter not-prose">
