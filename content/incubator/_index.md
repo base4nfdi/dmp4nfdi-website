@@ -192,6 +192,7 @@ sections:
                 <h4>Cycle 1</h4>     
                 <h5>Goal:</h5><p>This incubator project focuses on community outreach and promoting FAIRagro’s domain-specific DMP template. The project also aims to increase the template’s interoperability by dynamically making terminologies available for specific questions. A workshop or training session will be organized to gather user feedback for template improvement and to foster its adoption across the agricultural research community. For terminology implementation the project will gather and contribute requirements to inform technical developments between DMP4NFDI and the TS4NFDI basic service.</p>
                 <h5>Duration:</h5><p>January 2026 - June 2026</p>
+                <h5>Results:</h5><p><a href="/events/2026-06-17_fairagro-rdmo-workshop/" target="_blank" rel="noopener noreferrer">FAIRagro's RDMO Workshop</a></p>
             </div>
 
           <div class="usecase-card" data-service="Training & Outreach" data-cycle="Cycle 1" data-nfdi="Text+">
