@@ -4,11 +4,6 @@ summary: Call for incubator projects and how to join
 date: 2025-01-07
 type: landing
 
-_build:
-  list: never
-  publishResources: true
-  render: always
-
 sections:
   - block: markdown
     content:
@@ -75,7 +70,7 @@ sections:
         <div style="text-align:left;">
         
         We work with NFDI consortia to **develop and enhance DMP and SMP services** for their research communities. Browse our current and past incubator projects and filter by **service type** and **cycle** to learn more.
-
+        <!--  
         <em><p>Upcoming incubator projects (Cycle 2):</p>
         
           - RDMO Integration with **RADAR research data repository**
@@ -85,7 +80,8 @@ sections:
           - Training & Outreach with **NFDI4Health** 
 
         The details will be available on the incubator's dashboard by summer 2026.
-        </em>
+        </em> 
+         -->
 
         </div>
 
@@ -105,6 +101,27 @@ sections:
             <option>Initialisation phase</option>
             <option>Cycle 0</option>
             <option>Cycle 1</option>
+            <option>Cycle 2</option>
+          </select>
+
+          <select id="f-nfdi" aria-label="NFDI">
+            <option value="">NFDI Consortia</option>
+            <option>FAIRagro</option>
+            <option>FAIRmat</option>
+            <option>MaRDI</option>
+            <option>MatWerk</option>
+            <option>NFDI4Biodiversity</option>
+            <option>NFDI4BIOIMAGE</option>
+            <option>NFDI4Cat</option>
+            <option>NFDI4Chem</option>
+            <option>NFDI4Culture</option>
+            <option>NFDI4Earth</option>
+            <option>NFDI4Health</option>
+            <option>NFDI4ING</option>
+            <option>NFDI4Memory</option>
+            <option>NFDI4Microbiota</option>
+            <option>NFDI4Objects</option>
+            <option>Text+</option>
           </select>
 
           <button id="usecase-clear" type="button">Clear</button>
@@ -114,73 +131,109 @@ sections:
         <!-- Use case cards grid -->
         <div class="usecase-card-grid">
         <div class="usecase-card-grid">
-          <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 1">
+          <!-- CYCLE 2 -->
+          <div class="usecase-card" data-service="RDMO Integration" data-cycle="Cycle 2" data-nfdi="NFDI4Culture, NFDI4Chem">
+              <img src="/images/radar-4chem-4culture_logo.png" alt="RADAR Logo">
+              <h4>Cycle 2</h4>     
+              <h5>Goal:</h5><p>The incubator project aims to improve the integration of RDMO and the <b>RADAR research data repository</b> within the NFDI context. This integration enables researchers to smoothly and reliably transfer metadata already entered in data management plans directly into the repository, reducing redundant data entry and minimizing errors. While a basic metadata transfer between the two services is already implemented, the underlying mappings require continuous optimization. This project will refine these mappings and optimize the plugins based on the generic NFDI DMP template and further enhance metadata transfer for the consortia-specific RDMO instances of <b>NFDI4Chem</b> and <b>NFDI4Culture</b>, including their tailored questionnaires, if available.</p>
+              <h5>Duration:</h5><p>July 2026 - December 2026</p>
+            </div>
+
+          <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 2" data-nfdi="NFDI4Chem">
+              <img src="/images/nfdi4chem_logo.png" alt="NFDI4Chem Logo">
+              <h4>Cycle 2</h4>     
+              <h5>Goal:</h5><p>A few years ago, NFDI4Chem developed a chemistry-specific DMP template. This was created based on surveys and interviews with chemists to identify their needs, and it aligns with the DFG checklist. The template is available as a RDMO catalogue within the NFDI4Chem RDMO instance and is widely used by researchers. In order to enhance the standardisation and interoperability of the template, NFDI4Chem will now be adapting it to align with the NFDI Template Framework developed by DMP4NFDI. This will result in an updated, interoperable version of the chemistry-specific DMP template.</p>
+              <h5>Duration:</h5><p>July 2026 - December 2026</p>
+            </div>
+            
+          <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 2" data-nfdi="NFDI4ING">
+              <img src="/images/nfdi4ing_logo.png" alt="NFDI4Ing Logo">
+              <h4>Cycle 2</h4>     
+              <h5>Goal:</h5><p>The Incubator Project aims to optimise the DMP for engineering sciences by transitioning from version 2 to version 3. The goal is to significantly enhance the practical applicability of the DMP within the RDMO tool for engineering research. To this end, feedback gathered during live operation from the specialist community and users is being incorporated directly into the revision process. The technical and content-related development involves aligning the questionnaire with the NFDI DMP Template Framework to ensure NFDI-wide standards. To enable the exchange of metadata between RDMO and Coscine, the Coscine query is also being adjusted.</p>
+              <h5>Duration:</h5><p>July 2026 - December 2026</p>
+            </div>
+
+          <div class="usecase-card" data-service="Training & Outreach" data-cycle="Cycle 2" data-nfdi="NFDI4Health">
+              <img src="/images/nfdi4health_logo.png" alt="NFDI4health Logo">
+              <h4>Cycle 2</h4>     
+              <h5>Goal:</h5><p>The template "Research Data Management Plan - Epidemiological studies" is aimed at epidemiological researchers and has been implemented fully in RDMO. The incubator will help develop a training/tutorial for using this template while also providing an overview of DMPs and their relevance. The developed training/tutorial will provide a basis for further trainings/tutorials on the other NFDI4Health templates (one for clinical research and one shortened version that can be handed in along with a research proposal e.g. at the DFG) that will be implemented in RDMO.</p>
+              <h5>Duration:</h5><p>July 2026 - December 2026</p>
+            </div>
+          
+          <!-- CYCLE 1 -->
+
+          <div class="usecase-card" data-service="RDMO Hosting, RDMO Integration" data-cycle="Cycle 1" data-nfdi="NFDI4Earth">
               <img src="/images/nfdi4earth_logo.png" alt="NFDI4Earth Logo">
               <h4>Cycle 1</h4>     
               <h5>Goal:</h5><p>Provision of an operational RDMO for the Earth System Science community to create DMPs for sensor-heavy research projects as well as for monitoring activities. The RDMO will be linked to existing sensor- and data management systems such as SMS, O2A. This will allow the direct and seamless integration of sensor metadata in RDMO-based data management plans, ensuring metadata consistency between the linked systems. During the incubator project, a productive client will be set up and evaluated by the community in a user workshop.</p>
               <h5>Duration:</h5><p>January 2026 - June 2026</p>
+              <h5>Results:</h5><p><a href="https://rdmo.nfdi4earth.de/" target="_blank" rel="noopener noreferrer">NFDI4Earth RDMO Client</a></p>
+              <p><a href="https://github.com/rdmorganiser/rdmo-plugins-coscine" target="_blank" rel="noopener noreferrer">RDMO Sensor Search option set plugin updated</a></p>
             </div>
 
-          <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 1">
+          <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 1" data-nfdi="FAIRmat">
                <img src="/images/psinnfdi_logo.png" alt="Physical-sciences Consortia Logo">
               <h4>Cycle 1</h4>     
               <h5>Goal:</h5><p>Establishing an RDMO client that provides high-quality, user-friendly DMP templates that meet funder requirements and reflects the needs of the research community. The service will initially support the solid-state physics community represented within the NFDI by <b>FAIRmat</b>. The RDMO client will be prepared for extensibility so that other physical-sciences consortia (PSinNFDI), including DAPHNE4NFDI, MaRDI, MatWerk, NFDI4Chem, NFDI4Cat, and PUNCH4NFDI, can provide their existing RDMO catalogues or later contribute domain requirements or templates if capacity allows.</p>
               <h5>Duration:</h5><p>January 2026 - June 2026</p>
-              <h5>Status:</h5><p>Test client ready; productive client in preparation</p>
+              <h5>Results:</h5><p><a href="https://dmp4ps.fairmat-nfdi.eu/" target="_blank" rel="noopener noreferrer">RDMO Client for the Physical Sciences</a></p>
             </div>
             
-          <div class="usecase-card" data-service="RDMO Integration" data-cycle="Cycle 1">
+          <div class="usecase-card" data-service="RDMO Integration" data-cycle="Cycle 1" data-nfdi="NFDI4ING">
               <img src="/images/coscine-4ing_logo.png" alt="Coscine Logo">
               <h4>Cycle 1</h4>     
               <h5>Goal:</h5><p>The incubator project aims to enhance the integration between two services supporting researchers in the NFDI: RDMO and Coscine. By streamlining the workflow and reducing redundant efforts, the project focuses in a first step on connecting the NFDI4ING RDMO with Coscine using the NFDI DMP catalog. The incubator will simplify the metadata import for projects from RDMO to Coscine by eliminating the manual processes currently required through an improved API interface.</p>
               <h5>Duration:</h5><p>January 2026 - June 2026</p>
+              <h5>Results:</h5><p><a href="https://github.com/rdmorganiser/rdmo-plugins-coscine" target="_blank" rel="noopener noreferrer">RDMO Coscine Plugin</a></p>
             </div>
 
-          <div class="usecase-card" data-service="RDMO Integration, Training & Outreach" data-cycle="Cycle 1">
+          <div class="usecase-card" data-service="RDMO Integration, Training & Outreach" data-cycle="Cycle 1" data-nfdi="FAIRagro">
                 <img src="/images/fairagro_logo.png" alt="FAIRagro Logo">
                 <h4>Cycle 1</h4>     
                 <h5>Goal:</h5><p>This incubator project focuses on community outreach and promoting FAIRagro’s domain-specific DMP template. The project also aims to increase the template’s interoperability by dynamically making terminologies available for specific questions. A workshop or training session will be organized to gather user feedback for template improvement and to foster its adoption across the agricultural research community. For terminology implementation the project will gather and contribute requirements to inform technical developments between DMP4NFDI and the TS4NFDI basic service.</p>
                 <h5>Duration:</h5><p>January 2026 - June 2026</p>
             </div>
 
-          <div class="usecase-card" data-service="Training & Outreach" data-cycle="Cycle 1">
+          <div class="usecase-card" data-service="Training & Outreach" data-cycle="Cycle 1" data-nfdi="Text+">
               <img src="/images/text+_logo.png" alt="Text+ Logo">
               <h4>Cycle 1</h4>     
               <h5>Goal:</h5><p>Text+ has created a DMP template in collaboration with participants of the consortium that has been expanded with discipline-specific examples. The compatibility between the Text+ template and the NFDI DMP template on RDMO has been also ensured. The aim of this new incubator project is to raise awareness of the added value of the DMP template in RDMO and to showcase it through the Text+ event series, “Show and Tell: Tools, Services, Projects”, as well as through a workshop to gather feedback.</p>
               <h5>Duration:</h5><p>January 2026 - June 2026</p>
             </div>
 
-          <div class="usecase-card" data-service="Training & Outreach, Template Development" data-cycle="Cycle 1">
+          <div class="usecase-card" data-service="Training & Outreach, Template Development" data-cycle="Cycle 1" data-nfdi="NFDI4Cat">
               <img src="/images/nfdi4cat_logo.png" alt="NFDI4Cat Logo">
               <h4>Cycle 1</h4>     
               <h5>Goal:</h5><p>NFDI4Cat is developing a discipline-specific DMP template that covers catalysis-related aspects like complex analysis, catalyst testing workflows and cooperation with industry. The important aspects of RDM in catalysis at the status quo, based on requirement analysis, will be addressed by the DMP template. The DMP template will be released to collect further community feedback and update the template based on this iterative workflow and further ongoing developments in RDM.</p>
               <h5>Duration:</h5><p>February 2026 - July 2026</p>
             </div>     
 
-          <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 1">
+          <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 1" data-nfdi="NFDI4Health">
               <img src="/images/nfdi4health_logo.png" alt="NFDI4Health Logo">
               <h4>Cycle 1</h4>     
               <h5>Goal:</h5><p>The template "Research Data Management Plan - Epidemiological studies" is aimed at epidemiological researchers and is currently published as a fillable PDF document. The goal of this incubator project is to fully implement the template in RDMO so that researchers can use, review and adapt it to their needs. The incubator will provide the basis for the implementation of two further NFDI4Health DMP templates, one for clinical research and one shortened version that can be handed it along with a research proposal, e.g. at the DFG.</p>
               <h5>Duration:</h5><p>February 2026 - July 2026</p>
             </div>
             
-          <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 1">
+          <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 1" data-nfdi="MaRDI">
               <img src="/images/mardi_logo.png" alt="MaRDI Logo">
               <h4>Cycle 1</h4>     
               <h5>Goal:</h5><p>This project aims to develop a mathematics-specific DMP template, building on the recommendations of the MaRDI consortium’s white paper “Research Data Management Planning in Mathematics”. The project will translate discipline-specific requirements into a structured, modular template capturing the diversity of mathematical research data—proofs, algorithms, computational workflows, mathematical models, software, numerical datasets, and visualizations.</p>
               <h5>Duration:</h5><p>February 2026 - July 2026</p>
             </div>              
 
-          <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 0">
+          <!-- CYCLE 0 -->
+
+          <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 0" data-nfdi="NFDI4Microbiota">
               <img src="/images/nfdi4microbiota_logo.png" alt="NFDI4Microbiota Logo">
               <h4>Cycle 0</h4>     
               <h5>Goal:</h5><p>NFDI4Microbiota will use RDMO to provide and continuously maintain a tailored DMP template for the microbiological research community. A dedicated test environment already supports current catalog development and evaluation, with the productive system scheduled for release by the end of 2025. Data stewards from the consortium's help desk will receive manager rights to offer first-level support and ensure wide user adoption.</p>
               <h5>Duration:</h5><p>July 2025 - December 2025</p>
-              <h5>Status:</h5><p>Test client ready; productive client in preparation</p>
+              <h5>Results:</h5><p>Test client ready; productive client in preparation</p>
               <!--<h5>Results:</h5><p><a href="https://rdmo.consortia.de" target="_blank" rel="noopener noreferrer">Consortium RDMO Client</a></p>-->
             </div>
 
-          <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 0">
+          <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 0" data-nfdi="NFDI4Energy">
               <img src="/images/nfdi4energy_logo.png" alt="NFDI4Energy Logo">
               <h4>Cycle 0</h4>       
               <h5>Goal:</h5><p>Establishing an RDMO environment tailored to the consortium’s needs. During the incubator project, a test client will be set up, followed shortly by a productive system to enable early evaluation within the community by utilising existing RDMO catalogs and templates, e.g. by NFDI4ING. User access will be managed through the NFDI-AAI login, providing federated authentication based on institutional accounts.</p>
@@ -188,34 +241,33 @@ sections:
               <h5>Results:</h5><p><a href="https://rdmo.nfdi4energy.org/" target="_blank" rel="noopener noreferrer">NFDI4Energy RDMO Client</a></p>
             </div>
 
-          <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 0">
+          <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 0" data-nfdi="MatWerk">
               <img src="/images/nfdi-matwerk_logo.png" alt="NFDI-MatWerk Logo">
               <h4>Cycle 0</h4>       
               <h5>Goal:</h5><p>Implementing an RDMO client to serve the consortium’s research data management activities. A pilot version will be launched for internal testing. A productive instance is foreseen after validation of the pilot.</p>
               <h5>Duration:</h5><p>September 2025 - December 2025</p>
-              <h5>Status:</h5><p>Test client ready; productive client in preparation</p>
+              <h5>Results:</h5><p>Test client ready; productive client in preparation</p>
               <!--<h5>Results:</h5><p><a href="https://rdmo.consortia.de" target="_blank" rel="noopener noreferrer">Consortium RDMO Client</a></p>-->
             </div>
 
-          <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 0">
+          <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 0" data-nfdi="NFDI4BIOIMAGE">
               <img src="/images/nfdi4bioimage_logo.png" alt="NFDI4BioImage Logo">
               <h4>Cycle 0</h4>       
               <h5>Goal:</h5><p>Setting up an RDMO client to explore integration with existing data workflows and to develop initial catalog structures. Create familiarity with the template system and build up Know-How to enable guidance and teaching of users. Integration with the NFDI-AAI Didmos login is planned to provide seamless and secure user authentication. </p>
               <h5>Duration:</h5><p>October 2025 - December 2025</p>
-              <h5>Status:</h5><p>Test client ready; productive client in preparation</p>
-              <!--<h5>Results:</h5><p><a href="https://rdmo.consortia.de" target="_blank" rel="noopener noreferrer">Consortium RDMO Client</a></p>-->
+              <h5>Results:</h5><p><a href="https://rdmo.nfdi4bioimage.de/" target="_blank" rel="noopener noreferrer">NFDI4BIOMAGE RDMO Client</a></p>
             </div>
 
-          <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 0">
+          <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 0" data-nfdi="NFDI4Health">
               <img src="/images/nfdi4health_logo.png" alt="NFDI4Health Logo">
               <h4>Cycle 0</h4>        
               <h5>Goal:</h5><p>The goal is to set up a dedicated RDMO client for NFDI4Health, which will provide a Data Management Plan (DMP) service for the health research community. A test system will be set up in the first incubator project to facilitate the implementation, development and testing of the catalogue. Work on the catalogue will likely form part of another incubator project prior to migration to a productive RDMO system. The RDMO client will support authentication via the NFDI-AAI, enabling users to securely log in with their institutional credentials.</p>
               <h5>Duration:</h5><p>October 2025 - December 2025</p>
-              <h5>Status:</h5><p>Test client ready; productive client in preparation</p>
+              <h5>Results:</h5><p>Test client ready; productive client in preparation</p>
               <!--<h5>Results:</h5><p><a href="https://rdmo.consortia.de" target="_blank" rel="noopener noreferrer">Consortium RDMO Client</a></p>-->
             </div>  
 
-          <div class="usecase-card" data-service="RDMO Integration" data-cycle="Cycle 0">
+          <div class="usecase-card" data-service="RDMO Integration" data-cycle="Cycle 0" data-nfdi="MaRDI">
               <img src="/images/mardi_logo.png" alt="MaRDI Logo">
               <h4>Cycle 0</h4>      
               <h5>Goal:</h5><p>MaRDI offers its MaRDMO service to all researchers using mathematical methods in their research, regardless of discipline background. In this incubator project, the MaRDMO plugin collection for RDMO is further enhanced to include instrument data bases. The plugin will be able to query different instrument databases across NFDI consortia, and to store instrument metadata inside the MaRDMO template.</p>
@@ -223,7 +275,7 @@ sections:
               <h5>Results:</h5><p><a href="https://github.com/rdmorganiser/rdmo-plugins-generic-search" target="_blank" rel="noopener noreferrer">Generic Search RDMO Plugin</a></p>            
             </div>
             
-          <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 0">
+          <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 0" data-nfdi="NFDI4Culture">
               <img src="/images/nfdi4culture_logo.png" alt="NFDI4Culture Logo">
               <h4>Cycle 0</h4>        
               <h5>Goal:</h5><p>The aim of this incubator project was to help cultural heritage institutions find the right software solution for organising and presenting their artefacts. To this end, we have developed a decision-making aid comprising two complementary DMP templates. One template is designed from the user's perspective (i.e. collections) to help clarify their requirements and assist in selecting suitable software for collection management. The other template enables collection management products to be described in detail from the provider's perspective, making them comparable for users. This facilitates a matching between software products and users.</p>
@@ -231,21 +283,21 @@ sections:
               <h5>Results:</h5><p><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/NFDI4Culture" target="_blank" rel="noopener noreferrer">NFDI4Culture RDMO Catalog</a></p>         
             </div>
 
-          <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 0">
+          <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 0" data-nfdi="NFDI4Memory">
               <img src="/images/nfdi4memory_logo.png" alt="NFDI4Memory Logo">
               <h4>Cycle 0</h4>        
               <h5>Goal:</h5><p>NFDI4Memory is developing a discipline-specific DMP template to support the historical research community in their application process. The questionnaire is being continually refined in close collaboration with the community. In this incubator project, the template is developed based on the existing NFDI DMP Template Framework, while adapting and extending results from the community. The project also includes the integration of the new template into the NFDI4Memory RDMO client.</p>
               <h5>Duration:</h5><p>July 2025 - Dec 2025</p>
             </div>      
             
-          <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 0">
+          <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 0" data-nfdi="NFDI4Objects, NFDI4Culture">
               <img src="/images/nfdi4objects_nfdi4culture_logo.png" alt="NFDI4Objects and NFDI4Culture Logo">
               <h4>Cycle 0</h4>        
               <h5>Goal:</h5><p>The product of this incubator project is a DMP template to help museums and collections implement the FAIR principles. The template provides an accessible option for assessing the FAIR quality of collection data. The questions are categorised according to four typical processing phases: digitisation, documentation, publication and storage/archiving. Most of the questions within these categories are assigned to indicators from the FAIR Data Maturity Model. The template includes answer options, some recommendations for action, help texts, notes and links to useful materials. The aim is to create a template that illustrates the different levels of FAIR implementation, while also providing institutions with a roadmap to improve the quality of their data.</p>
               <h5>Duration:</h5><p>July 2025 - December 2025</p>
             </div>
 
-          <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 0">
+          <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 0" data-nfdi="FAIRagro">
               <img src="/images/fairagro_logo.png" alt="FAIRagro Logo">
               <h4>Cycle 0</h4>       
               <h5>Goal:</h5><p>FAIRagro customises DMP templates of funding agencies based on the needs of the agrosystem community for efficient and straight forward usage. The close cooperation with DMP4NFDI will ensure the compatibility and reusability of the developments. During the incubator project, a customised DMP template for the agrosystem sciences will be created and made available, based on community feedback (e.g. through workshops) and aligned with the existing NFDI DMP Template Framework.</p>
@@ -253,7 +305,7 @@ sections:
               <h5>Results:</h5><p><a href="https://github.com/fairagro/FAIRagro_DMP_Template" target="_blank" rel="noopener noreferrer">FAIRagro RDMO Catalog</a></p>
             </div>
             
-          <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 0">
+          <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 0" data-nfdi="Text+">
               <img src="/images/text+_logo.png" alt="Text+ Logo">
               <h4>Cycle 0</h4>     
               <h5>Goal:</h5><p>The institutions involved in Text+ advise researchers on all steps of the systematic organisation of their research data. Thus, Text+ offers its community a question catalogue for structured planning, which is provided by the eResearch Alliance of the University of Göttingen (access via GRO.Plan, access with Academic ID). Based on the RDMO standard catalogue and the question catalogue of the Max Weber Foundation, the Text+ catalogue was adapted accordingly in collaboration with participants of the consortium, based on the removal of irrelevant questions, the enrichment with subject-specific examples and the integration of suitable plugins. In this incubator project, the compatibility between the Text+ catalogue and the NFDI question catalogue will be ensured, specifying and adjusting the places where the Text+ catalogue is still too generic.</p>
@@ -261,7 +313,7 @@ sections:
               <h5>Results:</h5><p><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/Text%2B" target="_blank" rel="noopener noreferrer">Text+ RDMO Catalog</a></p>
             </div>          
           
-          <div class="usecase-card" data-service="Training & Outreach" data-cycle="Cycle 0, Cycle 1">
+          <div class="usecase-card" data-service="Training & Outreach" data-cycle="Cycle 0, Cycle 1" data-nfdi="NFDI4Chem">
               <img src="/images/nfdi4chem_logo.png" alt="NFDI4Chem Logo">
               <h4>Cycle 0, Cycle 1</h4>        
               <h5>Goal:</h5><p>NFDI4Chem has a productive RDMO client with a DMP template that has been optimised for the special requirements of chemists and can be used by everyone. The consortium is organising training activities for its community to showcase the use of RDMO for creating and managing DMPs based on the developed template. In this incubator project, DMP4NFDI supports the consortium by providing available Open Educational Resources (OERs) and other training materials, as well as a training guide for data stewards based on the Train-the-Trainer concept for DMPs and RDMO. This guide will highlight key considerations for delivering introductory workshops on DMPs and the use of RDMO.</p>
@@ -269,7 +321,9 @@ sections:
               <h5>Results:</h5><p><a href="https://doi.org/10.5281/zenodo.20529135" target="_blank" rel="noopener noreferrer">Training Guide for DMP Workshops</a></p>
             </div>              
 
-          <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Initialisation phase">
+          <!-- INITIALISATION PHASE -->
+
+          <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Initialisation phase" data-nfdi="NFDI4ING">
               <img src="/images/nfdi4ing_logo.png" alt="NFDI4Ing Logo">
               <h4>Initialisation phase</h4>     
               <h5>Goal:</h5><p>Use the NFDI4ING RDMO service as the reference implementation for RDMO hosting in DMP4NFDI and as a foundation for onboarding further clients to the DMP4NFDI service.</p>
@@ -277,7 +331,7 @@ sections:
               <h5>Results:</h5><p><a href="https://rdmo.nfdi4ing.de" target="_blank" rel="noopener noreferrer">NFDI4Ing RDMO Client</a></p>
             </div>
 
-          <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Initialisation phase">
+          <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Initialisation phase" data-nfdi="NFDI4Chem">
               <img src="/images/nfdi4chem_logo.png" alt="NFDI4Chem Logo">
               <h4>Initialisation phase</h4>     
               <h5>Goal:</h5><p>Host and operate the RDMO client for the NFDI4Chem consortium within the DMP4NFDI service and bring it into productive operation.</p>
@@ -285,7 +339,7 @@ sections:
               <h5>Results:</h5><p><a href="https://rdmo.nfdi4chem.de" target="_blank" rel="noopener noreferrer">NFDI4Chem RDMO Client</a></p>
             </div>
 
-          <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Initialisation phase">
+          <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Initialisation phase" data-nfdi="FAIRagro">
               <img src="/images/fairagro_logo.png" alt="FAIRagro Logo">
               <h4>Initialisation phase</h4>     
               <h5>Goal:</h5><p>Set up an RDMO client for the FAIRagro consortium that is ready to provide DMP templates to the community.</p>
@@ -293,7 +347,7 @@ sections:
               <h5>Results:</h5><p><a href="https://rdmo.fairagro.net/" target="_blank" rel="noopener noreferrer">FAIRagro RDMO Client</a></p>
             </div>          
 
-          <div class="usecase-card" data-service="RDMO Integration" data-cycle="Initialisation phase">
+          <div class="usecase-card" data-service="RDMO Integration" data-cycle="Initialisation phase" data-nfdi="NFDI4Biodiversity">
               <img src="/images/nfdi4biodiversity_logo.png" alt="NFDI4Biodiversity Logo">
               <h4>Initialisation phase</h4>     
               <h5>Goal:</h5><p>Develop an RDMO plugin that connects the DMP tool to Zenodo, enabling users to publish DMPs as PDFs directly from RDMO.</p>
@@ -301,7 +355,7 @@ sections:
               <h5>Results:</h5><p><a href="https://github.com/rdmorganiser/rdmo-plugins-zenodo" target="_blank" rel="noopener noreferrer">RDMO Zenodo Plugin</a></p>
             </div>        
 
-          <div class="usecase-card" data-service="RDMO Hosting, RDMO Integration" data-cycle="Initialisation phase">
+          <div class="usecase-card" data-service="RDMO Hosting, RDMO Integration" data-cycle="Initialisation phase" data-nfdi="NFDI4Culture">
               <img src="/images/nfdi4culture_logo.png" alt="NFDI4Culture Logo">
               <h4>Initialisation phase</h4>     
               <h5>Goal:</h5><p>Host an RDMO tenant for the NFDI4Culture consortium and integrate the consortium’s community AAI as the login mechanism for authentication and authorization. RDMO user permissions should be manageable within the NFDI4Culture community AAI. The resulting service will support researchers, cultural professionals, and cultural heritage institutions.</p>
@@ -309,7 +363,7 @@ sections:
               <h5>Results:</h5><p><a href="https://rdmo.nfdi4culture.de" target="_blank" rel="noopener noreferrer">NFDI4Culture RDMO Client</a></p>
             </div>
 
-          <div class="usecase-card" data-service="RDMO Hosting, RDMO Integration" data-cycle="Initialisation phase">
+          <div class="usecase-card" data-service="RDMO Hosting, RDMO Integration" data-cycle="Initialisation phase" data-nfdi="MaRDI">
               <img src="/images/mardi_logo.png" alt="MaRDI Logo">
               <h4>Initialisation phase</h4>        
               <h5>Goal:</h5><p>Set up an RDMO client for the MaRDI consortium and integrate the existing MaRDMO plugin, which connects RDMO with the MaRDI knowledge graph infrastructure.</p>
@@ -317,7 +371,7 @@ sections:
               <h5>Results:</h5><p><a href="https://rdmo.mardi4nfdi.de" target="_blank" rel="noopener noreferrer">MaRDI RDMO Client</a></p>
             </div>
 
-          <div class="usecase-card" data-service="RDMO Hosting, Template Development, RDMO Integration" data-cycle="Initialisation phase">
+          <div class="usecase-card" data-service="RDMO Hosting, Template Development, RDMO Integration" data-cycle="Initialisation phase" data-nfdi="NFDI4Earth">
               <img src="/images/nfdi4earth_logo.png" alt="NFDI4Earth Logo">
               <h4>Initialisation phase</h4>
               <h5>Goal:</h5><p>Set up an RDMO test client for the NFDI4Earth consortium to support the conversion of a community-specific DMP template (MOSES project) into an RDMO catalog. Additionally, support the consortium in developing a plugin that allows users to search sensor databases from within RDMO and import retrieved metadata directly into the DMP.</p>
@@ -467,7 +521,8 @@ sections:
             const qa = s => Array.from(document.querySelectorAll(s));
             const cards = qa('.usecase-card-grid .usecase-card');
             const serviceFilter = q('#f-service');
-            const cycleFilter = q('#f-cycle')
+            const cycleFilter = q('#f-cycle');
+            const nfdiFilter = q('#f-nfdi');
             const clearBtn = q('#usecase-clear');
             const counter = q('#usecase-count');
 
@@ -475,6 +530,7 @@ sections:
               let visible = 0;
               const serviceVal = serviceFilter.value.trim().toLowerCase();
               const cycleVal   = cycleFilter.value.trim().toLowerCase();
+              const nfdiVal   = nfdiFilter.value.trim().toLowerCase();
 
 
               cards.forEach(card => {
@@ -486,12 +542,17 @@ sections:
                 const cycles = card.dataset.cycle.toLowerCase()
                   .split(',')
                   .map(s => s.trim());
+                
+                const nfdi = card.dataset.nfdi.toLowerCase()
+                  .split(',')
+                  .map(s => s.trim());
 
                 // Check if selected filter value matches any of the values in the card
                 const serviceOk = !serviceVal || services.includes(serviceVal);
                 const cycleOk   = !cycleVal   || cycles.includes(cycleVal);
+                const nfdiOk   = !nfdiVal   || nfdi.includes(nfdiVal);
 
-                const show = serviceOk && cycleOk;
+                const show = serviceOk && cycleOk && nfdiOk;
                 card.hidden = !show;
                 if(show) visible++;
               });
@@ -500,9 +561,11 @@ sections:
 
             serviceFilter.addEventListener('input', apply);
             cycleFilter.addEventListener('input', apply);
+            nfdiFilter.addEventListener('input', apply);
             clearBtn.addEventListener('click', ()=>{
               serviceFilter.value = '';
               cycleFilter.value = '';
+              nfdiFilter.value = '';
               apply();
             });
 
@@ -553,6 +616,6 @@ sections:
         
     design:
       spacing:
-        padding: ["pt-4", "pb-4"] 
+        padding: ["pt-4", "pb-4"]
   
 ---

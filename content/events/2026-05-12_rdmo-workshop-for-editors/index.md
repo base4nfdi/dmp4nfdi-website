@@ -59,14 +59,14 @@ slides:
 projects:
 ---
 
-Join our hands-on workshop **RDMO for Editors on 12–13 May 2026** and gain practical experience in working with [RDMO](/about/rdmo/) and the [NFDI Template Framework](/services/template-development/#nfdi-dmp-template-framework/).
+DMP4NFDI held the hands-on workshop **RDMO for Editors on 12–13 May 2026**. Participants gained practical experience in working with [RDMO](/about/rdmo/) and the [NFDI Template Framework](/services/template-development/#nfdi-dmp-template-framework/).
 
-Based on our developed [Train-the-Trainer concept for DMPs and RDMO](https://doi.org/10.5281/zenodo.15771036), this interactive workshop will guide you in how to:
+Based on our developed [Train-the-Trainer concept for DMPs and RDMO](https://doi.org/10.5281/zenodo.15771036), this interactive workshop guided participants in how to:
 - Navigate the RDMO management interface
 - Create new DMP templates (catalogs) or adapt existing ones
 - Use the NFDI DMP Template Framework to build interoperable and standardised DMP templates.
 
-Choose your level and attend one or both days:
+Participants could choose their level and attend one or both days:
 
 - **Day 1 – Basics: 12 May, 9:00–12:30** 
 
@@ -76,12 +76,8 @@ Choose your level and attend one or both days:
 
   Dive into the NFDI DMP Template Framework and learn how to adapt it to your community needs and create interoperable DMP templates. Basic RDMO knowledge is recommended.
 
-The workshop is **limited to 30 participants**. Secure your spot early!
-
-👉 Register now: [Here!](https://tu-darmstadt.zoom-x.de/meeting/register/oBP9abZOTUWtMBgKQq_DRQ)
 
 ⏰ When: **12-13 May 2026, 9:00-12:30 (CET)** 
 
 💻 Where: **Online via Zoom** 
 
-We look forward to welcoming you!

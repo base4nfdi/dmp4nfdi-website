@@ -12,8 +12,8 @@ address:
   postcode: '50931'
   country: Germany
 
-summary: 'DMP4NFDI is organizing a Hackathon for Software Management Plans (SMPs). Participants will be discussing the importance and relevance of previously identified SMP questions to create a first draft of a NFDI SMP template.'
-abstract: 'DMP4NFDI is organizing a Hackathon for Software Management Plans (SMPs) at ZB MED in Cologne, from 14 April to 16 April 2026. During the three days, participants will be discussing the importance and relevance of previously identified SMP questions to create a first draft of a NFDI SMP template. This template is intended to complement the work done around Data Management Plans (DMPs) and to help facilitate DMP/SMP interoperability.'
+summary: 'DMP4NFDI organized a Hackathon for Software Management Plans (SMPs). Participants discussed the importance and relevance of previously identified SMP questions to create a first draft of a NFDI SMP template.'
+abstract: 'DMP4NFDI organized a Hackathon for Software Management Plans (SMPs) at ZB MED in Cologne, from 14 April to 16 April 2026. During the three days, participants discussed the importance and relevance of previously identified SMP questions to create a first draft of a NFDI SMP template. This template is intended to complement the work done around Data Management Plans (DMPs) and to help facilitate DMP/SMP interoperability.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -59,7 +59,7 @@ slides:
 projects:
 ---
 
-The NFDI Basic Service DMP4NFDI will host a **Hackathon for Software Management Plans (SMPs)** at ZB MED in Cologne, from 14 April to 16 April 2026. Participants will discuss the importance and relevance of previously identified SMP questions and collaborate to create the first draft of a NFDI SMP template. This template is designed to complement existing work on Data Management Plans (DMPs) and support DMP/SMP interoperability.
+The NFDI Basic Service DMP4NFDI hosted a **Hackathon for Software Management Plans (SMPs)** at ZB MED in Cologne, from 14 April to 16 April 2026. Participants discussed the importance and relevance of previously identified SMP questions and collaborate to create the first draft of a NFDI SMP template. This template is designed to complement existing work on Data Management Plans (DMPs) and support DMP/SMP interoperability.
 
 Since software is essential for processing research data, SMPs naturally complement DMPs. In recognition of this, **SMPs were integrated into the DMP4NFDI project in 2025**. Software management questions are being added to the [NFDI Template Framework](/services/template-development/#nfdi-dmp-template-framework/), enabling researchers to manage both research data and software artifacts in a unified, consistent way.
 
