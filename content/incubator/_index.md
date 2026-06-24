@@ -150,7 +150,7 @@ sections:
           <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 2" data-nfdi="NFDI4ING">
               <img src="/images/nfdi4ing_logo.png" alt="NFDI4Ing Logo">
               <h4>Cycle 2</h4>     
-              <h5>Goal:</h5><p>The Incubator Project aims to optimise the DMP for engineering sciences by transitioning from version 2 to version 3. The goal is to significantly enhance the practical applicability of the DMP within the RDMO tool for engineering research. To this end, feedback gathered during live operation from the specialist community and users is being incorporated directly into the revision process. The technical and content-related development involves aligning the questionnaire with the NFDI DMP Template Framework to ensure NFDI-wide standards. To enable the exchange of metadata between RDMO and Coscine, the Coscine query is also being adjusted.</p>
+              <h5>Goal:</h5><p>The Incubator Project aims to optimise the DMP template for engineering sciences. The goal is to significantly enhance the practical applicability of the template within the RDMO tool for engineering research. To this end, feedback gathered during live operation from the community is being incorporated into the revision process. The technical and content-related development involves aligning the questionnaire with the NFDI DMP Template Framework to ensure NFDI-wide standards. To enable the exchange of metadata between RDMO and Coscine, the Coscine query is also being adjusted.</p>
               <h5>Duration:</h5><p>July 2026 - December 2026</p>
             </div>
 
