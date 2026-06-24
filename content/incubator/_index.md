@@ -116,6 +116,7 @@ sections:
             <option>NFDI4Chem</option>
             <option>NFDI4Culture</option>
             <option>NFDI4Earth</option>
+            <option>NFDI4Energy</option>
             <option>NFDI4Health</option>
             <option>NFDI4ING</option>
             <option>NFDI4Memory</option>
