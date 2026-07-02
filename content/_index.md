@@ -82,16 +82,16 @@ sections:
             <strong>NFDI4ING</strong>
           </div>
           <div class="hosting-tile">
-            <a href="https://rdmo.nfdi4culture.de/" target="_blank" rel="noopener noreferrer">
-              <img src="/images/rdmo-nfdi4culture.png" alt="NFDI4Culture RDMO">
-            </a>
-            <strong>NFDI4Culture</strong>
-          </div>
-          <div class="hosting-tile">
             <a href="https://rdmo.nfdi4chem.de/" target="_blank" rel="noopener noreferrer">
               <img src="/images/rdmo-nfdi4chem.png" alt="NFDI4Chem RDMO">
             </a>
             <strong>NFDI4Chem</strong>
+          </div>
+          <div class="hosting-tile">
+            <a href="https://rdmo.nfdi4culture.de/" target="_blank" rel="noopener noreferrer">
+              <img src="/images/rdmo-nfdi4culture.png" alt="NFDI4Culture RDMO">
+            </a>
+            <strong>NFDI4Culture</strong>
           </div>
           <div class="hosting-tile">
             <a href="https://rdmo.fairagro.net/" target="_blank" rel="noopener noreferrer">
