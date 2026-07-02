@@ -1,6 +1,6 @@
 ---
-title: Documentations
-summary: DMP4NFDI documentations
+title: Documentation
+summary: DMP4NFDI FAQs and Documentation
 date: 2024-07-24
 type: book
 ---

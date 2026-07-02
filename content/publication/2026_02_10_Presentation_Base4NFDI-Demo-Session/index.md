@@ -1,26 +1,22 @@
 ---
-title: 'Presentation title (ggf. @event)'
+title: 'Base4NFDI Demo Session: DMP4NFDI'
 
-draft: true
+draft: false
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - "Castro Garcia, L"
   - "Gonzalez Ocanto, M."
-  - "Hohle, I."
-  - "Schönau, S."
-  - "Wallace, D."   
-  - "Windeck, J."
+
 
 # Author notes (optional)
 author_notes: []
 
 # Publication date
-date: '2013-07-01T00:00:00Z'
+date: '2026-02-13T00:00:00Z'
 
-doi: ''
+doi: '10.5281/zenodo.18630760'
 
 # Date on which this page gets published
 publishDate: '2017-01-01T00:00:00Z'
@@ -34,12 +30,20 @@ publication_types: ['paper-conference']
 publication: "Zenodo"
 publication_short: "Presentation"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 'The Basic Service DMP4NFDI hosted the first "Base4NFDI Demo Session". In this presentation, DMP4NFDI showed NFDI consortia how to build a DMP or SMP service for their communities. Participants learned how to:
+
+  - Run their own RDMO client 
+
+  - Connect it to community services 
+
+  - Create interoperable templates 
+
+  - Engage users through training and other outreach activities'
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: During the first "Base4NFDI Demo Session", DMP4NFDI showed NFDI consortia how to build a DMP or SMP service for their communities.
 
-tags: []
+tags: ["DMP4NFDI", "Base4NFDI", "RDMO", "DMP", "SMP", "Services"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -49,7 +53,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://doi.org/10.5281/zenodo.18630760'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -20,7 +20,21 @@ For each tenant adjustments can be made to
 - **Usage rights** (define editors and managers)  
 - **Plugins & integrations** with other services of your consortium
 
-## Examples of already integrated consortium RDMO tenants
+## How to get started?
+
+We hold regular calls to onboard new consortia. See our information on [Incubator Projects](/incubator/).
+
+## What your consortium needs to provide
+
+In our [Service Cooperation Model](https://doi.org/10.5281/zenodo.15004953) we describe in detail what you need to provide in order to implement the service for your consortium. 
+
+Customisation the service may require additional personnel, depending on your specific needs. We strongly recommend providing a community-specific DMP template and integrating RDMO by connecting it to other services in your service portfolio. 
+
+Feel free to get in touch with us to discuss how we can help: [Contact us](/contact/).  
+
+## RDMO clients hosted by DMP4NFDI
+
+### Productive clients
 
 <style>
 .hosting-grid { 
@@ -77,16 +91,16 @@ For each tenant adjustments can be made to
     <strong>NFDI4ING</strong>
   </div>
   <div class="hosting-tile">
-    <a href="https://rdmo.nfdi4culture.de/" target="_blank" rel="noopener noreferrer">
-      <img src="/images/rdmo-nfdi4culture.png" alt="NFDI4Culture RDMO">
-    </a>
-    <strong>NFDI4Culture</strong>
-  </div>
-  <div class="hosting-tile">
     <a href="https://rdmo.nfdi4chem.de/" target="_blank" rel="noopener noreferrer">
       <img src="/images/rdmo-nfdi4chem.png" alt="NFDI4Chem RDMO">
     </a>
     <strong>NFDI4Chem</strong>
+  </div>
+  <div class="hosting-tile">
+    <a href="https://rdmo.nfdi4culture.de/" target="_blank" rel="noopener noreferrer">
+      <img src="/images/rdmo-nfdi4culture.png" alt="NFDI4Culture RDMO">
+    </a>
+    <strong>NFDI4Culture</strong>
   </div>
   <div class="hosting-tile">
     <a href="https://rdmo.fairagro.net/" target="_blank" rel="noopener noreferrer">
@@ -94,16 +108,50 @@ For each tenant adjustments can be made to
     </a>
     <strong>FAIRagro</strong>
   </div>
+  <div class="hosting-tile">
+    <a href="https://rdmo.nfdi4energy.org/" target="_blank" rel="noopener noreferrer">
+      <img src="/images/rdmo-nfdi4energy.png" alt="NFDI4Energy RDMO">
+    </a>
+    <strong>NFDI4Energy</strong>
+  </div>
+  <div class="hosting-tile">
+    <a href="https://rdmo.mardi4nfdi.de/" target="_blank" rel="noopener noreferrer">
+      <img src="/images/rdmo-mardi.png" alt="MaRDI4NFDI RDMO">
+    </a>
+    <strong>MaRDI4NFDI</strong>
+  </div>
+  <div class="hosting-tile">
+    <a href="https://dmp4ps.fairmat-nfdi.eu/" target="_blank" rel="noopener noreferrer">
+      <img src="/images/rdmo-fairmat.png" alt="Physical Sciences RDMO">
+    </a>
+    <strong>FAIRmat</strong>
+  </div>
+  <div class="hosting-tile">
+    <a href="https://rdmo.nfdi4bioimage.de/" target="_blank" rel="noopener noreferrer">
+      <img src="/images/rdmo-nfdi4bioimage.png" alt="NFDI4BIOIMAGE RDMO">
+    </a>
+    <strong>NFDI4BIOIMAGE</strong>
+  </div>
+  <div class="hosting-tile">
+    <a href="https://rdmo.nfdi4earth.de/" target="_blank" rel="noopener noreferrer">
+      <img src="/images/rdmo-nfdi4earth.png" alt="NFDI4Earth RDMO">
+    </a>
+    <strong>NFDI4Earth</strong>
+  </div>                                 
 </div>
 
-## How to get started?
+### Test clients
 
-We hold regular calls to onboard new consortia. See our information on [Incubator Projects](/incubator/).
-
-## What your consortium needs to provide
-
-In our [Service Cooperation Model](https://doi.org/10.5281/zenodo.15004953) we describe in detail what you need to provide in order to implement the service for your consortium. 
-
-Customisation the service may require additional personnel, depending on your specific needs. We strongly recommend providing a community-specific DMP template and integrating RDMO by connecting it to other services in your service portfolio. 
-
-Feel free to get in touch with us to discuss how we can help: [Contact us](/contact/).  
+<div class="hosting-grid">
+  <div class="hosting-tile">
+   <img src="\images\nfdi4microbiota_logo.png" alt="NFDI4Microbiota RDMO">
+    <strong>NFDI4Microbiota</strong>
+  </div>
+  <div class="hosting-tile">
+   <img src="\images\nfdi4health_logo.png" alt="NFDI4Health RDMO">
+    <strong>NFDI4Health</strong>
+  </div>
+  <div class="hosting-tile">
+   <img src="\images\nfdi-matwerk_logo.png" alt="NFDI MatWerk RDMO">
+    <strong>MatWerk</strong>
+  </div>  

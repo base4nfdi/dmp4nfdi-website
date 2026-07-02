@@ -82,16 +82,16 @@ sections:
             <strong>NFDI4ING</strong>
           </div>
           <div class="hosting-tile">
-            <a href="https://rdmo.nfdi4culture.de/" target="_blank" rel="noopener noreferrer">
-              <img src="/images/rdmo-nfdi4culture.png" alt="NFDI4Culture RDMO">
-            </a>
-            <strong>NFDI4Culture</strong>
-          </div>
-          <div class="hosting-tile">
             <a href="https://rdmo.nfdi4chem.de/" target="_blank" rel="noopener noreferrer">
               <img src="/images/rdmo-nfdi4chem.png" alt="NFDI4Chem RDMO">
             </a>
             <strong>NFDI4Chem</strong>
+          </div>
+          <div class="hosting-tile">
+            <a href="https://rdmo.nfdi4culture.de/" target="_blank" rel="noopener noreferrer">
+              <img src="/images/rdmo-nfdi4culture.png" alt="NFDI4Culture RDMO">
+            </a>
+            <strong>NFDI4Culture</strong>
           </div>
           <div class="hosting-tile">
             <a href="https://rdmo.fairagro.net/" target="_blank" rel="noopener noreferrer">
@@ -110,7 +110,25 @@ sections:
               <img src="/images/rdmo-mardi.png" alt="MaRDI4NFDI RDMO">
             </a>
             <strong>MaRDI4NFDI</strong>
-          </div>          
+          </div>
+          <div class="hosting-tile">
+            <a href="https://dmp4ps.fairmat-nfdi.eu/" target="_blank" rel="noopener noreferrer">
+              <img src="/images/rdmo-fairmat.png" alt="Physical Sciences RDMO">
+            </a>
+            <strong>FAIRmat</strong>
+          </div>
+          <div class="hosting-tile">
+            <a href="https://rdmo.nfdi4bioimage.de/" target="_blank" rel="noopener noreferrer">
+              <img src="/images/rdmo-nfdi4bioimage.png" alt="NFDI4BIOIMAGE RDMO">
+            </a>
+            <strong>NFDI4BIOIMAGE</strong>
+          </div>
+          <div class="hosting-tile">
+            <a href="https://rdmo.nfdi4earth.de/" target="_blank" rel="noopener noreferrer">
+              <img src="/images/rdmo-nfdi4earth.png" alt="NFDI4Earth RDMO">
+            </a>
+            <strong>NFDI4Earth</strong>
+          </div>                                 
         </div>
         
     design:

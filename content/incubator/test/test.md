@@ -4,6 +4,11 @@ summary: Call for incubator projects and how to join
 date: 2025-01-07
 type: landing
 
+_build:
+  list: never
+  publishResources: true
+  render: always
+
 sections:
   - block: markdown
     content:
@@ -116,7 +121,6 @@ sections:
             <option>NFDI4Chem</option>
             <option>NFDI4Culture</option>
             <option>NFDI4Earth</option>
-            <option>NFDI4Energy</option>
             <option>NFDI4Health</option>
             <option>NFDI4ING</option>
             <option>NFDI4Memory</option>
@@ -150,7 +154,7 @@ sections:
           <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 2" data-nfdi="NFDI4ING">
               <img src="/images/nfdi4ing_logo.png" alt="NFDI4Ing Logo">
               <h4>Cycle 2</h4>     
-              <h5>Goal:</h5><p>The Incubator Project aims to optimise the DMP template for engineering sciences. The goal is to significantly enhance the practical applicability of the template within the RDMO tool for engineering research. To this end, feedback gathered during live operation from the community is being incorporated into the revision process. The technical and content-related development involves aligning the questionnaire with the NFDI DMP Template Framework to ensure NFDI-wide standards. To enable the exchange of metadata between RDMO and Coscine, the Coscine query is also being adjusted.</p>
+              <h5>Goal:</h5><p>The Incubator Project aims to optimise the DMP for engineering sciences by transitioning from version 2 to version 3. The goal is to significantly enhance the practical applicability of the DMP within the RDMO tool for engineering research. To this end, feedback gathered during live operation from the specialist community and users is being incorporated directly into the revision process. The technical and content-related development involves aligning the questionnaire with the NFDI DMP Template Framework to ensure NFDI-wide standards. To enable the exchange of metadata between RDMO and Coscine, the Coscine query is also being adjusted.</p>
               <h5>Duration:</h5><p>July 2026 - December 2026</p>
             </div>
 
@@ -169,7 +173,7 @@ sections:
               <h5>Goal:</h5><p>Provision of an operational RDMO for the Earth System Science community to create DMPs for sensor-heavy research projects as well as for monitoring activities. The RDMO will be linked to existing sensor- and data management systems such as SMS, O2A. This will allow the direct and seamless integration of sensor metadata in RDMO-based data management plans, ensuring metadata consistency between the linked systems. During the incubator project, a productive client will be set up and evaluated by the community in a user workshop.</p>
               <h5>Duration:</h5><p>January 2026 - June 2026</p>
               <h5>Results:</h5><p><a href="https://rdmo.nfdi4earth.de/" target="_blank" rel="noopener noreferrer">NFDI4Earth RDMO Client</a></p>
-              <p><a href="https://github.com/rdmorganiser/rdmo-plugins-sensorsearch" target="_blank" rel="noopener noreferrer">RDMO Sensor Search option set plugin updated</a></p>
+              <p><a href="https://github.com/rdmorganiser/rdmo-plugins-coscine" target="_blank" rel="noopener noreferrer">RDMO Sensor Search option set plugin updated</a></p>
             </div>
 
           <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 1" data-nfdi="FAIRmat">
@@ -193,7 +197,6 @@ sections:
                 <h4>Cycle 1</h4>     
                 <h5>Goal:</h5><p>This incubator project focuses on community outreach and promoting FAIRagro’s domain-specific DMP template. The project also aims to increase the template’s interoperability by dynamically making terminologies available for specific questions. A workshop or training session will be organized to gather user feedback for template improvement and to foster its adoption across the agricultural research community. For terminology implementation the project will gather and contribute requirements to inform technical developments between DMP4NFDI and the TS4NFDI basic service.</p>
                 <h5>Duration:</h5><p>January 2026 - June 2026</p>
-                <h5>Results:</h5><p><a href="/events/2026-06-17_fairagro-rdmo-workshop/" target="_blank" rel="noopener noreferrer">FAIRagro's RDMO Workshop</a></p>
             </div>
 
           <div class="usecase-card" data-service="Training & Outreach" data-cycle="Cycle 1" data-nfdi="Text+">
@@ -618,6 +621,6 @@ sections:
         
     design:
       spacing:
-        padding: ["pt-4", "pb-4"]
+        padding: ["pt-4", "pb-4"] 
   
 ---
