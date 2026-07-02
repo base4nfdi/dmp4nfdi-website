@@ -64,25 +64,6 @@ Feel free to get in touch with us to discuss how we can help: [Contact us](/cont
 }
 </style>
 
-<!-- <div class="hosting-grid">
-  <div class="hosting-tile">
-    <img src="/images/rdmo-nfdi4ing.png" alt="NFDI4ING RDMO">
-    <a href="https://rdmo.nfdi4ing.de">NFDI4ING</a>
-  </div>
-  <div class="hosting-tile">
-    <img src="/images/rdmo-nfdi4culture.png" alt="NFDI4Culture RDMO">
-    <a href="https://rdmo.nfdi4culture.de/">NFDI4Culture</a>
-  </div>
-  <div class="hosting-tile">
-    <img src="/images/rdmo-nfdi4chem.png" alt="NFDI4Chem RDMO">
-    <a href="https://rdmo.nfdi4chem.de/">NFDI4Chem</a>
-  </div>
-  <div class="hosting-tile">
-    <img src="/images/rdmo-fairagro.png" alt="FAIRagro RDMO">
-    <a href="https://rdmo.fairagro.net/">FAIRagro</a>
-  </div>
-</div> -->
-
 <div class="hosting-grid">
   <div class="hosting-tile">
     <a href="https://rdmo.nfdi4ing.de" target="_blank" rel="noopener noreferrer">
@@ -154,4 +135,5 @@ Feel free to get in touch with us to discuss how we can help: [Contact us](/cont
   <div class="hosting-tile">
    <img src="\images\nfdi-matwerk_logo.png" alt="NFDI MatWerk RDMO">
     <strong>MatWerk</strong>
-  </div>  
+  </div>
+</div>  

@@ -22,9 +22,9 @@ For easier reuse of the framework, we developed the RDMO catalog [**NFDI DMP Tem
 
 Based on the framework and its standardised attributes, the [NFDI DMP Template catalog in RDMO](https://github.com/rdmorganiser/rdmo-catalog/blob/main/shared/DMP4NFDI/NFDI_DMP_Template.md) provides a flexible starting point for creating domain-specific DMP templates, or refining existing ones. The catalog contains all attributes that are already mapped to the RDA maDMP. This ensures that the information collected is interoperable and can be seamlessly exchanged between systems as a starting point for creating maDMPs. You can import the catalog to your RDMO instance and adjust or extend it to suit your consortium’s needs, while the questions have the same content reference (i.e. Attributes).
 
-# How to get started? 
+## How to get started? 
 
-## Apply for an incubator project
+### Apply for an incubator project
 
 An incubator project is a short-term engagement (3–6 months) with a clearly defined goal. We hold regular calls to onboard new consortia. 
 
@@ -37,3 +37,54 @@ In our [Service Cooperation Model](https://doi.org/10.5281/zenodo.15004953) we d
 Developing or adapting a template requires the assistance of personnel with the necessary scientific background and knowledge of your consortium. We strongly recommend running a community-specific RDMO client and integrating RDMO by connecting it to other services relevant to your consortium, as well as planning outreach activities.
 
 Feel free to get in touch with us to discuss how we can help: [→ Contact](/contact/).  
+
+## RDMO catalogs supported by DMP4NFDI
+
+<style>
+.template-grid { 
+  display: grid; 
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); 
+  gap: 1rem; 
+  margin: 1rem 0;
+}
+.template-tile { 
+  text-align: center; 
+  border: 1px solid #ddd; 
+  border-radius: 0.5rem; 
+  padding: 0.5rem; 
+}
+.template-tile img { 
+  width: 10vw; 
+  height: auto; 
+  display: block; 
+  margin: 0 auto 0.5rem; 
+  border-radius: 0.25rem;
+}
+.template-tile a { 
+  display: block; 
+  font-weight: bold; 
+  color: #0ABAF0; 
+  text-decoration: none; 
+}
+</style>
+
+<div class="template-grid">
+  <div class="template-tile">
+    <a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/Text%2B" target="_blank" rel="noopener noreferrer">
+      <img src="\images\text+_logo.png" alt="Text+ Logo">
+    </a>
+    <strong>Text+ DMP Template</strong>
+  </div>
+  <div class="template-tile">
+    <a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/NFDI4Culture" target="_blank" rel="noopener noreferrer">
+      <img src="/images/nfdi4culture_logo.png" alt="NFDI4Culture Logo">
+    </a>
+    <strong>NFDI4Culture DMP Template</strong>
+  </div>
+  <div class="template-tile">
+    <a href="https://github.com/fairagro/FAIRagro_DMP_Template" target="_blank" rel="noopener noreferrer">
+      <img src="/images/fairagro_logo.png" alt="FAIRagro Logo">
+    </a>
+    <strong>FAIRagro DMP Template</strong>
+  </div>
+</div>     
