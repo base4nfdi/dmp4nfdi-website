@@ -40,9 +40,9 @@ Feel free to get in touch with us to discuss how we can help: [→ Contact](/con
 
 ## RDMO catalogs supported by DMP4NFDI
 
-### Finished
+### Available
 
-DMP templates available as catalogs in RDMO and aligned with the NFDI DMP Template
+NFDI consortia DMP templates available as catalogs in RDMO
 
 <style>
 .template-grid { 
@@ -74,22 +74,24 @@ DMP templates available as catalogs in RDMO and aligned with the NFDI DMP Templa
 
 <div class="template-grid">
   <div class="template-tile">
-    <a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/Text%2B" target="_blank" rel="noopener noreferrer">
-      <img src="\images\text+_logo.png" alt="Text+ Logo">
-    </a>
-    <strong>Text+ DMP Template</strong>
+    <img src="\images\text+_logo.png" alt="Text+ Logo">
+    <strong><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/Text%2B" target="_blank" rel="noopener noreferrer">Text+ DMP Template</a></strong>
+    <p>Aligned with NFDI DMP Template</p> 
   </div>
   <div class="template-tile">
-    <a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/NFDI4Culture" target="_blank" rel="noopener noreferrer">
-      <img src="/images/nfdi4culture_logo.png" alt="NFDI4Culture Logo">
-    </a>
-    <strong>NFDI4Culture DMP Template</strong>
+    <img src="/images/nfdi4culture_logo.png" alt="NFDI4Culture Logo">
+    <strong><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/NFDI4Culture" target="_blank" rel="noopener noreferrer">NFDI4Culture DMP Template</a></strong>
+    <p>Aligned with NFDI DMP Template</p>
   </div>
   <div class="template-tile">
-    <a href="https://github.com/fairagro/FAIRagro_DMP_Template" target="_blank" rel="noopener noreferrer">
-      <img src="/images/fairagro_logo.png" alt="FAIRagro Logo">
-    </a>
-    <strong>FAIRagro DMP Template</strong>
+    <img src="/images/fairagro_logo.png" alt="FAIRagro Logo">
+    <strong><a href="https://github.com/fairagro/FAIRagro_DMP_Template" target="_blank" rel="noopener noreferrer">FAIRagro DMP Template</a></strong>
+    <p>Aligned with NFDI DMP Template</p> 
+  </div>
+    <div class="template-tile">
+    <img src="/images/nfdi4earth_logo.png" alt="NFDI4Earth Logo">
+    <strong>MOSES Catalog</strong>
+    <p>Available in <a href="https://rdmo.nfdi4earth.de/" target="_blank" rel="noopener noreferrer">RDMO NFDI4Earth</a></p> 
   </div>
 </div>
 
@@ -123,3 +125,4 @@ Learn the details on [→ Incubator Projects](/incubator/)
     <strong>Align existing NFDI4ING RDMO Catalog to NFDI DMP Template</strong>
   </div>    
 </div>
+
