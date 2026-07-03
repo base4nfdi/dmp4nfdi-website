@@ -75,23 +75,26 @@ NFDI consortia DMP templates available as catalogs in RDMO
 <div class="template-grid">
   <div class="template-tile">
     <img src="\images\text+_logo.png" alt="Text+ Logo">
-    <strong><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/Text%2B" target="_blank" rel="noopener noreferrer">Text+ DMP Template</a></strong>
+    <strong>Text+ Catalog</strong>
     <p>Aligned with NFDI DMP Template</p> 
+    <p><a href="https://plan.goettingen-research-online.de/" target="_blank" rel="noopener noreferrer">Text+ RDMO</a><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/Text%2B" target="_blank" rel="noopener noreferrer">GitHub</a></p>
   </div>
   <div class="template-tile">
     <img src="/images/nfdi4culture_logo.png" alt="NFDI4Culture Logo">
-    <strong><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/NFDI4Culture" target="_blank" rel="noopener noreferrer">NFDI4Culture DMP Template</a></strong>
+    <strong>NFDI4Culture Catalog</a></strong>
     <p>Aligned with NFDI DMP Template</p>
+    <p><a href="https://rdmo.nfdi4culture.de/" target="_blank" rel="noopener noreferrer">NFDI4Culture RDMO</a><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/NFDI4Culture" target="_blank" rel="noopener noreferrer">GitHub</a></p>
   </div>
   <div class="template-tile">
     <img src="/images/fairagro_logo.png" alt="FAIRagro Logo">
-    <strong><a href="https://github.com/fairagro/FAIRagro_DMP_Template" target="_blank" rel="noopener noreferrer">FAIRagro DMP Template</a></strong>
+    <strong>FAIRagro Catalog</a></strong>
     <p>Aligned with NFDI DMP Template</p> 
+    <p><a href="https://rdmo.fairagro.net/" target="_blank" rel="noopener noreferrer">FAIRagro RDMO</a><a href="https://github.com/fairagro/FAIRagro_DMP_Template" target="_blank" rel="noopener noreferrer">GitHub</a></p>
   </div>
     <div class="template-tile">
     <img src="/images/nfdi4earth_logo.png" alt="NFDI4Earth Logo">
-    <strong>MOSES Catalog</strong>
-    <p>Available in <a href="https://rdmo.nfdi4earth.de/" target="_blank" rel="noopener noreferrer">RDMO NFDI4Earth</a></p> 
+    <p><strong>MOSES Catalog</strong></p>
+    <p><a href="https://rdmo.nfdi4earth.de/" target="_blank" rel="noopener noreferrer">NFDI4Earth RDMO</a></p> 
   </div>
 </div>
 
