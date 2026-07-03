@@ -168,8 +168,11 @@ sections:
               <h4>Cycle 1</h4>     
               <h5>Goal:</h5><p>Provision of an operational RDMO for the Earth System Science community to create DMPs for sensor-heavy research projects as well as for monitoring activities. The RDMO will be linked to existing sensor- and data management systems such as SMS, O2A. This will allow the direct and seamless integration of sensor metadata in RDMO-based data management plans, ensuring metadata consistency between the linked systems. During the incubator project, a productive client will be set up and evaluated by the community in a user workshop.</p>
               <h5>Duration:</h5><p>January 2026 - June 2026</p>
-              <h5>Results:</h5><p><a href="https://rdmo.nfdi4earth.de/" target="_blank" rel="noopener noreferrer">NFDI4Earth RDMO Client</a></p>
-              <p><a href="https://github.com/rdmorganiser/rdmo-plugins-sensorsearch" target="_blank" rel="noopener noreferrer">RDMO Sensor Search option set plugin updated</a></p>
+              <h5>Results:</h5>
+              <ul>
+                <li><a href="https://rdmo.nfdi4earth.de/" target="_blank" rel="noopener noreferrer">NFDI4Earth RDMO Client</a></li>
+                <li><a href="https://github.com/rdmorganiser/rdmo-plugins-sensorsearch" target="_blank" rel="noopener noreferrer">RDMO Sensor Search option set plugin updated</a></li>
+              </ul>
             </div>
 
           <div class="usecase-card" data-service="RDMO Hosting" data-cycle="Cycle 1" data-nfdi="FAIRmat">
@@ -378,7 +381,12 @@ sections:
               <h4>Initialisation phase</h4>
               <h5>Goal:</h5><p>Set up an RDMO test client for the NFDI4Earth consortium to support the conversion of a community-specific DMP template (MOSES project) into an RDMO catalog. Additionally, support the consortium in developing a plugin that allows users to search sensor databases from within RDMO and import retrieved metadata directly into the DMP.</p>
               <h5>Duration:</h5><p>June 2024 - June 2025</p>
-              <h5>Results:</h5><p><a href="https://github.com/rdmorganiser/rdmo-plugins-sensorsearch" target="_blank" rel="noopener noreferrer">RDMO Sensor Search option set plugin</a></p><p>RDMO test client ready; productive client in preparation</p>
+              <h5>Results:</h5>
+              <ul>
+                <li><a href="https://github.com/rdmorganiser/rdmo-plugins-sensorsearch" target="_blank" rel="noopener noreferrer">RDMO Sensor Search option set plugin</a></li>
+                <li>RDMO Test client ready</li>
+                <li>RDMO catalog created for the MOSES Campaign of the Helmholtz Research Field "Earth and Environment"</li>
+              </ul>
             </div>
 
         </div>
