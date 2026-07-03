@@ -42,6 +42,8 @@ Feel free to get in touch with us to discuss how we can help: [→ Contact](/con
 
 ### Finished
 
+DMP templates available as catalogs in RDMO and aligned with the NFDI DMP Template
+
 <style>
 .template-grid { 
   display: grid; 
@@ -93,6 +95,8 @@ Feel free to get in touch with us to discuss how we can help: [→ Contact](/con
 
 ### Upcoming
 
+Learn the details on [→ Incubator Projects](/incubator/)
+
 <div class="template-grid">
   <div class="template-tile">
     <img src="\images\nfdi4memory_logo.png" alt="NFDI4Memory Logo">
@@ -108,16 +112,14 @@ Feel free to get in touch with us to discuss how we can help: [→ Contact](/con
   </div>  
   <div class="template-tile">
     <img src="\images\nfdi4health_logo.png" alt="NFDI4Health Logo">
-    <strong>NFDI4Health DMP Template for Epidemiological Studies</strong>
+    <strong>NFDI4Health Research DMP Template for Epidemiological Studies</strong>
   </div>
   <div class="template-tile">
     <img src="\images\nfdi4ing_logo.png" alt="NFDI4ING Logo">
-    <strong>New version of the NFDI4ING DMP Template adapted to Template Framework</strong>
+    <strong>Align existing NFDI4ING RDMO Catalog to NFDI DMP Template</strong>
   </div>  
   <div class="template-tile">
     <img src="\images\nfdi4chem_logo.png" alt="NFDI4Chem Logo">
-    <strong>New version of the NFDI4Chem DMP Template adapted to Template Framework</strong>
+    <strong>Align existing NFDI4ING RDMO Catalog to NFDI DMP Template</strong>
   </div>    
 </div>
-
-Learn the details on [→ Incubator Projects](/incubator/)
