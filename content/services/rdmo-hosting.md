@@ -136,4 +136,8 @@ Feel free to get in touch with us to discuss how we can help: [Contact us](/cont
    <img src="\images\nfdi-matwerk_logo.png" alt="NFDI MatWerk RDMO">
     <strong>MatWerk</strong>
   </div>
+  <div class="hosting-tile">
+   <img src="\images\nfdi4memory_logo.png" alt="NFDI4Memory RDMO">
+    <strong>NFDI4Memory</strong>
+  </div>
 </div>  
