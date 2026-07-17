@@ -126,6 +126,10 @@ Learn the details on [→ Incubator Projects](/incubator/)
   <div class="template-tile">
     <img src="\images\nfdi4chem_logo.png" alt="NFDI4Chem Logo">
     <strong>Align existing NFDI4ING RDMO Catalog to NFDI DMP Template</strong>
+  </div>
+  <div class="template-tile">
+    <img src="\images\nfdi4earth_logo.png" alt="NFDI4Earth Logo">
+    <strong>Earth-Sensor Data Management Plan</strong>
   </div>    
 </div>
 
