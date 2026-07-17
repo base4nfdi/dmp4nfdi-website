@@ -188,7 +188,11 @@ sections:
               <h4>Cycle 1</h4>     
               <h5>Goal:</h5><p>The incubator project aims to enhance the integration between two services supporting researchers in the NFDI: RDMO and Coscine. By streamlining the workflow and reducing redundant efforts, the project focuses in a first step on connecting the NFDI4ING RDMO with Coscine using the NFDI DMP catalog. The incubator will simplify the metadata import for projects from RDMO to Coscine by eliminating the manual processes currently required through an improved API interface.</p>
               <h5>Duration:</h5><p>January 2026 - June 2026</p>
-              <h5>Results:</h5><p><a href="https://github.com/rdmorganiser/rdmo-plugins-coscine" target="_blank" rel="noopener noreferrer">RDMO Coscine Plugin</a></p>
+              <h5>Results:</h5>
+              <ul>
+                <li><a href="https://github.com/rdmorganiser/rdmo-plugins-coscine" target="_blank" rel="noopener noreferrer">RDMO Coscine Plugin</a></li>
+                <li><a href="https://github.com/rdmorganiser/rdmo-plugins-dfg" target="_blank" rel="noopener noreferrer">RDMO Plugin for the DFG Classification of Scientific Disciplines</a></li>
+              </ul>
             </div>
 
           <div class="usecase-card" data-service="RDMO Integration, Training & Outreach" data-cycle="Cycle 1" data-nfdi="FAIRagro">
@@ -196,7 +200,7 @@ sections:
                 <h4>Cycle 1</h4>     
                 <h5>Goal:</h5><p>This incubator project focuses on community outreach and promoting FAIRagro’s domain-specific DMP template. The project also aims to increase the template’s interoperability by dynamically making terminologies available for specific questions. A workshop or training session will be organized to gather user feedback for template improvement and to foster its adoption across the agricultural research community. For terminology implementation the project will gather and contribute requirements to inform technical developments between DMP4NFDI and the TS4NFDI basic service.</p>
                 <h5>Duration:</h5><p>January 2026 - June 2026</p>
-                <h5>Results:</h5><p><a href="https://doi.org/10.5281/zenodo.21393038" target="_blank" rel="noopener noreferrer">FAIRagro's RDMO Workshop</a></p>
+                <h5>Results:</h5><p><a href="https://doi.org/10.5281/zenodo.21393038" target="_blank" rel="noopener noreferrer">Workshop "RDMO in Practice: Building Data Management Plans for Agricultural Research"</a></p>
             </div>
 
           <div class="usecase-card" data-service="Training & Outreach" data-cycle="Cycle 1" data-nfdi="Text+">
