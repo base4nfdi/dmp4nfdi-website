@@ -1,5 +1,5 @@
 ---
-title: 'DMP4NFDI at FDM@Campus 2026'
+title: 'DMP4NFDI SMP Poster at FDM@Campus 2026'
 
 event: FDM@Campus 2026
 event_url: 
@@ -37,6 +37,7 @@ featured: false
 
 image:
   caption: 'Image credit: [FDM@Campus](https://events.gwdg.de/event/1353/overview)'
+  preview_only: true
 #  focal_point: Right
 
 url_code: ''
@@ -58,8 +59,9 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+{{< figure src="fdm-at-campus.jpg" alt="Image of the FDM@Campus 2026" caption="Image credit: [FDM@Campus](https://events.gwdg.de/event/1353/overview)" >}}
 
-DMP4NFDI will participate in FDM@Campus 2026, hosted by the Göttingen eResearch Alliance **from 29 September to 1 October 2026** in Göttingen.
+DMP4NFDI will participate in FDM@Campus 2026 with the poster “Software Management Plans for NFDI”. The event is hosted by the Göttingen eResearch Alliance and will take place **from 29 September to 1 October 2026** in Göttingen. 
 
 Currently, DMP4NFDI is integrating Software Management Plans (SMPs) so that research software created as part of a research project is also covered. In this poster, we will present our progress towards an NFDI SMP, in particular a draft SMP and its integration into data management plans. We will also provide opportunities for visitors to give feedback so that our SMP can be useful for a broad public.
 

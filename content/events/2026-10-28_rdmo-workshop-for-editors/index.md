@@ -37,6 +37,7 @@ featured: false
 
 image:
   caption: 'Image credit: DMP4NFDI'
+  preview_only: true
   focal_point: ''
 
 url_code: ''
@@ -58,6 +59,7 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+{{< figure src="rdmo-workshop-oct-2026.png" alt="Image showing the workshop title and schedule" caption="Image credit: DMP4NFDI" >}}
 
 DMP4NFDI will hold the hands-on workshop **RDMO for Editors on 28–29 May 2026**. Participants will gain practical experience in working with [RDMO](/about/rdmo/) and the [NFDI DMP Template](/services/template-development//#nfdi-dmp-template-catalog-in-rdmo/).
 

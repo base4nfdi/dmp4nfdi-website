@@ -37,6 +37,7 @@ featured: false
 
 image:
   caption: 'Image credit: [DSgG](https://fdm.uni-koeln.de/dsgg26)'
+  preview_only: true
 #  focal_point: Right
 
 url_code: ''
@@ -58,6 +59,7 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+{{< figure src="dsgg-2026.png" alt="Image of the 5th DSgG Community Meeting" caption="Image credit: [DSgG](https://fdm.uni-koeln.de/dsgg26)" >}}
 
 We are pleased to participate in the 5th Data Stewardship goes Germany (DSgG) Community Meeting, taking place from **28–29 September 2026** at the University of Cologne under the motto "DSgG – from going to growing".
 
