@@ -327,7 +327,11 @@ sections:
               <h4>Cycle 0, Cycle 1</h4>        
               <h5>Goal:</h5><p>NFDI4Chem has a productive RDMO client with a DMP template that has been optimised for the special requirements of chemists and can be used by everyone. The consortium is organising training activities for its community to showcase the use of RDMO for creating and managing DMPs based on the developed template. In this incubator project, DMP4NFDI supports the consortium by providing available Open Educational Resources (OERs) and other training materials, as well as a training guide for data stewards based on the Train-the-Trainer concept for DMPs and RDMO. This guide will highlight key considerations for delivering introductory workshops on DMPs and the use of RDMO.</p>
               <h5>Duration:</h5><p>July 2025 - May 2026</p>
-              <h5>Results:</h5><p><a href="https://doi.org/10.5281/zenodo.20529135" target="_blank" rel="noopener noreferrer">Training Guide for DMP Workshops</a></p>
+              <h5>Results:</h5>
+               <ul>
+                <li><a href="https://doi.org/10.5281/zenodo.20529135" target="_blank" rel="noopener noreferrer">Training Guideline – How to Plan and Run a Workshop on Data Management Plans</a></li>
+                <li><a href="https://doi.org/10.5281/zenodo.18349878" target="_blank" rel="noopener noreferrer">OER – DMP Writing Made Easy: A Hands-on Workshop for Chemists</a></li>
+              </ul>
             </div>              
 
           <!-- INITIALISATION PHASE -->
