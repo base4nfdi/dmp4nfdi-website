@@ -31,6 +31,8 @@ sections:
          **[RDMO integration with NFDI service portfolio](#rdmo-integration)** 
 
         </div>
+
+        
     design:
       columns: '1'
 
@@ -165,8 +167,17 @@ sections:
         
         [Read more →](/services/rdmo-integration/) 
     design:
-      columns: '2'  
- 
+      columns: '2' 
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./docs/nfdi-overview/" cta_text="Explore NFDI DMP Services supported by DMP4NFDI →" %}}
+    design:
+      columns: '1'
+
  
  # TODO here also other services could be linked which you provide, e.g. a hub or the documentation
   
