@@ -13,7 +13,7 @@ type: book
 
 We work with NFDI consortia to develop and enhance data and software management services for their research communities. This overview highlights the current collaboration status and implementation level for each consortium, making it easy to identify existing services, resources and ongoing developments.
 
-✅ = Available | ✔️ = Test Client | 🟡 = In Progress | ⚪ = Not supported at the moment
+<p style="font-size: 16px;"> ✅ = Available | 🟢 = RDMO test client done | 🟡 = In progress | ⚪ = Not supported at the moment </p> 
 
 <style>
 /* Remove Bootstrap/Hugo Blox zebra striping */
@@ -21,6 +21,13 @@ We work with NFDI consortia to develop and enhance data and software management 
   --bs-table-bg: transparent;
   --bs-table-striped-bg: transparent;
   --bs-table-accent-bg: transparent;
+}
+
+.table thead th {
+  background-color: #45546b;
+  color: white;
+  font-weight: 700;
+  border-color: #45546b;
 }
 
 /* Category headers */
@@ -127,7 +134,7 @@ We work with NFDI consortia to develop and enhance data and software management 
 
   <tr>
     <td>NFDI-MatWerk</td>
-    <td>✔️</td>
+    <td>🟢*</td>
     <td>⚪</td>
     <td>⚪</td>
     <td>⚪</td>
@@ -156,7 +163,7 @@ We work with NFDI consortia to develop and enhance data and software management 
 
   <tr>
     <td>NFDI4Memory</td>
-    <td>✔️</td>
+    <td>🟢*</td>
     <td>⚪</td>
     <td>🟡</td>
     <td>⚪</td>
@@ -225,7 +232,7 @@ We work with NFDI consortia to develop and enhance data and software management 
 
   <tr>
     <td>NFDI4Health</td>
-    <td>✔️</td>
+    <td>🟢*</td>
     <td>⚪</td>
     <td>🟡</td>
     <td>🟡</td>
@@ -233,7 +240,7 @@ We work with NFDI consortia to develop and enhance data and software management 
 
   <tr>
     <td>NFDI4Microbiota</td>
-    <td>✔️</td>
+    <td>🟢*</td>
     <td>⚪</td>
     <td>⚪</td>
     <td>⚪</td>
@@ -327,6 +334,7 @@ We work with NFDI consortia to develop and enhance data and software management 
   </tbody>
 </table>
 
+<p style="font-size: 14px; font-style: italic;">(*) RDMO test client ready, productive client in preparation</p>
 
 ## DMP services available across NFDI consortia 
 
