@@ -136,7 +136,7 @@ We work with NFDI consortia to develop and enhance data and software management 
     <td>NFDI-MatWerk</td>
     <td>🟢*</td>
     <td>⚪</td>
-    <td>⚪</td>
+    <td>🟡</td>
     <td>⚪</td>
   </tr>
 

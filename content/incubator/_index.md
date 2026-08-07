@@ -154,6 +154,13 @@ sections:
               <h5>Duration:</h5><p>July 2026 - December 2026</p>
             </div>
 
+          <div class="usecase-card" data-service="Template Development, RDMO Hosting" data-cycle="Cycle 2" data-nfdi="MatWerk">
+              <img src="/images/nfdi-matwerk_logo.png" alt="NFDI-MatWerk Logo">
+              <h4>Cycle 2</h4>     
+              <h5>Goal:</h5><p>This incubator project will finalise the discipline-specific data management plan (DMP) template and make it available as an RDMO catalogue for the operational MatWerk RDMO client. Training and outreach activities will also be developed to raise awareness and build skills among researchers and stakeholders in NFDI-MatWerk.</p>
+              <h5>Duration:</h5><p>July 2026 - December 2026</p>
+            </div>            
+
           <div class="usecase-card" data-service="Training & Outreach" data-cycle="Cycle 2" data-nfdi="NFDI4Health">
               <img src="/images/nfdi4health_logo.png" alt="NFDI4health Logo">
               <h4>Cycle 2</h4>     
