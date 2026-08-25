@@ -6,23 +6,49 @@ type: page
 
 ---
 
-We provide train-the-trainer activities and community outreach support to help your NFDI consortium strengthen data and software management practices and encourage the adoption of DMPs, SMPs, and RDMO across your community.
-
-## Training and capacity building
-
-Using our modular [Train-the-Trainer concept](https://doi.org/10.5281/zenodo.15771036), we help you explore the design of DMP and RDMO training for varying experience levels, ranging from basic introductions to strategic and long-term integration. 
-
-Unlike standard workshops, our TtT sessions focus on practical didactic methods to ensure effective knowledge transfer. These workshops can be adapted to your community’s specific needs and seamlessly integrated into your existing training programs.
-
-All training materials will be openly available and continuously updated to reflect the evolving needs of the NFDI consortia.
+We support NFDI consortia in developing and delivering training and outreach activities around Data Management Plans (DMPs), Software Management Plans (SMPs), and RDMO. Together, we identify what your community needs, develop suitable formats and materials, and equip you to engage researchers and other target groups effectively.
 
 <!-- 
+Whether you are planning your first DMP training, looking to expand your existing programme, or want to increase awareness and adoption of RDMO, **we can help you get started**.
+-->
+
+## 🎓 Training and Capacity Building
+
+### Train-the-Trainer (TtT)
+
+Using our modular [Train-the-Trainer concept](https://doi.org/10.5281/zenodo.15771036), we help you build the skills and confidence to design and deliver your own DMP and RDMO training. The concept covers different experience levels, from fundamentals and practical skills to more advanced and strategic topics.
+
+Unlike standard workshops, our TtT sessions focus on practical didactic methods and effective knowledge transfer, equipping you with the skills and resources to deliver your own DMP and RDMO training and provide tailored support to your community.
+
+<!-- 
+Our training materials are openly available and continuously updated to reflect the evolving needs of the NFDI consortia.
+
 [Learn more about our Train-the-Trainer concept →](/docs/training/)
 -->
 
-## Community Outreach Support
+### Community-Tailored Training
 
-We help you raise awareness of Data and Software Management Planning within your consortium by showcasing the value of RDMO. Our outreach services include developing low-barrier introductory sessions, live demos, tailored presentations, and quick-start materials with you. We can help you prepare practical formats to engage diverse audiences for consortium meetings, conferences, or other events.
+Not sure what training your community needs? We can support you in developing tailored DMP, SMP and RDMO training formats, from individual sessions to broader training programmes.
+
+Together, we can adapt content, format and level of detail to your target audience, existing expertise and specific community context.
+
+## 📣 Community Outreach Support
+
+Effective outreach starts with understanding your community. We support you in identifying needs, creating opportunities for engagement and finding accessible ways to introduce DMPs, SMPs and RDMO.
+
+### Needs assessment 
+
+We support you in identifying community needs, knowledge gaps and barriers around DMPs, SMPs and RDMO through surveys, questionnaires and interviews, and in translating the results into targeted training and outreach activities.
+
+### Community engagement
+
+Looking for ways to engage your community with DMPs, SMPs and RDMO? We support you in developing accessible and engaging outreach formats tailored to your community and context, including:
+
+- Information sessions on DMPs and SMPs showcasing their value to the community
+- Live demonstrations of RDMO and its functionalities for collaborative DMP/SMP creation
+- Tailored presentations and interactive formats for consortium meetings, conferences and other events
+- Other outreach activities developed in response to your consortium’s needs
+
 
 # How to get started? 
 
