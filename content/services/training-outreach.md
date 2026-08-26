@@ -16,7 +16,7 @@ Whether you are planning your first DMP training, looking to expand your existin
 
 ### Train-the-Trainer (TtT)
 
-Using our modular [Train-the-Trainer concept](https://doi.org/10.5281/zenodo.15771036), we help you build the skills and confidence to design and deliver your own DMP and RDMO training. The concept covers different experience levels, from fundamentals and practical skills to more advanced and strategic topics.
+Using our modular [Train-the-Trainer concept](https://doi.org/10.5281/zenodo.15771036), we help you build the skills to design and deliver your own DMP and RDMO training. The concept covers different experience levels, from DMPs fundamentals to more advanced and strategic topics.
 
 Unlike standard workshops, our TtT sessions focus on practical didactic methods and effective knowledge transfer, equipping you with the skills and resources to deliver your own DMP and RDMO training and provide tailored support to your community.
 
@@ -26,7 +26,7 @@ Our training materials are openly available and continuously updated to reflect 
 [Learn more about our Train-the-Trainer concept →](/docs/training/)
 -->
 
-### Community-Tailored Training
+### Training Support
 
 Not sure what training your community needs? We can support you in developing tailored DMP, SMP and RDMO training formats, from individual sessions to broader training programmes.
 
@@ -34,7 +34,7 @@ Together, we can adapt content, format and level of detail to your target audien
 
 ## 📣 Community Outreach Support
 
-Effective outreach starts with understanding your community. We support you in identifying needs, creating opportunities for engagement and finding accessible ways to introduce DMPs, SMPs and RDMO.
+Effective outreach starts with understanding your community. We assist you in identifying needs, creating opportunities for engagement and finding accessible ways to introduce DMPs, SMPs and RDMO.
 
 ### Needs assessment 
 
@@ -42,7 +42,7 @@ We support you in identifying community needs, knowledge gaps and barriers aroun
 
 ### Community engagement
 
-Looking for ways to engage your community with DMPs, SMPs and RDMO? We support you in developing accessible and engaging outreach formats tailored to your community and context, including:
+Looking for ways to engage your community with DMPs, SMPs and RDMO? We help you develop accessible and engaging outreach formats tailored to your community and context, including:
 
 - Information sessions on DMPs and SMPs showcasing their value to the community
 - Live demonstrations of RDMO and its functionalities for collaborative DMP/SMP creation
