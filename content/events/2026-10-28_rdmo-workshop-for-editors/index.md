@@ -61,7 +61,7 @@ projects:
 ---
 {{< figure src="rdmo-workshop-oct-2026.png" alt="Image showing the workshop title and schedule" caption="Image credit: DMP4NFDI" >}}
 
-DMP4NFDI will hold the hands-on workshop **RDMO for Editors on 28–29 May 2026**. Participants will gain practical experience in working with [RDMO](/about/rdmo/) and the [NFDI DMP Template](/services/template-development//#nfdi-dmp-template-catalog-in-rdmo/).
+DMP4NFDI will hold the hands-on workshop **RDMO for Editors on 28–29 October 2026**. Participants will gain practical experience in working with [RDMO](/about/rdmo/) and the [NFDI DMP Template](/services/template-development//#nfdi-dmp-template-catalog-in-rdmo/).
 
 Based on our developed [Train-the-Trainer concept for DMPs and RDMO](https://doi.org/10.5281/zenodo.15771036), this interactive workshop guides participants in how to:
 - Navigate the RDMO management interface
