@@ -305,6 +305,7 @@ sections:
               <h4>Cycle 0</h4>        
               <h5>Goal:</h5><p>NFDI4Memory is developing a discipline-specific DMP template to support the historical research community in their application process. The questionnaire is being continually refined in close collaboration with the community. In this incubator project, the template is developed based on the existing NFDI DMP Template Framework, while adapting and extending results from the community. The project also includes the integration of the new template into the NFDI4Memory RDMO client.</p>
               <h5>Duration:</h5><p>July 2025 - Dec 2025</p>
+              <h5>Results:</h5><p><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/NFDI_catalogs/NFDI4Memory" target="_blank" rel="noopener noreferrer">NFDI4Memory RDMO Catalog</a></p>
             </div>      
             
           <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 0" data-nfdi="NFDI4Objects, NFDI4Culture">
