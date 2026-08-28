@@ -77,13 +77,13 @@ NFDI consortia DMP templates available as catalogs in RDMO
     <img src="\images\text+_logo.png" alt="Text+ Logo">
     <strong>Text+ Catalog</strong>
     <p>Aligned with NFDI DMP Template</p> 
-    <p><a href="https://plan.goettingen-research-online.de/" target="_blank" rel="noopener noreferrer">Text+ RDMO</a><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/Text%2B" target="_blank" rel="noopener noreferrer">GitHub</a></p>
+    <p><a href="https://plan.goettingen-research-online.de/" target="_blank" rel="noopener noreferrer">Text+ RDMO</a><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/NFDI_catalogs/Text%2B" target="_blank" rel="noopener noreferrer">GitHub</a></p>
   </div>
   <div class="template-tile">
     <img src="/images/nfdi4culture_logo.png" alt="NFDI4Culture Logo">
     <strong>NFDI4Culture Catalog</a></strong>
     <p>Aligned with NFDI DMP Template</p>
-    <p><a href="https://rdmo.nfdi4culture.de/" target="_blank" rel="noopener noreferrer">NFDI4Culture RDMO</a><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/NFDI4Culture" target="_blank" rel="noopener noreferrer">GitHub</a></p>
+    <p><a href="https://rdmo.nfdi4culture.de/" target="_blank" rel="noopener noreferrer">NFDI4Culture RDMO</a><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/NFDI_catalogs/NFDI4Culture" target="_blank" rel="noopener noreferrer">GitHub</a></p>
   </div>
   <div class="template-tile">
     <img src="/images/fairagro_logo.png" alt="FAIRagro Logo">
@@ -91,7 +91,13 @@ NFDI consortia DMP templates available as catalogs in RDMO
     <p>Aligned with NFDI DMP Template</p> 
     <p><a href="https://rdmo.fairagro.net/" target="_blank" rel="noopener noreferrer">FAIRagro RDMO</a><a href="https://github.com/fairagro/FAIRagro_DMP_Template" target="_blank" rel="noopener noreferrer">GitHub</a></p>
   </div>
-    <div class="template-tile">
+  <div class="template-tile">
+    <img src="/images/nfdi4memory_logo.png" alt="NFDI4Memory Logo">
+    <strong>NFDI4Memory Catalog</strong>
+    <p>Aligned with NFDI DMP Template</p>
+    <p><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/NFDI_catalogs/NFDI4Memory" target="_blank" rel="noopener noreferrer">GitHub</a></p> 
+  </div>
+  <div class="template-tile">
     <img src="/images/nfdi4earth_logo.png" alt="NFDI4Earth Logo">
     <p><strong>MOSES Catalog</strong></p>
     <p><a href="https://rdmo.nfdi4earth.de/" target="_blank" rel="noopener noreferrer">NFDI4Earth RDMO</a></p> 
@@ -103,10 +109,6 @@ NFDI consortia DMP templates available as catalogs in RDMO
 Learn the details on [→ Incubator Projects](/incubator/)
 
 <div class="template-grid">
-  <div class="template-tile">
-    <img src="\images\nfdi4memory_logo.png" alt="NFDI4Memory Logo">
-    <strong>NFDI4Memory DMP Template</strong>
-  </div>
   <div class="template-tile">
     <img src="\images\mardi_logo.png" alt="MaRDI4NFDI Logo">
     <strong>MaRDI4NFDI DMP Template</strong>
@@ -125,7 +127,7 @@ Learn the details on [→ Incubator Projects](/incubator/)
   </div>  
   <div class="template-tile">
     <img src="\images\nfdi4chem_logo.png" alt="NFDI4Chem Logo">
-    <strong>Align existing NFDI4ING RDMO Catalog to NFDI DMP Template</strong>
+    <strong>Align existing NFDI4Chem RDMO Catalog to NFDI DMP Template</strong>
   </div>
   <div class="template-tile">
     <img src="\images\nfdi4earth_logo.png" alt="NFDI4Earth Logo">

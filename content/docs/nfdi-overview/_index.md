@@ -157,7 +157,7 @@ We work with NFDI consortia to develop and enhance data and software management 
     <td>NFDI4Culture</td>
     <td><a href="https://rdmo.nfdi4culture.de/" target="_blank" rel="noopener noreferrer">✅</a></td>
     <td>🟡</td>
-    <td><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/NFDI4Culture" target="_blank" rel="noopener noreferrer">✅</a></td>
+    <td><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/NFDI_catalogs/NFDI4Culture" target="_blank" rel="noopener noreferrer">✅</a></td>
     <td>⚪</td>
   </tr>
 
@@ -165,7 +165,7 @@ We work with NFDI consortia to develop and enhance data and software management 
     <td>NFDI4Memory</td>
     <td>🟢*</td>
     <td>⚪</td>
-    <td>🟡</td>
+    <td><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/NFDI_catalogs/NFDI4Memory" target="_blank" rel="noopener noreferrer">✅</a></td>
     <td>⚪</td>
   </tr>
 
@@ -181,7 +181,7 @@ We work with NFDI consortia to develop and enhance data and software management 
     <td>Text+</td>
     <td>⚪</td>
     <td>⚪</td>
-    <td><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/Text%2B" target="_blank" rel="noopener noreferrer">✅</a></td>
+    <td><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/NFDI_catalogs/Text%2B" target="_blank" rel="noopener noreferrer">✅</a></td>
     <td>🟡</td>
   </tr>
 
