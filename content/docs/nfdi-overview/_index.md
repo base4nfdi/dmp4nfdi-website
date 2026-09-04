@@ -210,8 +210,8 @@ We work with NFDI consortia to develop and enhance data and software management 
     <td>FAIRagro</td>
     <td><a href="https://rdmo.fairagro.net/" target="_blank" rel="noopener noreferrer">✅</a></td>
     <td>🟡</td>
-    <td><a href="https://rdmo.fairagro.net/" target="_blank" rel="noopener noreferrer">✅</a></td>
     <td><a href="https://github.com/fairagro/FAIRagro_DMP_Template" target="_blank" rel="noopener noreferrer">✅</a></td>
+    <td><a href="https://zenodo.org/records/21393038" target="_blank" rel="noopener noreferrer">✅</a></td>
   </tr>
 
   <tr>
@@ -303,7 +303,7 @@ We work with NFDI consortia to develop and enhance data and software management 
     <td>NFDI4Chem</td>
     <td><a href="https://rdmo.nfdi4chem.de/" target="_blank" rel="noopener noreferrer">✅</a></td>
     <td>🟡</td>
-    <td>🟡</td>
+    <td><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/NFDI_catalogs/NFDI4Chem" target="_blank" rel="noopener noreferrer">✅</a></td>
     <td><a href="https://zenodo.org/records/20529135" target="_blank" rel="noopener noreferrer">✅</a></td>
   </tr>
 
