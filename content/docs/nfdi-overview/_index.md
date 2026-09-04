@@ -441,7 +441,7 @@ Do you need help creating Data Management Plans (DMPs)? Explore DMP services ava
   <div class="service-tile">
     <img src="\images\nfdi4chem_logo.png" alt="NFDI4Chem Logo">
     <p><strong>NFDI4Chem</strong></p>
-    <p><a href="https://nfdi4chem.de/data-management-for-chemistry/" target="_blank" rel="noopener noreferrer">DMP Services for Chemistry</a></p>
+    <p><a href="https://knowledgebase.nfdi4chem.de/knowledge_base/docs/dmp/" target="_blank" rel="noopener noreferrer">DMP Services for Chemistry</a></p>
   </div>
   <div class="service-tile">
     <img src="/images/nfdi4earth_logo.png" alt="NFDI4Earth Logo">
