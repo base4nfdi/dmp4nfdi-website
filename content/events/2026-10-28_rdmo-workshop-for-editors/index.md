@@ -83,6 +83,6 @@ Participants can choose their level and attend one or both days:
 
 💻 Where: **Online via Zoom**
 
-👉 Registration will open soon! 
+👉 Register now: [Here!](https://tu-darmstadt.zoom.us/meeting/register/MrPezdXiRuW8dFeMQvTcFQ#/registration) 
 
 <!-- 👉 Register now: [Here!](https://tu-darmstadt.zoom-x.de/meeting/register/oBP9abZOTUWtMBgKQq_DRQ) -->
