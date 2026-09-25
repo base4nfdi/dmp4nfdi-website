@@ -13,6 +13,8 @@ type: book
 
 We work with NFDI consortia to develop and enhance data and software management services for their research communities. This overview highlights the current collaboration status and implementation level for each consortium, making it easy to identify existing services, resources and ongoing developments.
 
+<strong style="color: red;">Important note:</strong> The columns indicate <b>services directly supported by DMP4NFDI</b>. Consortia may also offer these services independently. Explore the [next section](#dmp-services-available-across-nfdi-consortia) for an overview of the DMP services offered by each consortium.
+
 <p style="font-size: 16px;"> ✅ = Available | 🟢 = RDMO test client done | 🟡 = In progress | ⚪ = Not supported at the moment </p> 
 
 <style>
@@ -416,7 +418,7 @@ Do you need help creating Data Management Plans (DMPs)? Explore DMP services ava
   <div class="service-tile">
     <img src="/images/nfdi4biodiversity_logo.png" alt="NFDI4Biodiversity Logo">
     <p><strong>NFDI4Biodiversity</strong></p>
-    <p><a href="https://www.nfdi4biodiversity.org/en/services/#55a125d2-70c7-432a-91b4-2c2a810e833c " target="_blank" rel="noopener noreferrer">DMP Services for Biodiversity Projects</a></p> 
+    <p><a href="https://dmp.gfbio.org/" target="_blank" rel="noopener noreferrer">NFDI4Biodiversity - Data Management Plan</a></p> 
   </div>   
   <div class="service-tile">
     <img src="/images/nfdi4bioimage_logo.png" alt="NFDI4BIOIMAGE Logo">
