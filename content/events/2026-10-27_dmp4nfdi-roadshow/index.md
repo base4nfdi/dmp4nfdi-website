@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2026-01-01T00:00:00Z
 
-tags: ["DMP4NFDI", "SMP", "DMP", "RDMO"]
+tags: ["DMP4NFDI", "SMP", "DMP", "RDMO", "incubator projects"]
 
 # Show author bio?
 profile: false

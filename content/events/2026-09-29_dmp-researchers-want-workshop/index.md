@@ -61,16 +61,14 @@ projects:
 ---
 {{< figure src="workshop-satellite-dsgg.png" alt="Image showing the workshop title and schedule" caption="Image credit: DMP4NFDI" >}}
 
-On 29 September 2026, DMP4NFDI and Base4NFDI will host the workshop **"What’s in It for Me? DMPs Researchers Actually Want"** from 14:00 to 16:00 at the University of Cologne. The workshop will take place as a satellite event of the [Data Stewardship goes Germany Community Meeting](https://fdm.uni-koeln.de/dsgg26/programme) and is aimed at research data management (RDM) professionals and data stewards.
+On 29 September 2026, DMP4NFDI and Base4NFDI hosted the workshop **"What’s in It for Me? DMPs Researchers Actually Want"** from 14:00 to 16:00 at the University of Cologne. The workshop took place as a satellite event of the [Data Stewardship goes Germany Community Meeting](https://fdm.uni-koeln.de/dsgg26/programme) and was aimed at research data management (RDM) professionals and data stewards.
 
-Starting from the question "*What’s in it for me?*", the workshop explores **how Data Management Plans (DMPs) can become more useful, usable, and appealing from a researcher’s perspective**. Participants will exchange experiences on what works when promoting DMPs to researchers, where current approaches fall short, and which barriers hinder adoption, such as low perceived value, usability challenges of DMP tools, or competition with AI-based solutions.
+Starting from the question "*What’s in it for me?*", the workshop explored **how Data Management Plans (DMPs) can become more useful, usable, and appealing from a researcher’s perspective**. Participants exchanged experiences on what works when promoting DMPs to researchers, where current approaches fall short, and which barriers hinder adoption, such as low perceived value, usability challenges of DMP tools, or competition with AI-based solutions.
 
-A short hands-on session with DMP4NFDI and RDMO will provide practical insights into current tools and services. During interactive group work, participants will develop concrete ideas for improving DMP adoption, ranging from better templates and researcher-oriented wording to more effective outreach strategies and service design.
-
-The workshop is **limited to 20 participants**.
+A short hands-on session with DMP4NFDI and RDMO provided practical insights into current tools and services. During interactive group work, participants discussed concrete ideas for improving DMP adoption, ranging from better templates and researcher-oriented wording to more effective outreach strategies and service design.
 
 ⏰ When: **29 September 2026, 14:00-16:00 (CET)** 
 
 🏛️ Where: **University of Cologne, Seminar Building 106**
 
-👉 Register now: [Here!](https://eveeno.com/dmps-researchers-actually-want)
+<!-- 👉 Register now: [Here!](https://eveeno.com/dmps-researchers-actually-want) -->
