@@ -395,6 +395,14 @@ sections:
               <h5>Results:</h5><p><a href="https://rdmo.mardi4nfdi.de" target="_blank" rel="noopener noreferrer">MaRDI RDMO Client</a></p>
             </div>
 
+          <div class="usecase-card" data-service="RDMO Hosting, Template Development" data-cycle="Initialisation phase" data-nfdi="NFDI4Memory">
+              <img src="/images/nfdi4memory_logo.png" alt="NFDI4Memory Logo">
+              <h4>Initialisation phase</h4>        
+              <h5>Goal:</h5><p>Develop and deploy an RDMO service for the NFDI4Memory consortium and support the consortium in developing a DMP template.</p>
+              <h5>Duration:</h5><p>June 2024 - June 2025</p>
+              <h5>Results:</h5><p>Test client ready; productive client in preparation</p>
+            </div>            
+
           <div class="usecase-card" data-service="RDMO Hosting, Template Development, RDMO Integration" data-cycle="Initialisation phase" data-nfdi="NFDI4Earth">
               <img src="/images/nfdi4earth_logo.png" alt="NFDI4Earth Logo">
               <h4>Initialisation phase</h4>
