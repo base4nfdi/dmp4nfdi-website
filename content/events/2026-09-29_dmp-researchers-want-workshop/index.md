@@ -12,8 +12,8 @@ address:
   postcode: '50931'
   country: Germany
 
-summary: 'On September 29 Base4NFDI & DMP4NFDI are running the workshop “What’s in It for Me? DMPs Researchers actually want” from 14:00 to 16:00 at the University of Cologne. The workshop takes place as a satellite event of the Data Stewardship goes Germany Community Meeting.' 
-abstract: 'On September 29 Base4NFDI & DMP4NFDI are running the workshop “What’s in It for Me? DMPs Researchers actually want” from 14:00 to 16:00 at the University of Cologne. The workshop takes place as a satellite event of the Data Stewardship goes Germany Community Meeting and is targeted to RDM professionals and data stewards. It will focus on experiences, barriers and solutions for DMP adoption '
+summary: 'On September 29 Base4NFDI & DMP4NFDI conducted the workshop “What’s in It for Me? DMPs Researchers actually want” from 14:00 to 16:00 at the University of Cologne. The workshop took place as a satellite event of the Data Stewardship goes Germany Community Meeting.' 
+abstract: 'On September 29 Base4NFDI & DMP4NFDI conducted the workshop “What’s in It for Me? DMPs Researchers actually want” from 14:00 to 16:00 at the University of Cologne. The workshop took place as a satellite event of the Data Stewardship goes Germany Community Meeting and was targeted to RDM professionals and data stewards. It focused on experiences, barriers and solutions for DMP adoption '
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -63,7 +63,7 @@ projects:
 
 On 29 September 2026, DMP4NFDI and Base4NFDI hosted the workshop **"What’s in It for Me? DMPs Researchers Actually Want"** from 14:00 to 16:00 at the University of Cologne. The workshop took place as a satellite event of the [Data Stewardship goes Germany Community Meeting](https://fdm.uni-koeln.de/dsgg26/programme) and was aimed at research data management (RDM) professionals and data stewards.
 
-Starting from the question "*What’s in it for me?*", the workshop explored **how Data Management Plans (DMPs) can become more useful, usable, and appealing from a researcher’s perspective**. Participants exchanged experiences on what works when promoting DMPs to researchers, where current approaches fall short, and which barriers hinder adoption, such as low perceived value, usability challenges of DMP tools, or competition with AI-based solutions.
+Starting from the question "*What’s in it for me?*", the workshop explored **how Data Management Plans (DMPs) can become more useful, usable, and appealing from a researcher’s perspective**. Participants exchanged experiences on what works when promoting DMPs to researchers, where current approaches fall short, and which barriers hinder adoption, such as low perceived value or usability challenges of DMP tools.
 
 A short hands-on session with DMP4NFDI and RDMO provided practical insights into current tools and services. During interactive group work, participants discussed concrete ideas for improving DMP adoption, ranging from better templates and researcher-oriented wording to more effective outreach strategies and service design.
 
