@@ -216,7 +216,7 @@ sections:
               <h4>Cycle 1</h4>     
               <h5>Goal:</h5><p>Text+ has created a DMP template in collaboration with participants of the consortium that has been expanded with discipline-specific examples. The compatibility between the Text+ template and the NFDI DMP template on RDMO has been also ensured. The aim of this new incubator project is to raise awareness of the added value of the DMP template in RDMO and to showcase it through the Text+ event series, “Show and Tell: Tools, Services, Projects”. It will also conduct a survey to ask the community about their wishes and needs regarding DMPs and RDMO.</p>
               <h5>Duration:</h5><p>January 2026 - June 2026</p>
-              <h5>Results:</h5><p><a href="https://textplus.hypotheses.org/19898" target="_blank" rel="noopener noreferrer">Survey results: DMPs – What are our community’s needs? (in German)</a></p>
+              <h5>Results:</h5><p><a href=" https://doi.org/10.58079/16u2t" target="_blank" rel="noopener noreferrer">Survey results: DMPs – What are our community’s needs? (in German)</a></p>
             </div>
 
           <div class="usecase-card" data-service="Training & Outreach, Template Development" data-cycle="Cycle 1" data-nfdi="NFDI4Cat">
