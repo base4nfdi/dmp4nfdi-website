@@ -17,8 +17,8 @@ abstract: The RDMO Earth-Sensor will be presented at the 11th Data Science Sympo
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2026-10-09T11:00:00Z
-date_end: 2026-10-09T12:30:00Z
+date: 2026-10-09T00:00:00Z
+date_end: 2026-10-09T00:30:00Z
 all_day: false
 
 # Schedule page publish date (NOT talk date).
