@@ -36,27 +36,28 @@ sections:
       title: Call for incubator projects
       subtitle: |
         
-        Submissions will open on 26 October!
+        <!-- Submissions will open on 26 October! 
         
-
-        <!-- We look forward to your application!     
+        Submissions are now open. -->
         
-        **Deadline**: April 22, 2026 -->
+        We look forward to your application!     
+        
+        **Deadline**: November 23, 2026 
 
         <!--
         Next Call: Autumn 2026
         -->
       text: |
         
-        <!-- Our 2nd call for incubators is **now open**.
+        Our 2nd call for incubators is **now open**.
         
-        To propose an incubator project, please complete the short application template outlining your goals, team, and expected outcomes, and **submit the template by April 22**. -->
+        To propose an incubator project, please complete the short application template outlining your goals, team, and expected outcomes, and **submit the template by November 23**.
         
-        Our **next call for incubator projects** will open on **26 October**. To apply, please complete the short application template outlining your goals, team, and expected outcomes.
+        <!-- Our **next call for incubator projects** will open on **26 October**. To apply, please complete the short application template outlining your goals, team, and expected outcomes. -->
 
         **Download the Template:** <a href="/files/DMP4NFDI-incubator-template-application.odt" target="_blank" rel="noopener">.odt</a> | <a href="/files/DMP4NFDI-incubator-template-application.docx" target="_blank" rel="noopener">.docx</a> | <a href="/files/DMP4NFDI-incubator-template-application.pdf" target="_blank" rel="noopener">.pdf</a>    
         
-        <!-- Send your submissions (PDF) to **[dmp4nfdi@lists.nfdi.de](mailto:dmp4nfdi@lists.nfdi.de)**. -->
+        Send your submissions (PDF) to **[dmp4nfdi@lists.nfdi.de](mailto:dmp4nfdi@lists.nfdi.de)**.
 
         Do you already have ideas for an incubator? <a href="/contact/" target="_blank" rel="noopener">Get in touch</a> in advance to discuss it with us. We’re happy to support you in shaping your project idea!              
          
@@ -208,7 +209,12 @@ sections:
                 <h4>Cycle 1</h4>     
                 <h5>Goal:</h5><p>This incubator project focuses on community outreach and promoting FAIRagro’s domain-specific DMP template. The project also aims to increase the template’s interoperability by dynamically making terminologies available for specific questions. A workshop or training session will be organized to gather user feedback for template improvement and to foster its adoption across the agricultural research community. For terminology implementation the project will gather and contribute requirements to inform technical developments between DMP4NFDI and the TS4NFDI basic service.</p>
                 <h5>Duration:</h5><p>January 2026 - June 2026</p>
-                <h5>Results:</h5><p><a href="https://doi.org/10.5281/zenodo.21393038" target="_blank" rel="noopener noreferrer">Workshop "RDMO in Practice: Building Data Management Plans for Agricultural Research"</a></p>
+                <h5>Results:</h5><p></p>
+                <ul>
+                  <li><a href="https://doi.org/10.5281/zenodo.21393038" target="_blank" rel="noopener noreferrer">Workshop "RDMO in Practice: Building Data Management Plans for Agricultural Research"</a></li>
+                  <li><a href="https://github.com/rdmorganiser/rdmo-plugins-ts4nfdi" target="_blank" rel="noopener noreferrer">RDMO Plugin integrating Terminology Services 4 NFDI (TS4NFDI) API Gateway with RDMO.</a></li>
+              </ul>
+                
             </div>
 
           <div class="usecase-card" data-service="Training & Outreach" data-cycle="Cycle 1" data-nfdi="Text+">
