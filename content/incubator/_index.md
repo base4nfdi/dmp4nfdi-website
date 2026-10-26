@@ -49,7 +49,7 @@ sections:
         -->
       text: |
         
-        Our 2nd call for incubators is **now open**.
+        Our 3rd call for incubators is **now open**.
         
         To propose an incubator project, please complete the short application template outlining your goals, team, and expected outcomes, and **submit the template by November 23**.
         
@@ -213,8 +213,7 @@ sections:
                 <ul>
                   <li><a href="https://doi.org/10.5281/zenodo.21393038" target="_blank" rel="noopener noreferrer">Workshop "RDMO in Practice: Building Data Management Plans for Agricultural Research"</a></li>
                   <li><a href="https://github.com/rdmorganiser/rdmo-plugins-ts4nfdi" target="_blank" rel="noopener noreferrer">RDMO Plugin integrating Terminology Services 4 NFDI (TS4NFDI) API Gateway with RDMO.</a></li>
-              </ul>
-                
+                </ul>    
             </div>
 
           <div class="usecase-card" data-service="Training & Outreach" data-cycle="Cycle 1" data-nfdi="Text+">
