@@ -224,7 +224,7 @@ sections:
               <h5>Results:</h5><p><a href=" https://doi.org/10.58079/16u2t" target="_blank" rel="noopener noreferrer">Survey results: DMPs – What are our community’s needs? (in German)</a></p>
             </div>
 
-          <div class="usecase-card" data-service="Training & Outreach, Template Development" data-cycle="Cycle 1" data-nfdi="NFDI4Cat">
+          <div class="usecase-card" data-service="Template Development" data-cycle="Cycle 1" data-nfdi="NFDI4Cat">
               <img src="/images/nfdi4cat_logo.png" alt="NFDI4Cat Logo">
               <h4>Cycle 1</h4>     
               <h5>Goal:</h5><p>NFDI4Cat is developing a discipline-specific DMP template that covers catalysis-related aspects like complex analysis, catalyst testing workflows and cooperation with industry. The important aspects of RDM in catalysis at the status quo, based on requirement analysis, will be addressed by the DMP template. The DMP template will be released to collect further community feedback and update the template based on this iterative workflow and further ongoing developments in RDM.</p>
