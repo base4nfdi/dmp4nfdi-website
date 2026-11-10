@@ -12,7 +12,7 @@ location: online via Zoom
 #  postcode: '50931'
 #  country: Germany
 
-summary: 'Join our DMP4NFDI Roadshow on 27 October at 11:00 AM to explore our services for NFDI consortia and incubator projects'
+summary: 'DMP4NFDI Roadshow on 27 October at 11:00 AM to explore our services for NFDI consortia and incubator projects'
 abstract: 'If you want to learn how our incubator projects are structured, what your NFDI consortium needs to provide and what could be the next step to establish data and software management services for your community, join our DMP4NFDI Roadshow on 27 October at 11:00'
 
 # Talk start and end times.
@@ -69,9 +69,6 @@ We will introduce our four service areas and show how they can translate into co
 
 💻 Where: **Online via Zoom**
 
-👉 Register for our Roadshow: [Here!](https://tu-darmstadt.zoom-x.de/meeting/register/2Q1i7ZD7TH-5NuIaZwucFg) 
+<!--👉 Register for our Roadshow: [Here!](https://tu-darmstadt.zoom-x.de/meeting/register/2Q1i7ZD7TH-5NuIaZwucFg) -->
 
 The roadshow also marks the **opening of the submission call for the 3rd DMP4NFDI Incubator cycle**. The call is open from **26 October to 23 November 2026**. The incubator cycle will run from **January to June 2027**. You can find the details <a href="/incubator/#call" target="_blank" rel="noopener noreferrer">here</a>.
-
-<!-- 👉 Register now: [Here!](https://tu-darmstadt.zoom-x.de/meeting/register/oBP9abZOTUWtMBgKQq_DRQ) -->
-

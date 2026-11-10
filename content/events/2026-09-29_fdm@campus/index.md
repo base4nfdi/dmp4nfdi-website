@@ -12,8 +12,8 @@ address:
   postcode: '37073'
   country: Germany
 
-summary: DMP4NFDI will participate in the *FDM@Campus 2026* presenting the poster “Software Management Plans for NFDI”.
-abstract: 'DMP4NFDI will participate in the FDM@Campus 2026 presenting the poster “Software Management Plans for NFDI”. Visitant will learn about our advances towards an NFDI Software Management Plan (SMP), in particular a draft SMP and its integration into data management plans.'
+summary: DMP4NFDI participated in the *FDM@Campus 2026* presenting the poster “Software Management Plans for NFDI”.
+abstract: 'DMP4NFDI participated in the FDM@Campus 2026 presenting the poster “Software Management Plans for NFDI”. Visitant learned about our advances towards an NFDI Software Management Plan (SMP), in particular a draft SMP and its integration into data management plans.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -61,14 +61,14 @@ projects:
 ---
 {{< figure src="fdm-at-campus.jpg" alt="Image of the FDM@Campus 2026" caption="Image credit: [FDM@Campus](https://events.gwdg.de/event/1353/overview)" >}}
 
-DMP4NFDI will participate in FDM@Campus 2026 with the poster “Software Management Plans for NFDI”. The event is hosted by the Göttingen eResearch Alliance and will take place **from 29 September to 1 October 2026** in Göttingen. 
+DMP4NFDI participated in FDM@Campus 2026 with the poster “Software Management Plans for NFDI”. The event was hosted by the Göttingen eResearch Alliance and took place **from 29 September to 1 October 2026** in Göttingen. 
 
-Currently, DMP4NFDI is integrating Software Management Plans (SMPs) so that research software created as part of a research project is also covered. In this poster, we will present our progress towards an NFDI SMP, in particular a draft SMP and its integration into data management plans. We will also provide opportunities for visitors to give feedback so that our SMP can be useful for a broad public.
+Currently, DMP4NFDI is integrating Software Management Plans (SMPs) so that research software created as part of a research project is also covered. In this poster, we presented our progress towards an NFDI SMP, in particular a draft SMP and its integration into data management plans. We also provided opportunities for visitors to give feedback so that our SMP can be useful for a broad public.
 
-We look forward to engaging with researchers and research support professionals and exchanging ideas on practical approaches to research data and software management.
+<!-- We look forward to engaging with researchers and research support professionals and exchanging ideas on practical approaches to research data and software management. -->
 
-FDM@Campus will take place in the [SUB Historisches Gebäude, Alfred-Hessel-Saal](https://events.gwdg.de/event/1353/overview).
+FDM@Campus took place in the [SUB Historisches Gebäude, Alfred-Hessel-Saal](https://events.gwdg.de/event/1353/overview).
 
-👉 Register now: [Here!](https://events.gwdg.de/event/1353/registrations/1105/)
+<!-- 👉 Register now: [Here!](https://events.gwdg.de/event/1353/registrations/1105/) -->
 
 Further details can be found on the [event website](https://events.gwdg.de/event/1353/timetable/#20260929).

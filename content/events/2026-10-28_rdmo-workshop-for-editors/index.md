@@ -12,8 +12,8 @@ location: online via Zoom
 #  postcode: '50931'
 #  country: Germany
 
-summary: 'DMP4NFDI will hold the hands-on workshop “RDMO for Editors” on 28–29 October 2026, from 9:00 AM to 12:30 PM (CET), online via Zoom.'
-abstract: 'DMP4NFDI conducts the hands-on workshop “RDMO for Editors” on 28–29 October 2026, online via Zoom. Participants will learn how to navigate the RDMO management interface, create new catalogs, and use the NFDI Template Framework to build interoperable and standardised catalogs for their communities.'
+summary: 'DMP4NFDI held the hands-on workshop “RDMO for Editors” on 28–29 October 2026, from 9:00 AM to 12:30 PM (CET), online via Zoom.'
+abstract: 'DMP4NFDI conducted the hands-on workshop “RDMO for Editors” on 28–29 October 2026, online via Zoom. Participants learned how to navigate the RDMO management interface, create new catalogs, and use the NFDI Template Framework to build interoperable and standardised catalogs for their communities.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -61,7 +61,7 @@ projects:
 ---
 {{< figure src="rdmo-workshop-oct-2026.png" alt="Image showing the workshop title and schedule" caption="Image credit: DMP4NFDI" >}}
 
-DMP4NFDI will hold the hands-on workshop **RDMO for Editors on 28–29 October 2026**. Participants will gain practical experience in working with [RDMO](/about/rdmo/) and the [NFDI DMP Template](/services/template-development//#nfdi-dmp-template-catalog-in-rdmo/).
+DMP4NFDI held the hands-on workshop **RDMO for Editors on 28–29 October 2026**. Participants gained practical experience in working with [RDMO](/about/rdmo/) and the [NFDI DMP Template](/services/template-development//#nfdi-dmp-template-catalog-in-rdmo/).
 
 Based on our developed [Train-the-Trainer concept for DMPs and RDMO](https://doi.org/10.5281/zenodo.15771036), this interactive workshop guides participants in how to:
 - Navigate the RDMO management interface
@@ -83,6 +83,4 @@ Participants can choose their level and attend one or both days:
 
 💻 Where: **Online via Zoom**
 
-👉 Register now: [Here!](https://tu-darmstadt.zoom.us/meeting/register/MrPezdXiRuW8dFeMQvTcFQ#/registration) 
-
-<!-- 👉 Register now: [Here!](https://tu-darmstadt.zoom-x.de/meeting/register/oBP9abZOTUWtMBgKQq_DRQ) -->
+<!-- 👉 Register now: [Here!](https://tu-darmstadt.zoom.us/meeting/register/MrPezdXiRuW8dFeMQvTcFQ#/registration) -->
