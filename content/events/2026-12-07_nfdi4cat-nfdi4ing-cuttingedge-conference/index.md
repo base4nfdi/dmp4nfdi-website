@@ -65,7 +65,7 @@ projects:
 
 **DMP4NFDI will be present at the NFDI4Cat & NFDI4ING #CuttingEdge Conference 2026!**
 
-We will present the poster **Learning from Each Other: How DMP4NFDI Incubator Projects with NFDI4Cat and NFDI4ING foster interoperable data management plans** showing how two incubator projects, NFDI4Cat and NFDI4ING, developed discipline-specific DMP templates as RDMO catalogs while maintaining interoperability, and balancing community needs with shared standards. 
+We will present the poster "**Learning from Each Other: How DMP4NFDI Incubator Projects with NFDI4Cat and NFDI4ING foster interoperable data management plans**". It shows how two incubator projects, NFDI4Cat and NFDI4ING, developed discipline-specific DMP templates as RDMO catalogs while maintaining interoperability, and balancing community needs with shared standards. 
 
 ⏰ When: **December 07-09, 2026**
 
