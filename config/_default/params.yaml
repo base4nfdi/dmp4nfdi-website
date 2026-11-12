@@ -51,7 +51,7 @@ header:
 
 footer:
   about: '<b>This page</b><br>
-    Find this page on <a href="https://github.com/base4nfdi/website-template-hugo" target="_blank" rel="noopener noreferrer">
+    Find this page on <a href="https://github.com/base4nfdi/dmp4nfdi-website" target="_blank" rel="noopener noreferrer">
       <i class="fab fa-github fa-lg text-white"></i>
     </a>'
   mission: '<b>Base4NFDI</b><br>
