@@ -130,7 +130,13 @@ sections:
               <img src="/images/rdmo-nfdi4earth.png" alt="NFDI4Earth RDMO">
             </a>
             <strong>NFDI4Earth</strong>
-          </div>                                 
+          </div>
+          <div class="hosting-tile">
+            <a href="https://rdmo.nfdi4memory.de/" target="_blank" rel="noopener noreferrer">
+              <img src="/images/rdmo-nfdi4memory.png" alt="NFDI4Memory RDMO">
+            </a>
+            <strong>NFDI4Memory</strong>
+          </div>                                     
         </div>
         
     design:

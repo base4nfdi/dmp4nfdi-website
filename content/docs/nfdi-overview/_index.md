@@ -165,7 +165,7 @@ We work with NFDI consortia to develop and enhance data and software management 
 
   <tr>
     <td>NFDI4Memory</td>
-    <td>🟢*</td>
+    <td><a href="https://rdmo.nfdi4memory.de/" target="_blank" rel="noopener noreferrer">✅</a></td>
     <td>⚪</td>
     <td><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/NFDI_catalogs/NFDI4Memory" target="_blank" rel="noopener noreferrer">✅</a></td>
     <td>⚪</td>
@@ -184,7 +184,7 @@ We work with NFDI consortia to develop and enhance data and software management 
     <td>⚪</td>
     <td>⚪</td>
     <td><a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/NFDI_catalogs/Text%2B" target="_blank" rel="noopener noreferrer">✅</a></td>
-    <td>🟡</td>
+    <td><a href="https://doi.org/10.58079/16u2t" target="_blank" rel="noopener noreferrer">✅</a></td>
   </tr>
 
   <tr class="text-muted">
@@ -298,7 +298,7 @@ We work with NFDI consortia to develop and enhance data and software management 
     <td>⚪</td>
     <td>⚪</td>
     <td>🟡</td>
-    <td>🟡</td>
+    <td>⚪</td>
   </tr>
 
   <tr>
@@ -400,6 +400,11 @@ Do you need help creating Data Management Plans (DMPs)? Explore DMP services ava
     <p><strong>NFDI4Culture</strong></p>
     <p><a href="https://nfdi4culture.de/services/details/research-data-management-organizer.html" target="_blank" rel="noopener noreferrer">DMP Services for Cultural Research </a></p>
   </div>
+  <div class="service-tile">
+    <img src="/images/nfdi4memory_logo.png" alt="NFDI4Memory Logo">
+    <p><strong>NFDI4Memory</strong></p>
+    <p><a href="https://4memory.de/dienste-ressourcen/dienstportfolio/detail/dmp4memory/" target="_blank" rel="noopener noreferrer">DMP4Memory - DMP for historically oriented humanities</a></p>
+  </div>  
 </div>
 
 ### Life Sciences
