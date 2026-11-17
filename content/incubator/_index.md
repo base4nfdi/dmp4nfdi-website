@@ -16,7 +16,7 @@ sections:
 
         An incubator project is a short-term engagement (3–6 months) with a clearly defined goal. Typical focus areas include: 
                 
-         - **RDMO hosting**  
+         - **RDMO hosting for NFDI consortia**  
 
          - **DMP and SMP template development**  
 
